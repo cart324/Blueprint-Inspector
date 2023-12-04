@@ -17,7 +17,7 @@ This is a bot that automatically checks whether From the Depth’s blueprint is 
 List available for inspection
 + ship price
 + ship fire power
-+ Van block inspection (you should wrote down the van list yourself) (don't worry, it's easy)
++ ban block inspection (you should wrote down the ban list yourself) (don't worry, it's easy)
 + Counting the number of specific blocks
 + Count the number of sub-objects
 + Counting the number of drones
