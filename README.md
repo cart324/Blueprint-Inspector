@@ -16,11 +16,11 @@ This is a bot that automatically checks whether From the Depth’s blueprint is 
 
 List available for inspection
 + ship price
-+ ship fire power
++ ship firepower
 + ban block inspection (you should wrote down the ban list yourself) (don't worry, it's easy)
-+ Counting the number of specific blocks
++ Count the number of specific blocks
 + Count the number of sub-objects
-+ Counting the number of drones
-+ Counting (I don't know why there's a bug)
++ Count the number of drones
++ Count total cells (I don't know why there's a bug)
 + +All items listed above can be individually inspected for drones (excluding price)
 + +In addition, it is assumed that it is possible to use the information written in the window that appears by pressing the V key.
