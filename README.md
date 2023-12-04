@@ -1,5 +1,6 @@
 # Blueprint-Inspector
 프뎊 블루프린트 자동 검수용 봇입니다.
+
 This is a bot that automatically checks whether From the Depth’s blueprint is suitable for the competition.
 
 검수 가능 목록
