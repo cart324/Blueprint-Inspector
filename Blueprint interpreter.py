@@ -30,7 +30,7 @@ paths_list = [["Blueprint-Inspector/cogs", "cogs"], ["Blueprint-Inspector/data",
 @client.command()
 async def restart(ctx):
     try:
-        await ctx.respond('봇이 재시작됩니다.')
+        await ctx.send('봇이 재시작됩니다.')
         if os.path.exists("Blueprint-Inspector"):
             shutil.rmtree("Blueprint-Inspector", onerror=on_rm_error)
         os.system("git clone https://github.com/cart324/Blueprint-Inspector")
@@ -40,7 +40,7 @@ async def restart(ctx):
                     if os.path.exists(paths[1] + "/" + file_name):
                         os.remove(paths[1] + "/" + file_name)
                     shutil.move(paths[0] + "/" + file_name, paths[1] + "/" + file_name)
-        shutil.rmtree("here-is-your-name", onerror=on_rm_error)
+        shutil.rmtree("Blueprint-Inspector", onerror=on_rm_error)
         os.execl(sys.executable, sys.executable, *sys.argv)
     except Exception:
         error_log = traceback.format_exc(limit=None, chain=True)
