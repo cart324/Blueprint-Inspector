@@ -1,0 +1,7318 @@
+{
+	"f675b19a-4a67-41de-bd60-651bac2cfe17": {
+		"Name": "Alloy Plate",
+		"Cell": 1
+	},
+	"46d84cec-6e14-4028-8aa4-e38ee045af77": {
+		"Name": "Anchor Heavy",
+		"Cell": 4
+	},
+	"40f703cc-4dd4-42dd-864e-b10d9299a059": {
+		"Name": "Anchor LWT",
+		"Cell": 2
+	},
+	"51f8afc5-b071-4639-9f96-693b952fdf80": {
+		"Name": "Applique Panel",
+		"Cell": 1
+	},
+	"438b4494-6746-4223-93a1-3a75b08bd5b6": {
+		"Name": "Cargo Container",
+		"Cell": 54
+	},
+	"e3dcb476-5dae-4d64-ad60-e25b69009ab8": {
+		"Name": "Chain Large",
+		"Cell": 1
+	},
+	"24013612-7711-4f1a-8e5a-d9c540aa4884": {
+		"Name": "Coal Pile Large",
+		"Cell": 12
+	},
+	"0c0d49f3-83c0-41db-85f1-e7c27390cbdb": {
+		"Name": "Coal Pile",
+		"Cell": 4
+	},
+	"6f2ebbbc-6f9c-499e-8850-7725712e4cf2": {
+		"Name": "Door Bulkhead Alloy",
+		"Cell": 2
+	},
+	"9ea523b6-af69-4809-b5e4-88351099b2dc": {
+		"Name": "Door Bulkhead Metal",
+		"Cell": 2
+	},
+	"83e3a5e9-cfb8-4a0c-9ced-6f53822cd2f1": {
+		"Name": "Door Hatch Alloy",
+		"Cell": 1
+	},
+	"a8fcb3c2-49bb-4a0c-970e-2c200f9c6c0d": {
+		"Name": "Door Hatch Metal",
+		"Cell": 1
+	},
+	"6c2979f0-365a-4e9c-88ee-7b9d931409cb": {
+		"Name": "Ladder",
+		"Cell": 1
+	},
+	"c613bc5d-5018-4961-bf19-d3e2ec694b59": {
+		"Name": "Mannequin",
+		"Cell": 2
+	},
+	"ae37018a-2b07-422c-b281-87f10fb95d3c": {
+		"Name": "Metal Plate",
+		"Cell": 1
+	},
+	"4c3752d8-5a61-46e7-bca6-f48b3c52f6be": {
+		"Name": "Mimic: Cone",
+		"Cell": 1
+	},
+	"49298135-4e24-4feb-93c3-bdff67e36be9": {
+		"Name": "Mimic: Cube",
+		"Cell": 1
+	},
+	"a27556f3-78a9-4a34-8adc-c31f812aed4f": {
+		"Name": "Mimic: Empty",
+		"Cell": 1
+	},
+	"7490e664-d2f5-4da2-bdd1-1c347cdff129": {
+		"Name": "Mimic: Hexagon",
+		"Cell": 1
+	},
+	"c91a1b6c-33a3-497c-ac42-9586cd13933e": {
+		"Name": "Mimic: Pentagon",
+		"Cell": 1
+	},
+	"48f11f4d-8321-4778-ab6c-651656890b23": {
+		"Name": "Mimic: Sphere",
+		"Cell": 1
+	},
+	"eb892953-0779-4a27-80b4-c84b8607b6d6": {
+		"Name": "Mimic: Torus",
+		"Cell": 1
+	},
+	"7d0079d8-48f8-4e04-8568-38af64241440": {
+		"Name": "Mimic: Tube",
+		"Cell": 1
+	},
+	"0fbfae3b-76ac-43f4-be8f-36739389dac7": {
+		"Name": "Porthole Alloy",
+		"Cell": 1
+	},
+	"534b8fe0-1184-4191-a249-d78ba2df3332": {
+		"Name": "Porthole Metal",
+		"Cell": 1
+	},
+	"d0719f9b-28c3-45a2-9896-bbc4f9e1a602": {
+		"Name": "Railing L TA 1m M2",
+		"Cell": 2
+	},
+	"6a96b58b-862c-4bc2-8701-3340027f061e": {
+		"Name": "Railing R TA 1m M2",
+		"Cell": 2
+	},
+	"9f59f0aa-4a84-49d3-ac0b-1f65b3308324": {
+		"Name": "Railing TA 1m M1",
+		"Cell": 2
+	},
+	"d92c5b73-d0fd-423e-98fc-76b1cd91b524": {
+		"Name": "Reinforced Wood 2m",
+		"Cell": 2
+	},
+	"50bdd099-dd8d-43f8-b43d-dd14c60be096": {
+		"Name": "Reinforced Wood 3m",
+		"Cell": 3
+	},
+	"6e2afb0f-97b6-4017-b14c-158146da6854": {
+		"Name": "Reinforced Wood 4m",
+		"Cell": 4
+	},
+	"2f7f61ae-79f1-4139-a790-3f2c26bda4e4": {
+		"Name": "Reinforced Wood",
+		"Cell": 1
+	},
+	"4dc97284-74c1-4d5c-9673-f3209da7e9f0": {
+		"Name": "Stacked Stairs",
+		"Cell": 2
+	},
+	"ce77cd15-ad63-425f-ab0c-28b16584d5a1": {
+		"Name": "Stairs",
+		"Cell": 1
+	},
+	"31e2129c-ac20-4266-8efd-b07f6200a434": {
+		"Name": "test item",
+		"Cell": 1
+	},
+	"8bd20877-417f-4094-ab24-1ebae4d73f85": {
+		"Name": "Truss 1m",
+		"Cell": 1
+	},
+	"5ef97d26-1196-4b1a-ba1d-fd539c26b684": {
+		"Name": "AI Breadboard",
+		"Cell": 1
+	},
+	"2b0444a1-9ec4-4c01-804e-a6cf07cb176d": {
+		"Name": "AI Card Slot (this version now obsolete)",
+		"Cell": 1
+	},
+	"edd65760-896f-4f6a-ba8c-eb2b072635f4": {
+		"Name": "AI Card Slot",
+		"Cell": 1
+	},
+	"8ccc8d39-5a97-4cb2-b708-d3ffefd5dc19": {
+		"Name": "AI Connector (5 way)",
+		"Cell": 1
+	},
+	"f29b1372-f4f3-4305-aa85-5fe214361fb7": {
+		"Name": "AI Connector (6 way)",
+		"Cell": 1
+	},
+	"26a604f0-071c-49ca-8a0e-e1d9c959b1c5": {
+		"Name": "AI Mainframe",
+		"Cell": 1
+	},
+	"9d2ff3d6-abc2-4378-b47c-cad42d4af1bc": {
+		"Name": "Aim point selection",
+		"Cell": 1
+	},
+	"bba933c2-d3a8-4eff-9615-70c197df8a8f": {
+		"Name": "AIO CIWS controller",
+		"Cell": 1
+	},
+	"f1070c58-4f5d-40c2-b5ed-8c08673d71a5": {
+		"Name": "AIO LWC",
+		"Cell": 1
+	},
+	"23b1fef3-0556-4a51-88fc-d4a223c3e934": {
+		"Name": "Anti Missile Cannon Controller",
+		"Cell": 1
+	},
+	"57cd27b4-7876-41a7-8030-d5099d86bc0a": {
+		"Name": "Behaviours & Additional Routines ",
+		"Cell": 1
+	},
+	"c0577484-fdc7-43d4-bb51-a4d3fc378141": {
+		"Name": "Bombing run airplane AI",
+		"Cell": 1
+	},
+	"8af05ae6-7876-41a7-8030-d5099d86bc0a": {
+		"Name": "Bombing run hovercraft AI",
+		"Cell": 1
+	},
+	"7aacb57c-355d-4345-9d35-b34850058753": {
+		"Name": "Build conduit",
+		"Cell": 1
+	},
+	"c68d0ed7-66d1-42cd-974e-01aa0f36c847": {
+		"Name": "Camera 360",
+		"Cell": 1
+	},
+	"a3840b74-2a1a-440e-b5be-6dded6aca7c0": {
+		"Name": "Camera 90 Alternative",
+		"Cell": 1
+	},
+	"0d1d97b5-3c99-45bf-8a5d-e7a624b3ddb6": {
+		"Name": "Camera 90",
+		"Cell": 1
+	},
+	"62e2b663-c26f-461e-ae26-43068010f993": {
+		"Name": "Camera Gimbal Tracker",
+		"Cell": 1
+	},
+	"aea2161d-ff43-4b10-ac0e-933fb5809faa": {
+		"Name": "(CARD) Aerial AI",
+		"Cell": 1
+	},
+	"df687d3b-ad26-49bb-86be-ed694e880252": {
+		"Name": "(CARD) Fortress AI",
+		"Cell": 1
+	},
+	"77642c0c-277f-4a7d-9d08-f3f161d8e69c": {
+		"Name": "(CARD) Land AI",
+		"Cell": 1
+	},
+	"6ae7c977-3f62-414e-98aa-5dc0da89b376": {
+		"Name": "(CARD) Naval AI",
+		"Cell": 1
+	},
+	"87c616fa-b498-4858-8439-68411a0a62e3": {
+		"Name": "(CARD) Patrol",
+		"Cell": 1
+	},
+	"6d26fe2d-c9ce-4d86-b26f-78afbd22b5b6": {
+		"Name": "(CARD) Propulsion Balancing",
+		"Cell": 1
+	},
+	"f3a1dc17-764c-4435-a83b-17914d5dac6b": {
+		"Name": "(CARD) sailing",
+		"Cell": 1
+	},
+	"00d31a4d-d523-43f1-b5c2-f96b33a69a99": {
+		"Name": "(CARD) Tracker Target Association",
+		"Cell": 1
+	},
+	"cb04f082-b5d9-411c-86da-010123dfb5bf": {
+		"Name": "(CARD) water start",
+		"Cell": 1
+	},
+	"55ac222d-69c7-4a14-8bab-39432308ab0b": {
+		"Name": "Circling airplane AI",
+		"Cell": 1
+	},
+	"79ef49d5-7876-41a7-8030-d5099d86bc0a": {
+		"Name": "Circling hovercraft AI",
+		"Cell": 1
+	},
+	"9f418d0a-18b7-4e53-ac8b-acb49270fd9a": {
+		"Name": "Circling ship AI",
+		"Cell": 1
+	},
+	"63889002-e666-4ff4-9cc1-cca01a8de2ce": {
+		"Name": "Circling tank AI",
+		"Cell": 1
+	},
+	"052432ff-4709-4cfc-b3b6-82a34f6757ca": {
+		"Name": "Enemy Simulator",
+		"Cell": 1
+	},
+	"ddee4f0c-e9de-4a73-b87f-c34d674450cb": {
+		"Name": "Failsafe",
+		"Cell": 1
+	},
+	"fa3b5219-d4bf-401a-a105-c0332d8496d2": {
+		"Name": "Fire pattern controller",
+		"Cell": 1
+	},
+	"930ab796-f1c7-47f0-bf04-0ef6ae44006b": {
+		"Name": "Flag post",
+		"Cell": 1
+	},
+	"68de38c4-7876-41a7-8030-d5099d86bc0a": {
+		"Name": "Frontal hovercraft AI",
+		"Cell": 1
+	},
+	"3ed4d2a4-62ce-4807-b516-6da685804e1e": {
+		"Name": "General Purpose Processing Card",
+		"Cell": 1
+	},
+	"5292dcab-a674-467a-a21a-702d2c2a152b": {
+		"Name": "Inter vehicle Transmitter",
+		"Cell": 1
+	},
+	"60c591be-98fa-4844-b55b-6d55bc16493e": {
+		"Name": "IR Camera 360",
+		"Cell": 2
+	},
+	"f003eae6-6818-4da9-a1d0-6e4f1677d49f": {
+		"Name": "IR Camera 90",
+		"Cell": 2
+	},
+	"a745d992-b62f-4014-a524-9e5953ccffd3": {
+		"Name": "IR Camera Gimbal Tracker",
+		"Cell": 1
+	},
+	"1bb2d71d-cd5f-4a23-844b-8005dec7bd5c": {
+		"Name": "Laser Range finder Tracker",
+		"Cell": 1
+	},
+	"cdabf95e-e712-4a93-8214-79d2d9a809a6": {
+		"Name": "Laser warner",
+		"Cell": 1
+	},
+	"ef545d00-c22d-4eed-bd76-74d6432e2974": {
+		"Name": "Local Weapon Controller",
+		"Cell": 1
+	},
+	"742c7d8c-d03a-49d8-bc71-46f5f828bf72": {
+		"Name": "Lua Snooper",
+		"Cell": 1
+	},
+	"1725c9ed-29fd-438d-97f6-8f645a1865d4": {
+		"Name": "Munition warner",
+		"Cell": 1
+	},
+	"c2dfcb78-dd5b-4406-8c95-0f884c4d89e1": {
+		"Name": "Passive Radar 360",
+		"Cell": 1
+	},
+	"e00c4398-a6e7-4330-813a-b3c3ac8da3d8": {
+		"Name": "Passive Sonar 360",
+		"Cell": 1
+	},
+	"42033da8-485e-43be-99db-ffe2492767b4": {
+		"Name": "PID",
+		"Cell": 1
+	},
+	"10a165d1-1333-4c57-a942-b857542c4b45": {
+		"Name": "Radar 360",
+		"Cell": 1
+	},
+	"ccb4fd67-d791-4b1f-80cb-42346313254e": {
+		"Name": "Radar 90",
+		"Cell": 1
+	},
+	"a6edccd7-3ec8-419c-9405-703e8b4bdc8b": {
+		"Name": "Radar Gimbal Tracker",
+		"Cell": 1
+	},
+	"16052cd0-6fb9-4c1f-bfcb-2574d21434f0": {
+		"Name": "Range Finder (5m) armour",
+		"Cell": 5
+	},
+	"f8594608-c8c2-4544-94cb-8c0c78fbb4b0": {
+		"Name": "Range Finder (5m)",
+		"Cell": 5
+	},
+	"3e0a0bd7-7805-4e8f-836e-0cbcfee512af": {
+		"Name": "Retroreflection Sensor 360",
+		"Cell": 1
+	},
+	"d3cc2b19-daee-432d-9aff-45fc63d24fca": {
+		"Name": "Sensor scrambler ECM",
+		"Cell": 1
+	},
+	"956b9974-b044-494e-b5e4-d1cdbc5d5327": {
+		"Name": "Smoke dispenser",
+		"Cell": 1
+	},
+	"3deb411a-953b-45a7-955a-35a96ef4e86b": {
+		"Name": "Sonar 360",
+		"Cell": 1
+	},
+	"f6d7596c-e800-41e3-9076-077fda224aa1": {
+		"Name": "Sonar 90",
+		"Cell": 1
+	},
+	"2c557c38-4136-436a-bae2-c5cd1102690c": {
+		"Name": "Target Prioritisation",
+		"Cell": 1
+	},
+	"9de26959-6d51-4a6e-b575-ec47e6bdafaf": {
+		"Name": "Telescope Camera Gimbal Tracker",
+		"Cell": 2
+	},
+	"8e9327fb-66d3-45ea-af24-d5f9d60e2cdc": {
+		"Name": "Tracking Computer",
+		"Cell": 1
+	},
+	"e6bb2b09-daee-432d-9aff-45fc63d24fca": {
+		"Name": "Wireless Receiver",
+		"Cell": 1
+	},
+	"4b334c3f-aafd-440c-9c1f-02a98fd18ab5": {
+		"Name": "Wireless Snooper",
+		"Cell": 1
+	},
+	"a56e0dcf-94e4-48a0-b8b9-5e33e0ab69cf": {
+		"Name": "Wireless Transmitter",
+		"Cell": 1
+	},
+	"75a78e48-0848-45ee-9df2-e2b328c1933d": {
+		"Name": "Aero Elevator (pitch only)",
+		"Cell": 1
+	},
+	"275b820d-dd55-49aa-9b09-48b58e8ab5da": {
+		"Name": "Aero Rudder (yaw only)",
+		"Cell": 1
+	},
+	"c4e23d98-fbde-449e-823f-872004cadc7a": {
+		"Name": "Aileron",
+		"Cell": 1
+	},
+	"3b077435-2652-498b-8356-114d14dcd1dd": {
+		"Name": "Air intake duct corner",
+		"Cell": 1
+	},
+	"c0195e03-fdca-46bc-8a90-07591b327835": {
+		"Name": "Air intake duct",
+		"Cell": 1
+	},
+	"49a3ae83-4c71-4b9b-b6f3-641ec95105b1": {
+		"Name": "Air intake hull duct",
+		"Cell": 1
+	},
+	"d93e3937-d015-44bc-95d4-84a4d264de32": {
+		"Name": "Alloy duct (1x1)",
+		"Cell": 1
+	},
+	"5b37e54b-096b-4e10-9730-4f8823c596ff": {
+		"Name": "Alloy duct (3x3)",
+		"Cell": 9
+	},
+	"765df0b8-b698-40b1-8361-37882e72b07c": {
+		"Name": "Alloy duct (5x5)",
+		"Cell": 25
+	},
+	"23dc456a-cfc7-4373-a1a1-3eb73d1ab7b7": {
+		"Name": "Alloy duct (7x7)",
+		"Cell": 49
+	},
+	"862712ab-6534-45e2-ad89-1d8eb0fd26de": {
+		"Name": "Dedicated heliblade extension",
+		"Cell": 1
+	},
+	"6f0efd3e-c241-437c-b25f-92dc1e83332c": {
+		"Name": "Dedicated heliblade pole extender",
+		"Cell": 1
+	},
+	"564a75cd-8d7c-469b-a4b3-053d772b7d9d": {
+		"Name": "Dedicated heliblade spinner",
+		"Cell": 1
+	},
+	"5e236eef-c91e-45bc-afc4-bff4d133ac14": {
+		"Name": "Duct (3x3)",
+		"Cell": 9
+	},
+	"e7fc9ece-d2f4-4671-a3e8-77196601cf4e": {
+		"Name": "Duct (5x5)",
+		"Cell": 25
+	},
+	"52b78a75-115a-4962-96f1-35177b46ba93": {
+		"Name": "Duct (7x7)",
+		"Cell": 49
+	},
+	"d898f953-9f27-484a-ba41-ce7ada3f047c": {
+		"Name": "Ducted air intake front",
+		"Cell": 9
+	},
+	"576a1ec8-9e31-441e-a8d3-83f3b12af97a": {
+		"Name": "Ducted air intake side",
+		"Cell": 9
+	},
+	"8a075da2-c74c-4129-8c89-a8c2dba21a45": {
+		"Name": "Ducted air intake",
+		"Cell": 9
+	},
+	"655b4a78-f193-4da9-82bd-6f0c9b4560f1": {
+		"Name": "Front air duct intake",
+		"Cell": 1
+	},
+	"78804e2d-8086-4e40-accb-0b5719be91bf": {
+		"Name": "Heavy armour duct (1x1)",
+		"Cell": 1
+	},
+	"6071db06-cc2a-4692-8914-bf5c2df16928": {
+		"Name": "Heavy armour duct (3x3)",
+		"Cell": 9
+	},
+	"e238669c-ef02-4e6d-847e-3397f1a5b30d": {
+		"Name": "Heavy armour duct (5x5)",
+		"Cell": 25
+	},
+	"9d6a7a27-b3d1-4579-8c6b-20c20d535d04": {
+		"Name": "Heavy armour duct (7x7)",
+		"Cell": 49
+	},
+	"7fea28f0-eb30-4700-a592-c3eb1ffc7b0e": {
+		"Name": "Helicopter blade (unstabilised)",
+		"Cell": 1
+	},
+	"2a508eb8-cc74-43bb-9643-afd0c518d09f": {
+		"Name": "Helicopter Blade (Upside down!!)",
+		"Cell": 1
+	},
+	"d15a334b-d951-4991-89f0-cdf2599a9699": {
+		"Name": "Helicopter blade",
+		"Cell": 1
+	},
+	"0d466e68-7a97-4e27-a73c-6bda4010f7e7": {
+		"Name": "Helium Pump",
+		"Cell": 1
+	},
+	"7475c363-fa60-4348-a2e9-f3e2329fc20a": {
+		"Name": "Hot air balloon Deployer",
+		"Cell": 1
+	},
+	"ad965629-9b13-448b-ab7a-7e69afad2fb4": {
+		"Name": "Hover Jet",
+		"Cell": 1
+	},
+	"0083a83e-a716-4c67-aa49-d14fbcd00248": {
+		"Name": "Huge Ion Thruster circular",
+		"Cell": 9
+	},
+	"02ea8321-aaff-4d03-8c50-20c241a82632": {
+		"Name": "Huge Ion Thruster",
+		"Cell": 9
+	},
+	"50626002-c1bc-41a3-ade6-ee83ba4c548a": {
+		"Name": "Huge Jet Engine flush",
+		"Cell": 9
+	},
+	"b74c27c0-081a-45b7-8e81-cdd84ff33490": {
+		"Name": "Huge Jet Engine",
+		"Cell": 9
+	},
+	"1d206e3b-4641-4002-9d3d-940036154408": {
+		"Name": "Ion Thruster circular",
+		"Cell": 1
+	},
+	"2718d6ad-07a2-4d98-bd7e-9cdb2b3f70db": {
+		"Name": "Ion Thruster",
+		"Cell": 1
+	},
+	"bbe92c52-4eb0-44e7-a1cf-119266d3d8e5": {
+		"Name": "Jet combuster hull",
+		"Cell": 9
+	},
+	"fdab4d92-8519-4090-b7e1-b794953b44e4": {
+		"Name": "Jet combuster",
+		"Cell": 9
+	},
+	"a31d4438-03b8-4cf2-ad7d-ff7c07fbf60c": {
+		"Name": "Jet Compressor hull",
+		"Cell": 9
+	},
+	"8e2cb19b-db70-41f4-b398-62c38fd22d2d": {
+		"Name": "Jet Compressor",
+		"Cell": 9
+	},
+	"2a990d46-0140-4ae7-95f5-db9efd76aaa8": {
+		"Name": "Jet connector corner",
+		"Cell": 27
+	},
+	"9cfb35eb-6259-4bfe-9751-6cc1c5d4c2d6": {
+		"Name": "Jet connector hull",
+		"Cell": 9
+	},
+	"58ba2272-9c86-495b-b2b2-751eda4aafb8": {
+		"Name": "Jet connector",
+		"Cell": 9
+	},
+	"35d7b71f-0247-4e73-8307-5199180d1cbb": {
+		"Name": "Jet controller hull",
+		"Cell": 9
+	},
+	"b9fabb99-ff73-4018-8521-08441d2f18cf": {
+		"Name": "Jet controller",
+		"Cell": 9
+	},
+	"a70f015e-a9fe-45f1-958c-fc501ec7e2ea": {
+		"Name": "Jet Engine flush",
+		"Cell": 1
+	},
+	"b50989c9-03d4-4201-a8d4-459dcea86b05": {
+		"Name": "Jet Engine",
+		"Cell": 1
+	},
+	"d62b91f6-8356-4fbc-8415-6405e04cba92": {
+		"Name": "Jet Exhaust Hull",
+		"Cell": 9
+	},
+	"89c3beb4-0fa3-4c3f-a065-7e53497cbe64": {
+		"Name": "Jet Exhaust",
+		"Cell": 9
+	},
+	"59e0ca88-f390-48d0-ade1-0c08f629c4f2": {
+		"Name": "Jet extra combuster",
+		"Cell": 1
+	},
+	"e3d22373-253f-4f48-9638-77d756473c6b": {
+		"Name": "Jet extra compressor",
+		"Cell": 1
+	},
+	"c5bb6398-319b-47c1-a5ef-c6ce9af4e9a6": {
+		"Name": "Jet fuel injector",
+		"Cell": 1
+	},
+	"9e39a47e-f190-435a-9ed0-650c2b205f27": {
+		"Name": "Jet generator hull",
+		"Cell": 9
+	},
+	"f460c104-356f-4abe-b96a-97122285348f": {
+		"Name": "Jet generator",
+		"Cell": 9
+	},
+	"12e26b7f-d42f-4af0-b134-129f8aed8a90": {
+		"Name": "Jet intake add-on",
+		"Cell": 1
+	},
+	"82106938-610c-4a66-8fe3-8cde947e707a": {
+		"Name": "Jet intake Hull",
+		"Cell": 9
+	},
+	"261a60dd-5a01-4e6f-b7e8-a56bb21e2ad9": {
+		"Name": "Jet intake",
+		"Cell": 9
+	},
+	"ad3867b5-6146-44b8-a539-6ab08311e5fe": {
+		"Name": "Jet Stabiliser",
+		"Cell": 1
+	},
+	"4c82fd24-9b09-4027-b8fc-b51c6f7cfb08": {
+		"Name": "Large propeller blade",
+		"Cell": 3
+	},
+	"4e6b4d5b-396f-47cc-97df-63dfc313311c": {
+		"Name": "Large propeller hub extension",
+		"Cell": 9
+	},
+	"f0cfb2e8-adc4-47f5-b438-4437226965ab": {
+		"Name": "Large propeller hub",
+		"Cell": 9
+	},
+	"fd13443a-1f2e-45e1-8978-9b02541a8174": {
+		"Name": "Metal duct (1x1)",
+		"Cell": 1
+	},
+	"9500e5fb-4548-41de-934b-6a205bc7b1a1": {
+		"Name": "Propeller blade",
+		"Cell": 1
+	},
+	"ff112d96-de76-40ff-89e2-b0f7ae0b8db0": {
+		"Name": "Propeller hub extension",
+		"Cell": 1
+	},
+	"010b899b-b720-4f92-9ad9-1e5b49d91e54": {
+		"Name": "Propeller hub",
+		"Cell": 1
+	},
+	"87c9eeec-3ef0-4735-a595-eb5fbf0e66ca": {
+		"Name": "Small air intake duct corner",
+		"Cell": 1
+	},
+	"32d89838-73d1-4cc7-abbf-e18920b03e3e": {
+		"Name": "Small air intake duct",
+		"Cell": 1
+	},
+	"7f97f70a-00a5-4e07-901a-bde9c479e0cd": {
+		"Name": "Small air intake hull duct",
+		"Cell": 1
+	},
+	"6308ac1d-7e51-4760-ba64-e0720d25f519": {
+		"Name": "Small front air duct intake",
+		"Cell": 1
+	},
+	"3dd5c28f-501e-436a-821d-46874ca9c5d1": {
+		"Name": "Small jet combuster hull",
+		"Cell": 1
+	},
+	"26a852c0-da52-4232-8e04-69913c8edc13": {
+		"Name": "Small Jet Combuster",
+		"Cell": 1
+	},
+	"84b391ce-db19-4cd2-b034-e520fef31cf0": {
+		"Name": "Small jet compressor hull",
+		"Cell": 1
+	},
+	"cacc9c8b-9149-4adf-a86c-5cf5f4b035b8": {
+		"Name": "Small Jet Compressor",
+		"Cell": 1
+	},
+	"a9763554-b190-4861-95fd-f97584923683": {
+		"Name": "Small jet connector corner",
+		"Cell": 1
+	},
+	"faa2ce2d-dd4e-4430-9706-833d578df8a6": {
+		"Name": "Small jet connector hull",
+		"Cell": 1
+	},
+	"ba60a2a9-b4f9-4bed-9a72-091ed6e41182": {
+		"Name": "Small jet connector",
+		"Cell": 1
+	},
+	"97ab0a32-c1c7-4663-a497-574fb15d9318": {
+		"Name": "Small jet controller hull",
+		"Cell": 1
+	},
+	"c7d3ffb8-3ceb-40ae-a2b0-69c1f4d59462": {
+		"Name": "Small Jet Controller",
+		"Cell": 1
+	},
+	"1fb31e58-d0bf-4234-8e92-ae6e46869e55": {
+		"Name": "Small jet exhaust hull",
+		"Cell": 1
+	},
+	"2b2d4fdc-8ffa-4399-985a-f9f5ec1263d0": {
+		"Name": "Small Jet Exhaust",
+		"Cell": 1
+	},
+	"b093f1e8-7129-4f1b-83ab-737363aceb52": {
+		"Name": "Small Jet Extra Combuster",
+		"Cell": 1
+	},
+	"fcffecd8-0550-4ff6-b85e-36f45cf04be1": {
+		"Name": "Small Jet Extra Compressor",
+		"Cell": 1
+	},
+	"7489ebd4-92d2-4641-9db4-139bb592fc34": {
+		"Name": "Small Jet Fuel Injector",
+		"Cell": 1
+	},
+	"5a5b609e-4b9f-4baf-8dd0-f13f9732e0ef": {
+		"Name": "Small jet generator hull",
+		"Cell": 1
+	},
+	"a52c86ec-8f2c-4c0e-8487-8aa12ba93dd0": {
+		"Name": "Small jet generator",
+		"Cell": 1
+	},
+	"08101f92-442f-41c8-913e-e5c264463b58": {
+		"Name": "Small Jet Intake Add-On",
+		"Cell": 1
+	},
+	"0096dd3a-44ff-4a6d-b51a-a79973bc8163": {
+		"Name": "Small jet intake hull",
+		"Cell": 1
+	},
+	"58ae1262-6ccd-48ca-ac6f-2eb825aa7b42": {
+		"Name": "Small jet intake piped",
+		"Cell": 1
+	},
+	"95e34566-9234-4559-b601-9a0b9b7c11e5": {
+		"Name": "Small Jet Intake",
+		"Cell": 1
+	},
+	"bdd365a5-c0df-4d2b-959a-93ecb518bb85": {
+		"Name": "Small top air duct intake",
+		"Cell": 1
+	},
+	"03d79bec-7af0-44e7-a012-f2e2dcacff30": {
+		"Name": "Switch",
+		"Cell": 1
+	},
+	"4934fff3-aca3-4fb3-b242-60afbe8d4439": {
+		"Name": "Tailplane",
+		"Cell": 1
+	},
+	"7daa646e-4aa2-4b6a-bcd4-4f0405cd58bc": {
+		"Name": "Top air duct intake",
+		"Cell": 1
+	},
+	"d4e23d98-fbde-449e-823f-872004cadc7a": {
+		"Name": "Universal flight surface",
+		"Cell": 1
+	},
+	"0fd8c160-7f2e-4921-8eef-ff2bd8785c1a": {
+		"Name": "Wing middle",
+		"Cell": 1
+	},
+	"fb997dde-d192-4be3-93bf-9b8bbb647bc5": {
+		"Name": "Wing missile strut",
+		"Cell": 1
+	},
+	"478efa9f-5743-4238-ad2e-750770d7da11": {
+		"Name": "Wing",
+		"Cell": 1
+	},
+	"fb1276c4-ba55-4e62-8315-40d4bf8adbf2": {
+		"Name": "Wood duct (1x1)",
+		"Cell": 1
+	},
+	"692f710c-1710-4db5-9d8a-8c5acc4890ab": {
+		"Name": "Wood duct (3x3)",
+		"Cell": 9
+	},
+	"05c9b256-38d2-4388-ad8c-b98118593f11": {
+		"Name": "Wood duct (5x5)",
+		"Cell": 25
+	},
+	"24b4b0d5-8b0f-48bd-bef7-fdad00dede68": {
+		"Name": "Wood duct (7x7)",
+		"Cell": 49
+	},
+	"228e59f1-b3de-471a-931f-45735ae6ba7e": {
+		"Name": "6-way connector",
+		"Cell": 1
+	},
+	"2f87caef-8e9d-468f-925e-b0bf98e071f3": {
+		"Name": "AA Mantlet (2m)",
+		"Cell": 2
+	},
+	"dc8f69fe-f97c-404f-996c-1b934afa17b5": {
+		"Name": "Adv. Firing piece",
+		"Cell": 1
+	},
+	"b3ea8191-f5c9-42f7-b301-fc3144c8d2a5": {
+		"Name": "Advanced Cannon heatsink",
+		"Cell": 1
+	},
+	"7836f02d-9d50-476c-8701-d0e4eda43de3": {
+		"Name": "Ammo Clip (1m shells)",
+		"Cell": 1
+	},
+	"66e3efae-4d73-4f4e-adbd-85e2573580e4": {
+		"Name": "Ammo Clip (2m shells)",
+		"Cell": 2
+	},
+	"3b67ec16-9ccd-47de-8753-53617df90c61": {
+		"Name": "Ammo Clip (3m shells)",
+		"Cell": 3
+	},
+	"c3f26ef6-22f2-4a04-bb49-aa66cc949188": {
+		"Name": "Ammo Clip (4m shells)",
+		"Cell": 4
+	},
+	"26628920-1c53-4e28-b578-eac6a108bab2": {
+		"Name": "Ammo Clip (5m shells)",
+		"Cell": 5
+	},
+	"462f80ed-2611-4cf8-a204-c7a66ea241da": {
+		"Name": "Ammo Clip (6m shells)",
+		"Cell": 6
+	},
+	"2ab03e77-3805-4064-81c7-4bf21ebb242f": {
+		"Name": "Ammo Clip (7m shells)",
+		"Cell": 7
+	},
+	"2a8501f7-2463-441c-901a-57d1a6573fe6": {
+		"Name": "Ammo Clip (8m shells)",
+		"Cell": 8
+	},
+	"efb55635-4841-42b3-98f0-9aed90b2e826": {
+		"Name": "Ammo Controller",
+		"Cell": 1
+	},
+	"c107f90f-68bb-4f16-b023-960e72e1fa3a": {
+		"Name": "Ammo Customiser 1 module",
+		"Cell": 1
+	},
+	"649fc6c3-2f0c-4197-8777-e44e86696d60": {
+		"Name": "Ammo Customiser 2 modules",
+		"Cell": 1
+	},
+	"d9a36701-b452-4364-a2f0-cc822af38cd0": {
+		"Name": "Ammo Customiser 4 modules",
+		"Cell": 1
+	},
+	"7b672666-b275-454f-968f-506e93987800": {
+		"Name": "Ammo Ejector Backwards",
+		"Cell": 2
+	},
+	"d13556da-e6dc-4c49-a9ec-b47517709da5": {
+		"Name": "Ammo Ejector",
+		"Cell": 2
+	},
+	"0a1aa046-e841-4813-907e-6567e596a079": {
+		"Name": "Ammo Input Feeder",
+		"Cell": 1
+	},
+	"d7d56a2b-bc35-4c89-87de-38c99e7d1c2f": {
+		"Name": "Autoloader (1m shells)",
+		"Cell": 1
+	},
+	"04d60765-2c11-48eb-b9fa-c3eb847b91d5": {
+		"Name": "Autoloader (2m shells)",
+		"Cell": 2
+	},
+	"23453c1f-3946-4db0-a75e-f8b6dab12569": {
+		"Name": "Autoloader (3m shells)",
+		"Cell": 3
+	},
+	"86a9327f-50c1-44d9-aa06-08dc3f25b433": {
+		"Name": "Autoloader (4m shells)",
+		"Cell": 4
+	},
+	"7bb4572c-0ee5-42a5-b562-47a573757f41": {
+		"Name": "Autoloader (5m shells)",
+		"Cell": 5
+	},
+	"1dd8c1cf-ce0b-469d-9924-455dae4958f5": {
+		"Name": "Autoloader (6m shells)",
+		"Cell": 6
+	},
+	"704a2934-b07e-41cb-880d-91b3995152a9": {
+		"Name": "Autoloader (7m shells)",
+		"Cell": 7
+	},
+	"832b5533-fa5d-45ec-ba4f-2dca1e8f0bba": {
+		"Name": "Autoloader (8m shells)",
+		"Cell": 8
+	},
+	"74f9b43b-14d2-433c-acc0-8f0322427daa": {
+		"Name": "Barrel (2m)",
+		"Cell": 2
+	},
+	"e8ae14ad-159f-4d33-86f3-408e01aa4fdd": {
+		"Name": "Barrel (3m)",
+		"Cell": 3
+	},
+	"011e4de9-c66c-4ce6-ad22-2fd6ac9df2a6": {
+		"Name": "Barrel (4m)",
+		"Cell": 4
+	},
+	"08d6ef2c-d97e-4b40-a5e3-0485b945f88b": {
+		"Name": "Barrel",
+		"Cell": 1
+	},
+	"00b9dfc4-ac8f-4fee-bbe0-a76aeeb75627": {
+		"Name": "Belt feed autoloader (1m shells)",
+		"Cell": 1
+	},
+	"9e8fd38f-a406-4d87-8186-de37979d4d20": {
+		"Name": "Bore Evacuator",
+		"Cell": 1
+	},
+	"d22f3d7d-7507-4d30-b884-9bfdc68d59be": {
+		"Name": "Elevation Mantlet (1m)",
+		"Cell": 1
+	},
+	"c624a6cd-31dc-49d3-a1e9-5482d06acbc6": {
+		"Name": "Elevation Mantlet (3m)",
+		"Cell": 3
+	},
+	"6785811b-60fb-48f2-ac17-642ab69d1dde": {
+		"Name": "Fall of Shot Predictor",
+		"Cell": 1
+	},
+	"ac65ce78-2e21-465e-a28b-07ebbd65805e": {
+		"Name": "Gauge cooler 4way",
+		"Cell": 1
+	},
+	"93c6e594-4bea-419c-93f6-8d1f6c3463ec": {
+		"Name": "Gauge cooler 5way",
+		"Cell": 1
+	},
+	"8a96edf6-93c3-47c2-b3ad-894598f262e3": {
+		"Name": "Gauge cooler corner",
+		"Cell": 1
+	},
+	"52ff74a3-3d0f-4b2f-bfe3-23ff12f74354": {
+		"Name": "Gauge cooler splitter",
+		"Cell": 1
+	},
+	"703d6094-850b-45fc-a01c-25ceddd49dcb": {
+		"Name": "Gauge cooling unit",
+		"Cell": 1
+	},
+	"3d6d4fca-b7a9-44f3-a888-d3e43a79331a": {
+		"Name": "Gauge increase",
+		"Cell": 1
+	},
+	"62fc0360-f8ff-4ee7-90f2-92da6a26640c": {
+		"Name": "Heavy Barrel (2m)",
+		"Cell": 2
+	},
+	"ed9c1986-99f7-4c15-af23-d735442a286b": {
+		"Name": "Heavy Barrel (3m)",
+		"Cell": 3
+	},
+	"3d8c87b7-2488-4982-860b-e7eda8d5d590": {
+		"Name": "Heavy Barrel (4m)",
+		"Cell": 4
+	},
+	"413da151-24e7-4e94-b5c7-ce7994252586": {
+		"Name": "Heavy Barrel End (2m)",
+		"Cell": 2
+	},
+	"f49d4249-2995-4a81-b67c-6abbce092b8f": {
+		"Name": "Heavy Barrel End (3m)",
+		"Cell": 3
+	},
+	"3108f579-7c8e-44e5-8cd8-2fe107afb3ea": {
+		"Name": "Heavy Barrel End (4m)",
+		"Cell": 4
+	},
+	"02666d0e-e9a9-4c9c-854b-a35972a3be64": {
+		"Name": "Heavy Barrel End",
+		"Cell": 1
+	},
+	"9233e3ff-3040-45d3-a2de-873e41a1df76": {
+		"Name": "Heavy Barrel Start (2m)",
+		"Cell": 2
+	},
+	"24e5e3f7-ad7a-4083-abff-0a262f541dd9": {
+		"Name": "Heavy Barrel Start (3m)",
+		"Cell": 3
+	},
+	"6ad7cafc-e88c-4722-88c0-f5acba190527": {
+		"Name": "Heavy Barrel Start (4m)",
+		"Cell": 4
+	},
+	"24fc1a2c-66aa-4152-a0d8-7d0dd5645151": {
+		"Name": "Heavy Barrel Start",
+		"Cell": 1
+	},
+	"b2a95e90-cfad-4f43-9860-513d31f47374": {
+		"Name": "Heavy Barrel",
+		"Cell": 1
+	},
+	"5bd210b0-2377-45c8-9287-ec607acbbe60": {
+		"Name": "Hydraulic recoil absorber (1m)",
+		"Cell": 1
+	},
+	"faa18ecd-0edf-4167-8c30-8cf2b95f42e1": {
+		"Name": "Hydraulic recoil absorber (2m)",
+		"Cell": 2
+	},
+	"fb692c79-847a-4935-9275-741ff449ef77": {
+		"Name": "Hydraulic recoil absorber (3m)",
+		"Cell": 3
+	},
+	"fd4946a4-1633-4627-9728-c1b5dd276ddb": {
+		"Name": "Hydraulic recoil absorber (4m)",
+		"Cell": 4
+	},
+	"9c1e83ca-c225-41d9-bded-f9d6e8dc6bca": {
+		"Name": "Hydraulic recoil absorber (5m)",
+		"Cell": 5
+	},
+	"e0f5e9a7-a384-48f9-9ec5-fe6aac81c440": {
+		"Name": "Hydraulic recoil absorber (6m)",
+		"Cell": 6
+	},
+	"83b06ab4-8278-4f8a-bd6f-bd26747dbd75": {
+		"Name": "Hydraulic recoil absorber (7m)",
+		"Cell": 7
+	},
+	"acb4bf6e-b10e-4a6f-b9dc-b22be888c096": {
+		"Name": "Hydraulic recoil absorber (8m)",
+		"Cell": 8
+	},
+	"575c59bf-c5be-4558-8ab7-7bb672f62ffb": {
+		"Name": "Laser Targeter",
+		"Cell": 1
+	},
+	"fcfb5e7d-711b-4dbd-a64f-2c7a3b065e98": {
+		"Name": "Muzzle brake 2m variant",
+		"Cell": 2
+	},
+	"1fb2b5d6-25aa-46a8-9371-a43cae464009": {
+		"Name": "Muzzle brake variant",
+		"Cell": 1
+	},
+	"ef753ff4-2d7e-411c-880c-08222dd6a4c5": {
+		"Name": "Muzzle Brake",
+		"Cell": 1
+	},
+	"85cd3795-9fb0-43ce-87dc-ff07f2844dd3": {
+		"Name": "Omni Mantlet (1m)",
+		"Cell": 1
+	},
+	"09d28633-cff1-4cc4-9e11-161f350dbf60": {
+		"Name": "Omni Mantlet (3x3m)",
+		"Cell": 9
+	},
+	"e9444d6d-714b-4cd7-aa9d-9527f425fdd7": {
+		"Name": "Railgun barrel magnet",
+		"Cell": 1
+	},
+	"ecbcd3ac-9937-4351-abd8-a727c0d0ad77": {
+		"Name": "Railgun Charger",
+		"Cell": 1
+	},
+	"227791eb-9d17-481e-bece-a2c4c292460e": {
+		"Name": "Railgun Magnet Attaching Fixture 1 attachment",
+		"Cell": 1
+	},
+	"ae863b85-af05-40ee-a092-c97eb733d6fc": {
+		"Name": "Railgun Magnet Attaching Fixture",
+		"Cell": 1
+	},
+	"565faf2e-346d-4ba5-b9d3-99601ad33c74": {
+		"Name": "Recoil absorber (Old)",
+		"Cell": 1
+	},
+	"375f4305-47bc-4abd-8c68-b67cb50e7036": {
+		"Name": "Solid Ammo Clip (1m shells)",
+		"Cell": 1
+	},
+	"f45bd228-43c8-482c-824c-71e48e8ef27a": {
+		"Name": "Solid Ammo Clip (2m shells)",
+		"Cell": 2
+	},
+	"7676bdb0-2cc4-4966-8d71-b1025244d911": {
+		"Name": "Solid Ammo Clip (3m shells)",
+		"Cell": 3
+	},
+	"120b90ce-8434-4e44-a32f-7e5da874eaf7": {
+		"Name": "Solid Ammo Clip (4m shells)",
+		"Cell": 4
+	},
+	"24182e93-94d4-4b29-8795-a107b21b2695": {
+		"Name": "Solid Ammo Clip (5m shells)",
+		"Cell": 5
+	},
+	"1cbba583-ef54-4de9-9364-4e7371bf4ac3": {
+		"Name": "Solid Ammo Clip (6m shells)",
+		"Cell": 6
+	},
+	"00e9e62f-8b53-4cca-89ef-2a99a76766da": {
+		"Name": "Solid Ammo Clip (7m shells)",
+		"Cell": 7
+	},
+	"973c1ee1-2dc4-4cd7-be7c-32a37cb405de": {
+		"Name": "Solid Ammo Clip (8m shells)",
+		"Cell": 8
+	},
+	"d2cccaa0-415a-413a-964e-ff747f20b964": {
+		"Name": "Elevation only Turret",
+		"Cell": 1
+	},
+	"74c982f4-305f-411e-a8b4-d193315ab3bc": {
+		"Name": "Fortress",
+		"Cell": 1
+	},
+	"05537cc1-9df6-4395-a3d4-1db6226c62b5": {
+		"Name": "One Axis Turret (3m)",
+		"Cell": 9
+	},
+	"7161f887-4de6-4b5e-9066-f39d6cad9f16": {
+		"Name": "One Axis Turret (5m)",
+		"Cell": 25
+	},
+	"9d4fa368-3e44-4262-a213-4157a14d3677": {
+		"Name": "One Axis Turret",
+		"Cell": 1
+	},
+	"382a7650-2231-4867-96e4-8d97242a4741": {
+		"Name": "Sky Fortress Turbine",
+		"Cell": 2
+	},
+	"788700be-1e74-46d7-9e34-1a5ec2747548": {
+		"Name": "Spin / Turn block",
+		"Cell": 1
+	},
+	"cdca5dec-eeee-4849-9b2e-73b23e216465": {
+		"Name": "Spin block",
+		"Cell": 1
+	},
+	"cb5bfa64-c3fd-435c-b0da-3891a86b20d2": {
+		"Name": "Structure",
+		"Cell": 1
+	},
+	"2e86af10-00e0-4dad-9cac-3b87ca9e468d": {
+		"Name": "Telescopic Piston (1m) Block",
+		"Cell": 1
+	},
+	"d83e6a25-e6c3-49df-9d0b-de3c5edb579b": {
+		"Name": "Telescopic Piston (1m) Constructable",
+		"Cell": 1
+	},
+	"6ebdb4c7-5626-4051-a91f-21fe6e636263": {
+		"Name": "Telescopic Piston Block",
+		"Cell": 2
+	},
+	"107478fd-2a4d-4fb0-81b9-1a448d3ba987": {
+		"Name": "Telescopic Piston Constructable",
+		"Cell": 2
+	},
+	"2c56eeab-7432-4c31-b413-68b0ee7e2d7c": {
+		"Name": "Turret Block Elevation only",
+		"Cell": 1
+	},
+	"c310aa38-b723-4a66-8700-47cffe7647f4": {
+		"Name": "Turret Block One Axis (3m)",
+		"Cell": 9
+	},
+	"b7c60d19-d652-4fcc-af1a-85409c9c131f": {
+		"Name": "Turret Block One Axis (5m)",
+		"Cell": 25
+	},
+	"8f461b33-37cf-4049-b04c-4aa0d2292e2d": {
+		"Name": "Turret Block One Axis",
+		"Cell": 1
+	},
+	"c5cec892-2e43-4905-9d28-44fc8ecb5cc7": {
+		"Name": "Turret Block Two Axis",
+		"Cell": 1
+	},
+	"213026bc-fd7a-44e6-b543-a31c219aaef0": {
+		"Name": "Two Axis Turret",
+		"Cell": 1
+	},
+	"e63040c9-0027-4fd3-be30-67fe3e950140": {
+		"Name": "Vehicle",
+		"Cell": 1
+	},
+	"eabd8ca6-30c5-4960-9ec0-221b065b7306": {
+		"Name": "ControlSurfaceComponent",
+		"Cell": 1
+	},
+	"2de7b9d9-9e47-4765-8428-4846c0919400": {
+		"Name": "ControlSurfacePivot",
+		"Cell": 1
+	},
+	"ce494e45-5ff6-48a7-8936-30163c58ed99": {
+		"Name": "Bomb Chute",
+		"Cell": 1
+	},
+	"543fd6c7-fcf3-4df0-a4b2-891a8574b434": {
+		"Name": "CRAM Barrel",
+		"Cell": 1
+	},
+	"bc292fe3-2330-4a01-8615-412a19fd7f6d": {
+		"Name": "Elevation barrel",
+		"Cell": 1
+	},
+	"87142f81-71ce-4d60-9b81-4fe5674112db": {
+		"Name": "EMP Pellets",
+		"Cell": 1
+	},
+	"a97e03b0-e8da-49e2-9913-ad8c1826d869": {
+		"Name": "Firing piece",
+		"Cell": 1
+	},
+	"a5872d78-28e7-48a3-b452-ceb29de035cc": {
+		"Name": "Flash Suppression Barrel",
+		"Cell": 1
+	},
+	"379c94e6-7f27-42ab-ab45-66e3533ecde8": {
+		"Name": "Fragmentation Pellets",
+		"Cell": 1
+	},
+	"ec49b6a2-244f-4cfa-b49e-8dd19213b280": {
+		"Name": "Fusing Box",
+		"Cell": 1
+	},
+	"645a71be-2a80-4228-b036-9de863576708": {
+		"Name": "Gauge Increase Corner",
+		"Cell": 1
+	},
+	"dae50de2-b76f-4b24-b33e-f713621a3410": {
+		"Name": "Gauge increase pipe",
+		"Cell": 1
+	},
+	"8d70c55b-d200-4f56-a159-28646427d4b1": {
+		"Name": "Gauge Increase Port",
+		"Cell": 1
+	},
+	"a3edc805-8355-4fb3-8d94-d5c19d1a86d9": {
+		"Name": "Gauge increase top 3 connections",
+		"Cell": 1
+	},
+	"d2550253-f55a-48e2-8f57-c3931c0359da": {
+		"Name": "Gauge Increase Top",
+		"Cell": 1
+	},
+	"9a3f63f4-48b6-4fe0-9f59-9fac3d073750": {
+		"Name": "Gauge Increase",
+		"Cell": 1
+	},
+	"47c8ddc8-9dca-4363-a39e-95dd28008e30": {
+		"Name": "Hardener Pellets",
+		"Cell": 1
+	},
+	"1b672c70-b108-4ec9-b6f6-9f817adf7250": {
+		"Name": "Heavy Barrel",
+		"Cell": 1
+	},
+	"4bd38234-b485-4a94-bc2d-d3fc80d89955": {
+		"Name": "High Explosive Pellets",
+		"Cell": 1
+	},
+	"9ebc44a7-5c1c-484e-8b06-ae390a48db17": {
+		"Name": "Interface screen",
+		"Cell": 1
+	},
+	"f9f91495-3c3b-48e2-9f4c-a53b01c47f6c": {
+		"Name": "Laser Targeter",
+		"Cell": 1
+	},
+	"54836777-b634-4a21-ab1e-2b0e426b640f": {
+		"Name": "Motor Driven Barrel",
+		"Cell": 1
+	},
+	"b20baa46-0a1c-482b-a3f9-bbb8c14520e2": {
+		"Name": "Packer x3 (automatic orientation)",
+		"Cell": 1
+	},
+	"19945f75-8353-45e1-938f-a548fa05e05e": {
+		"Name": "Packer x3 (manual orientation)",
+		"Cell": 1
+	},
+	"2ae437c8-afe6-4d6d-9562-0423227878b2": {
+		"Name": "Payload compactor",
+		"Cell": 1
+	},
+	"e34ec225-dda1-47fc-b56a-746da1965349": {
+		"Name": "Predictor",
+		"Cell": 1
+	},
+	"1b0498b9-baa4-4c83-8441-99c2fb8a4e13": {
+		"Name": "Recoil Suppression barrel end variant 2",
+		"Cell": 1
+	},
+	"fcc23049-9e4d-4b36-bf63-4cffcfbdbcb7": {
+		"Name": "Recoil Suppression barrel end variant 3",
+		"Cell": 1
+	},
+	"61303e3d-510c-444f-8b29-3dcdf155120c": {
+		"Name": "Recoil Suppression barrel end variant 4",
+		"Cell": 1
+	},
+	"9aa55699-b91d-4e4a-921a-4b60569824bf": {
+		"Name": "Recoil Suppression Barrel",
+		"Cell": 1
+	},
+	"64109192-fd8e-422b-a9e8-74295d3d74ea": {
+		"Name": "Six Way Connector",
+		"Cell": 1
+	},
+	"1aa62ea2-cb83-4778-86f0-4bd96332842c": {
+		"Name": "Acoustic sensor",
+		"Cell": 1
+	},
+	"06aeabde-f2bf-4a28-96c9-48bdab5dc1bc": {
+		"Name": "Build guide spawner",
+		"Cell": 1
+	},
+	"ac102b13-115e-4f27-bab0-4e17baf92c7a": {
+		"Name": "Dance show",
+		"Cell": 1
+	},
+	"75ffb576-34c6-4dae-87a6-0f45d6482070": {
+		"Name": "Deck Port",
+		"Cell": 1
+	},
+	"6c37df0b-7eaf-48d4-85d8-2453014d8edf": {
+		"Name": "Display",
+		"Cell": 1
+	},
+	"34a95c9b-6680-4a26-8b20-87a92a6eb8fa": {
+		"Name": "Help page reader",
+		"Cell": 1
+	},
+	"8d948200-242c-47c3-b46a-ecdf40f7b39b": {
+		"Name": "Hologram Projector",
+		"Cell": 1
+	},
+	"c0afc8a9-5c49-4f15-8834-6e39ff144da3": {
+		"Name": "Light fitting",
+		"Cell": 1
+	},
+	"d440c51e-7ec0-471e-b4bf-469ee38124c7": {
+		"Name": "Mimic rubber",
+		"Cell": 1
+	},
+	"61c56906-c2ae-4953-8fef-2e18e5ff7a68": {
+		"Name": "Mimic",
+		"Cell": 1
+	},
+	"87bd3e7e-16f0-4f0c-99b9-34ddfa032a87": {
+		"Name": "Moving light",
+		"Cell": 1
+	},
+	"f71f9cfc-a107-4404-bb2c-7dc30e10e8da": {
+		"Name": "Neon Light",
+		"Cell": 1
+	},
+	"9d43ff24-4165-4c48-bc5d-ccb89b0667bd": {
+		"Name": "Poster holder",
+		"Cell": 1
+	},
+	"637d3a6a-2f79-477a-b97f-34dca41b5714": {
+		"Name": "Railing",
+		"Cell": 1
+	},
+	"b286aa49-6029-4ec3-9b58-b987a3d0ae61": {
+		"Name": "Sign post 3m",
+		"Cell": 3
+	},
+	"e3bffdbf-01eb-4309-bdb5-4358662eaac4": {
+		"Name": "Sign Post",
+		"Cell": 1
+	},
+	"b06788d5-4715-4168-8f7d-d6380f73fe54": {
+		"Name": "Smoke generator",
+		"Cell": 1
+	},
+	"0586026e-8167-4594-a151-dd16df0434f0": {
+		"Name": "Sound block",
+		"Cell": 1
+	},
+	"7fbe7409-5884-4387-8348-d279e312f86b": {
+		"Name": "Spaw o matic",
+		"Cell": 6
+	},
+	"6d58d927-2e19-491c-b2d5-451cc47bf4d8": {
+		"Name": "Spot Light fitting",
+		"Cell": 1
+	},
+	"9a0d25cc-f5c2-4780-b674-38fe17e73f8e": {
+		"Name": "Stairs",
+		"Cell": 1
+	},
+	"1576f21e-9ca2-4f29-8b14-53ce98205a5b": {
+		"Name": "Standard door",
+		"Cell": 2
+	},
+	"69061de4-f4df-41cd-8af1-ccb2081cbae6": {
+		"Name": "Video Screen",
+		"Cell": 1
+	},
+	"78514976-87cf-4d89-85cd-9d0df590a317": {
+		"Name": "Battery Charger",
+		"Cell": 1
+	},
+	"d7e6366f-3f5c-4dbc-a1fc-b63de74ed7eb": {
+		"Name": "Engine",
+		"Cell": 1
+	},
+	"76dfe171-525a-48ea-8652-b7537aa06572": {
+		"Name": "Front & Back Connector",
+		"Cell": 1
+	},
+	"edb1b2eb-dac7-4c4f-8967-35f61c75fd93": {
+		"Name": "Fuel Processor",
+		"Cell": 2
+	},
+	"da80769e-0a55-4e05-bf58-1541842f4e82": {
+		"Name": "Generator",
+		"Cell": 1
+	},
+	"b9457302-db10-49ad-98e2-1c44cdca24b9": {
+		"Name": "Railgun battery",
+		"Cell": 1
+	},
+	"ea3d81c0-c862-4e06-90aa-63f746e5ce6f": {
+		"Name": "Supply Pump",
+		"Cell": 1
+	},
+	"552785c2-43cd-41e6-a13a-818388b93968": {
+		"Name": "Up & Down Connector",
+		"Cell": 1
+	},
+	"b88f9bdb-8366-4620-8bb0-4fb0a421519f": {
+		"Name": "Drill Bit 5x5",
+		"Cell": 25
+	},
+	"fc4f02ab-2e74-4deb-8d83-ca3da65c99ff": {
+		"Name": "Drill Bit (Large)",
+		"Cell": 9
+	},
+	"edf0442a-4976-43f4-9a9c-66e43f0353ff": {
+		"Name": "Drill Bit (Small)",
+		"Cell": 1
+	},
+	"1af0aadf-7edc-401a-9750-0074b8b46b6a": {
+		"Name": "Drill Extension horizontal splitter",
+		"Cell": 1
+	},
+	"51cfbd8b-5223-4101-b4f3-f62872a82b58": {
+		"Name": "Drill Extension vertical splitter",
+		"Cell": 1
+	},
+	"197f8869-1891-4e7d-9465-97b9183aed22": {
+		"Name": "Drill Extension",
+		"Cell": 1
+	},
+	"eadfab64-b2a7-4704-8241-37ae3b42f705": {
+		"Name": "Drill",
+		"Cell": 2
+	},
+	"83e8cf5c-ad5a-4cfd-a0d0-eb4ca9f48127": {
+		"Name": "Power Input",
+		"Cell": 1
+	},
+	"dfb470c9-e7f2-4530-9b5b-3de8214501da": {
+		"Name": "Torque Amplifier",
+		"Cell": 1
+	},
+	"3bff8428-7481-4847-b00e-f0e49233b86d": {
+		"Name": "4 Way pipe",
+		"Cell": 1
+	},
+	"819ef76e-1023-4f06-bfb1-96cd3e58ba88": {
+		"Name": "5 Way Pipe",
+		"Cell": 1
+	},
+	"94c39cef-53e1-41b2-bbc6-94a869d79c64": {
+		"Name": "6 Way Pipe",
+		"Cell": 1
+	},
+	"267248a3-baaa-4653-83b3-ce478d600b17": {
+		"Name": "Adapter",
+		"Cell": 1
+	},
+	"043e9b00-4a2f-41b8-bf2f-4aaa4442f138": {
+		"Name": "Carburettor",
+		"Cell": 1
+	},
+	"d5016f16-6431-4e8f-b0cc-5f0f400b151a": {
+		"Name": "Corner Pipe",
+		"Cell": 1
+	},
+	"01a87958-93cf-4efa-857f-10913b0573d9": {
+		"Name": "Crank Shaft",
+		"Cell": 1
+	},
+	"515ee20d-20d8-4195-bea5-213e6f1fd929": {
+		"Name": "Cylinder",
+		"Cell": 1
+	},
+	"ac5dda48-2bbf-453b-a4d5-517ae78499a1": {
+		"Name": "Exhaust",
+		"Cell": 1
+	},
+	"4c24445d-a29b-446e-b03f-29e570e9d47d": {
+		"Name": "Fuel Engine Generator",
+		"Cell": 1
+	},
+	"91d167b1-652f-4ac8-adc4-973b548ccd5d": {
+		"Name": "Hull Pipe",
+		"Cell": 1
+	},
+	"f94702c9-cb55-49e3-8cc4-138288fa1f13": {
+		"Name": "Injector",
+		"Cell": 1
+	},
+	"4b2109f7-abfc-46b7-b752-f9423b6f2e35": {
+		"Name": "Inline turbocharger (left)",
+		"Cell": 2
+	},
+	"6ebe5e2b-ef9a-4849-b234-131b25579adf": {
+		"Name": "Inline turbocharger (right)",
+		"Cell": 2
+	},
+	"33b65ccc-58a0-487d-8b68-a997a71b0bfe": {
+		"Name": "Junction Pipe",
+		"Cell": 1
+	},
+	"99a71734-3128-4535-bb9c-f69de5277f49": {
+		"Name": "L-Junction Pipe (left)",
+		"Cell": 1
+	},
+	"2d546425-921e-4900-b249-fa5a1c7d5513": {
+		"Name": "L-Junction Pipe (right)",
+		"Cell": 1
+	},
+	"25575b2b-223c-48f3-ab6f-7133d26e86e8": {
+		"Name": "Large Radiator",
+		"Cell": 9
+	},
+	"da59d582-9254-4091-988e-b670dcabe84a": {
+		"Name": "Radiator",
+		"Cell": 1
+	},
+	"c27e460b-f3c3-4716-b20a-69f766d27f34": {
+		"Name": "Straight Pipe (2m)",
+		"Cell": 2
+	},
+	"6d0d9986-5871-4e5c-a415-6457552595eb": {
+		"Name": "Straight Pipe (3m)",
+		"Cell": 3
+	},
+	"663d3348-9700-487e-a30e-f472d933e859": {
+		"Name": "Straight Pipe (4m)",
+		"Cell": 4
+	},
+	"a160804b-15cc-46e2-8ffb-401c2aa01de6": {
+		"Name": "Straight Pipe",
+		"Cell": 1
+	},
+	"47da23fc-17bb-4a66-9c6d-fb66fddb3be6": {
+		"Name": "Supercharger",
+		"Cell": 1
+	},
+	"e0f9e669-4748-4cde-be95-58e47e094253": {
+		"Name": "Throughput Pipe",
+		"Cell": 1
+	},
+	"6209370e-abeb-4ec1-b523-dc21ea33fe0c": {
+		"Name": "Turbocharger (left)",
+		"Cell": 2
+	},
+	"91cca4a9-a40f-43eb-9ba5-34c738b03d1f": {
+		"Name": "Turbocharger (right)",
+		"Cell": 2
+	},
+	"542cacd4-c366-4a76-8d01-4ace6c5ce619": {
+		"Name": "X-Junction Pipe",
+		"Cell": 1
+	},
+	"ac0f55b9-5ada-4109-9a86-31702c5597cd": {
+		"Name": "Anti roll bar 3m",
+		"Cell": 3
+	},
+	"6ff28fd1-9106-45a9-9d55-2e9af5587d1b": {
+		"Name": "Anti roll bar 5m",
+		"Cell": 5
+	},
+	"50cd1e03-a9f0-4ad3-9385-16b700e53008": {
+		"Name": "Anti roll bar 7m",
+		"Cell": 7
+	},
+	"11703027-0d9f-4acf-ab01-c7f2e55126c9": {
+		"Name": "Anti roll bar 9m",
+		"Cell": 9
+	},
+	"1e978876-5c69-45f1-9ba1-40b5ae560f9e": {
+		"Name": "Balloon wheel 1m mirror",
+		"Cell": 2
+	},
+	"91ef14fd-da81-4010-bfa6-0a9aafc7112b": {
+		"Name": "Balloon wheel 1m",
+		"Cell": 2
+	},
+	"81db2a62-75ff-4d9a-aecb-10d3f8f4a47e": {
+		"Name": "Balloon Wheel 3m mirror",
+		"Cell": 18
+	},
+	"e69cbb14-5df0-4645-8f11-93ce51207ff8": {
+		"Name": "Balloon Wheel 3m",
+		"Cell": 18
+	},
+	"bca2b4e8-2216-448b-b254-927833620756": {
+		"Name": "Balloon Wheel 5m mirror",
+		"Cell": 75
+	},
+	"dddf2251-d1e6-4792-9270-c9250b610733": {
+		"Name": "Balloon Wheel 5m turning mirror",
+		"Cell": 75
+	},
+	"435fd3cc-7a4e-45f4-b47d-47a5cdd9a4fc": {
+		"Name": "Balloon Wheel 5m turning",
+		"Cell": 75
+	},
+	"da173fac-8673-4ef7-aae5-d089e78ea6ce": {
+		"Name": "Balloon Wheel 5m",
+		"Cell": 75
+	},
+	"24032540-b488-4316-ada1-44952bd2bb0e": {
+		"Name": "Balloon Wheel Turning 1m mirror",
+		"Cell": 2
+	},
+	"6cf7ba0b-eee5-48a8-a714-f8a6ce76d186": {
+		"Name": "Balloon Wheel Turning 1m",
+		"Cell": 2
+	},
+	"f601a728-1a00-4d9e-b23c-f78064cbf3a5": {
+		"Name": "Balloon Wheel Turning 3m mirror",
+		"Cell": 18
+	},
+	"9c92daaf-654d-4e4e-9976-c7348ee7898d": {
+		"Name": "Balloon Wheel Turning 3m",
+		"Cell": 18
+	},
+	"88c3c6c4-c831-40ee-a8a4-ad3574556874": {
+		"Name": "Clampy Foot",
+		"Cell": 1
+	},
+	"4b4bdd8a-e01c-4d77-8228-e19e241ad623": {
+		"Name": "Mock Wheel Mirror",
+		"Cell": 1
+	},
+	"f18d051c-2aad-4287-823e-997499716da1": {
+		"Name": "Mock Wheel",
+		"Cell": 1
+	},
+	"e3cc9c71-2cd1-46b8-8198-e4f578591dd9": {
+		"Name": "Sticky Foot",
+		"Cell": 1
+	},
+	"22524171-87ab-4fc3-80fb-ac5690b624b3": {
+		"Name": "Wheel 3m mirror (turning)",
+		"Cell": 9
+	},
+	"a5bb808a-ef3d-4262-84a6-6d245e3735ea": {
+		"Name": "Wheel 3m mirror",
+		"Cell": 9
+	},
+	"c05c88aa-96df-461e-832f-7d5591a24972": {
+		"Name": "Wheel 3m (turning)",
+		"Cell": 9
+	},
+	"2ec29b39-8a90-475b-b116-e62c83db3e97": {
+		"Name": "Wheel 3m",
+		"Cell": 9
+	},
+	"15d4be68-edf9-44ed-bfda-5522cd9da33f": {
+		"Name": "Wheel 5m mirror (turning)",
+		"Cell": 25
+	},
+	"78d6177b-345c-43d6-8e34-b28bf0a82659": {
+		"Name": "Wheel 5m mirror",
+		"Cell": 25
+	},
+	"c9c226ff-ebd3-4394-b6d5-d4796e0dd149": {
+		"Name": "Wheel 5m (turning)",
+		"Cell": 25
+	},
+	"4ae3bc3c-c39e-4d6b-afab-d0e34d783bc5": {
+		"Name": "Wheel 5m",
+		"Cell": 25
+	},
+	"a4fdfea1-1254-4f7b-9346-124dddb595bd": {
+		"Name": "Wheel mirror (turning)",
+		"Cell": 1
+	},
+	"c384fa33-67c3-4915-a878-4245f4cdcecc": {
+		"Name": "Wheel mirror",
+		"Cell": 1
+	},
+	"4363ead8-3cdd-4d95-b461-193dc928790d": {
+		"Name": "Wheel (turning)",
+		"Cell": 1
+	},
+	"f3f7620a-f281-4a3a-a75e-0106ef9c4eb8": {
+		"Name": "Wheel",
+		"Cell": 1
+	},
+	"575187d2-ff5c-4d42-9937-0206cffbd883": {
+		"Name": "Armored Laser Optics",
+		"Cell": 1
+	},
+	"9aa6b3c3-2569-473e-9d28-2b2cb17bc7a3": {
+		"Name": "Armored Laser Steering Optics",
+		"Cell": 1
+	},
+	"fb1fb4c7-78e8-47e7-8ff1-34a4afcd10c7": {
+		"Name": "Frequency Doubler",
+		"Cell": 1
+	},
+	"9385face-922e-4158-9632-7ab9fcb00166": {
+		"Name": "Laser Anti-Munition Defence",
+		"Cell": 1
+	},
+	"b6ac5f2e-907e-4926-88c0-355d30c6b7a5": {
+		"Name": "Laser Cavity",
+		"Cell": 1
+	},
+	"8acc506a-41cf-4b62-ab1f-e6f523baf75b": {
+		"Name": "Laser Colorer",
+		"Cell": 1
+	},
+	"7dc67bed-fd0f-4145-9525-5840bbcc4822": {
+		"Name": "Laser Combiner",
+		"Cell": 1
+	},
+	"9c09eee2-e4bd-42ea-aaec-43a6d1451db3": {
+		"Name": "Laser Connector",
+		"Cell": 1
+	},
+	"db2a5655-6b32-4877-8285-40c6ddc9ba3c": {
+		"Name": "Laser Coupler",
+		"Cell": 1
+	},
+	"f2f1f8f5-92b5-4047-9ec7-de86d8608583": {
+		"Name": "Laser Cutter",
+		"Cell": 1
+	},
+	"d73b886e-2498-4c17-9346-a85f77d4a454": {
+		"Name": "Laser Destabiliser",
+		"Cell": 1
+	},
+	"464187d2-ff5c-4d42-9937-0206cffbd883": {
+		"Name": "Laser Optics",
+		"Cell": 1
+	},
+	"57c4c674-9c66-4ab7-9067-81477824785d": {
+		"Name": "Laser Pump (3m)",
+		"Cell": 3
+	},
+	"ef2e81c1-d06d-474f-b12c-14de1702db1b": {
+		"Name": "Laser Pump",
+		"Cell": 1
+	},
+	"31047680-b58e-407a-9f39-1b59fd656e13": {
+		"Name": "Laser Q switch",
+		"Cell": 1
+	},
+	"8996b3c3-2569-473e-9d28-2b2cb17bc7a3": {
+		"Name": "Laser Steering Optics",
+		"Cell": 1
+	},
+	"139d4b6a-2b6b-4bfa-8d00-1bc8e69923fd": {
+		"Name": "Laser Transceiver",
+		"Cell": 1
+	},
+	"c0542188-97dc-4cd5-a275-ede25d9797ba": {
+		"Name": "Laser Wavefront Adjuster",
+		"Cell": 2
+	},
+	"5031a9db-aa48-4903-9b16-75a54f5959ce": {
+		"Name": "Multipurpose Laser",
+		"Cell": 1
+	},
+	"ad1accc2-e4bd-42ea-aaec-43a6d1451db3": {
+		"Name": "Output Regulator",
+		"Cell": 1
+	},
+	"2eea241a-6a32-41c6-a9e4-d082c7e854de": {
+		"Name": "PAC lens (rear inputs)",
+		"Cell": 27
+	},
+	"9896747c-39a5-43bc-8ba9-ccf2f645cca1": {
+		"Name": "PAC lens (symmetric)",
+		"Cell": 27
+	},
+	"f1746662-adec-4054-98bd-94b553bc6c6d": {
+		"Name": "Particle Accelerator Lens",
+		"Cell": 1
+	},
+	"ebe5e7f6-894e-450c-b602-710538e82486": {
+		"Name": "Particle Cannon Mirror",
+		"Cell": 27
+	},
+	"3d82f1a3-ad2a-4e81-a4e3-cb88c968f6e9": {
+		"Name": "Particle Cannon",
+		"Cell": 27
+	},
+	"3c3d8cda-b79d-47a5-9bc4-378daf3d4358": {
+		"Name": "Particle Input Port",
+		"Cell": 1
+	},
+	"2099a233-181e-4f50-9a0e-78a547969a8e": {
+		"Name": "Particle Melee Lens",
+		"Cell": 1
+	},
+	"48678652-cad7-40ae-918f-af432b37fdf9": {
+		"Name": "Particle tube 1m",
+		"Cell": 1
+	},
+	"73be5bb2-53f2-4cdc-abcd-6264837a44c2": {
+		"Name": "Particle Tube 2m",
+		"Cell": 2
+	},
+	"b9c6a6bf-a61a-44eb-bf89-ee414711fed2": {
+		"Name": "Particle Tube 3m",
+		"Cell": 3
+	},
+	"58f677fa-2af3-453e-8f63-9b4e0a13c968": {
+		"Name": "Particle Tube 4m",
+		"Cell": 4
+	},
+	"1ab5006c-9156-4605-a670-68e1c2eb2e9a": {
+		"Name": "Particle Tube Corner",
+		"Cell": 1
+	},
+	"b799b159-3bab-45f8-92e4-3107bca46513": {
+		"Name": "Particle Tube Terminator",
+		"Cell": 1
+	},
+	"e581b7dc-da92-421d-9262-a5781c287728": {
+		"Name": "Plasma firingpiece",
+		"Cell": 1
+	},
+	"ad861a50-c881-4aa2-839b-d1248a810c77": {
+		"Name": "Plasma heater",
+		"Cell": 1
+	},
+	"172c1b1f-9dc0-41c8-885c-aba814e4fe08": {
+		"Name": "Plasma storage",
+		"Cell": 1
+	},
+	"c51bd0a9-99a7-463a-b20a-fe2e484ab26e": {
+		"Name": "Plasma tranciever",
+		"Cell": 1
+	},
+	"fd2b6afb-da6f-4a8e-bfc0-e4202b87300d": {
+		"Name": "Short Range Laser Combiner",
+		"Cell": 3
+	},
+	"d7e26b38-f5a3-4ae3-9486-66d63222b336": {
+		"Name": "Single Input Laser Cavity",
+		"Cell": 1
+	},
+	"1a1c9de5-6db5-4092-97ac-a4883383fadd": {
+		"Name": "Small PAC lens (cross inputs)",
+		"Cell": 3
+	},
+	"2e429412-2982-4335-bf3c-a6c6609c8cbf": {
+		"Name": "Small PAC lens (rear inputs)",
+		"Cell": 6
+	},
+	"45ce64f5-86ca-425a-8074-7603cdfc1d4a": {
+		"Name": "Storage Laser Cavity",
+		"Cell": 9
+	},
+	"328006a1-123f-432a-b18b-601dd1284247": {
+		"Name": "ACB Controller",
+		"Cell": 1
+	},
+	"7d3ca7b4-1b99-4e18-a1ee-498fa86b3ef4": {
+		"Name": "Adventure Bell",
+		"Cell": 1
+	},
+	"585b5669-d551-4bbe-b9ee-f7e3c1802773": {
+		"Name": "Articulated chair",
+		"Cell": 1
+	},
+	"a3d914e9-697d-425f-abda-a6b21b4de952": {
+		"Name": "Automated Control Block",
+		"Cell": 1
+	},
+	"d4806e59-5ebe-40b1-b223-c8232691396d": {
+		"Name": "BoomBlock",
+		"Cell": 1
+	},
+	"7fcfdaf0-2d2a-43be-842a-423e736ccdd0": {
+		"Name": "Bread Board",
+		"Cell": 1
+	},
+	"f4138d11-e258-4925-9a8e-1b0054e4b82b": {
+		"Name": "Chaff Emitter",
+		"Cell": 1
+	},
+	"0706d2b0-c244-4e0f-8577-79338cb073cf": {
+		"Name": "Chair",
+		"Cell": 1
+	},
+	"46fc87ec-0f7f-4c55-a5d3-721365c5f364": {
+		"Name": "Compact Repair Tentacle",
+		"Cell": 1
+	},
+	"6a04c57e-0076-4f30-9f99-f92eba7fcd53": {
+		"Name": "Complex Controller",
+		"Cell": 2
+	},
+	"1240b6db-1f41-442a-88ce-5ab0944d804b": {
+		"Name": "Control Terminal",
+		"Cell": 1
+	},
+	"e961fe5b-cce0-4a1e-8742-936ab8088636": {
+		"Name": "Dish piece",
+		"Cell": 1
+	},
+	"07d89ff6-b780-47af-b0bb-ed1aa6c04104": {
+		"Name": "Docking station 1m",
+		"Cell": 1
+	},
+	"7e9abf0f-84a7-44e6-b4c3-e3da6f942072": {
+		"Name": "Docking station",
+		"Cell": 4
+	},
+	"d24cdfe7-bb26-403d-a854-dfa77506e5fb": {
+		"Name": "Drive maintainer",
+		"Cell": 1
+	},
+	"2e715d3f-349f-41e1-bd89-7f685939d5aa": {
+		"Name": "Elevated Chair",
+		"Cell": 1
+	},
+	"5b609887-c1dd-407b-b3b6-b1eb35d1e818": {
+		"Name": "Fire control computer",
+		"Cell": 2
+	},
+	"20100af6-ccd1-41ff-b7b0-5d2f6bb99f85": {
+		"Name": "Fortress Controller",
+		"Cell": 2
+	},
+	"7cd6a310-cf17-4f6d-a818-8f29d029778f": {
+		"Name": "Heart Stone Extension",
+		"Cell": 1
+	},
+	"6a7c1ad1-21e5-4b2e-bf04-cc08d639313c": {
+		"Name": "Heart Stone",
+		"Cell": 1
+	},
+	"4576e3fe-8eda-4e24-9823-eb68e4a9c953": {
+		"Name": "Heat Decoy",
+		"Cell": 1
+	},
+	"d3924bae-be5a-43a0-be19-64fc7c8d6059": {
+		"Name": "LUA Box",
+		"Cell": 1
+	},
+	"4530f64d-a4d9-465c-8160-e69ddcc29d9d": {
+		"Name": "Munition decorator",
+		"Cell": 1
+	},
+	"f817665f-e59a-43a0-9c86-0d39f64b594a": {
+		"Name": "Origin block",
+		"Cell": 1
+	},
+	"ceed114a-ddb5-47d4-9b7a-ef1ce9398e09": {
+		"Name": "PID (General Purpose)",
+		"Cell": 1
+	},
+	"8dd0863a-d0c7-4cc9-b583-d7482d0459a2": {
+		"Name": "Radar Decoy",
+		"Cell": 1
+	},
+	"ad96a3cc-119e-4842-86cd-c633b1c702bb": {
+		"Name": "Remote Vehicle Controller",
+		"Cell": 2
+	},
+	"bf0db0d2-8582-41d2-bcfe-5299bec3d06b": {
+		"Name": "Repair Bot",
+		"Cell": 1
+	},
+	"0b59767f-dcf2-43f3-895b-d876afed0063": {
+		"Name": "Repair Tentacle",
+		"Cell": 1
+	},
+	"3af29052-8fa5-4998-a0e0-b3ea188d8860": {
+		"Name": "Respawning beacon",
+		"Cell": 2
+	},
+	"e6b63003-67cc-4884-87ef-f791b1a3a30c": {
+		"Name": "Separator (1m)",
+		"Cell": 1
+	},
+	"26622409-60f8-43dd-afb9-f33853bf50c1": {
+		"Name": "Separator (3m)",
+		"Cell": 9
+	},
+	"9ce5e591-bb6b-4827-91af-5c8530210516": {
+		"Name": "Separator Attachment (1m)",
+		"Cell": 1
+	},
+	"12904332-3830-42bd-b34a-3cb522e2c6d6": {
+		"Name": "Separator Attachment (3m)",
+		"Cell": 9
+	},
+	"f7042d78-d7ae-4a0b-b273-197813c61648": {
+		"Name": "Shield Projector",
+		"Cell": 1
+	},
+	"936f57b0-0376-411e-a9c2-776681111efc": {
+		"Name": "Ship's wheel",
+		"Cell": 2
+	},
+	"2133d1cd-0307-44e8-b156-5aecf3625230": {
+		"Name": "Sonar Decoy",
+		"Cell": 1
+	},
+	"042cfada-38db-4af5-a1c8-13ddce0da29c": {
+		"Name": "Spin Block Controller",
+		"Cell": 2
+	},
+	"5ea1b039-9f46-45ac-b8d3-ba837f10f069": {
+		"Name": "Strategic Antenna",
+		"Cell": 4
+	},
+	"58e7abb1-de9f-47f9-864b-d5c8218f1769": {
+		"Name": "Subvehicle Spawner",
+		"Cell": 1
+	},
+	"c125728d-3952-44cd-939e-84f8290fbd9f": {
+		"Name": "Surge Protector 2m",
+		"Cell": 2
+	},
+	"86fc7d73-2558-4dce-ad25-0825d2786063": {
+		"Name": "Surge Protector 3m",
+		"Cell": 3
+	},
+	"ac2d906e-4ff2-47bf-a8a8-4381a50ad5bc": {
+		"Name": "Surge Protector 4m",
+		"Cell": 4
+	},
+	"9a564782-3a07-472b-ae06-5a7dfd123e7d": {
+		"Name": "Surge Protector",
+		"Cell": 1
+	},
+	"06484d1a-d956-49a4-b9de-e779696d001c": {
+		"Name": "Tactical Nuke",
+		"Cell": 2
+	},
+	"4c352619-ef4f-4919-b64c-ef11d4435754": {
+		"Name": "Teleport pad",
+		"Cell": 9
+	},
+	"14930ee7-6795-44f4-ab26-a55a67e8ce01": {
+		"Name": "Text Screen",
+		"Cell": 1
+	},
+	"ae2bb239-d304-4037-b35d-eb7d3ded91bf": {
+		"Name": "Thrust Controller",
+		"Cell": 2
+	},
+	"d43b5a55-9e60-48f9-9e77-ac1cfa97dafa": {
+		"Name": "Vehicle Blueprint Spawner",
+		"Cell": 2
+	},
+	"c6b9d38c-01e5-4a37-8493-2b7f7f1d74fb": {
+		"Name": "Vehicle Controller Small",
+		"Cell": 1
+	},
+	"2ed46940-a47c-4283-bf5d-6b52132da9b4": {
+		"Name": "Vehicle Controller",
+		"Cell": 2
+	},
+	"251a3c8a-62d7-41bd-a648-268e3b1c2c83": {
+		"Name": "Video Controller",
+		"Cell": 1
+	},
+	"7d005e15-c63a-44f0-b12e-b8599a9f0424": {
+		"Name": "Widget",
+		"Cell": 1
+	},
+	"22c7914a-d836-4b41-93e7-7de9e3b9b11e": {
+		"Name": "Wireless Camera",
+		"Cell": 1
+	},
+	"154e5001-729c-4a9f-983b-342d3092a0f3": {
+		"Name": "Connector",
+		"Cell": 1
+	},
+	"310a7a9a-8d4e-4365-a877-1a8e2bac2a81": {
+		"Name": "Controller",
+		"Cell": 1
+	},
+	"86a6eb4b-cb64-4451-9dc5-94efff6b8ed6": {
+		"Name": "Ejector Add On",
+		"Cell": 1
+	},
+	"874113a3-3f91-4615-a9fb-008a83566803": {
+		"Name": "Huge Gantry",
+		"Cell": 24
+	},
+	"5697891b-f3d6-4587-9a86-bd4faa29171e": {
+		"Name": "Huge Hatch",
+		"Cell": 50
+	},
+	"6fc05823-7905-4b5e-bde0-858010860e91": {
+		"Name": "Huge Launcher",
+		"Cell": 12
+	},
+	"56b8c974-6eb9-4ef4-888d-aeaba3bcf7a2": {
+		"Name": "Huge Rail Gantry (invisible)",
+		"Cell": 24
+	},
+	"9eedfe02-5a15-45c1-b785-56f5aea76145": {
+		"Name": "Huge Rail Gantry",
+		"Cell": 24
+	},
+	"9bff4b97-c652-4da7-99df-ab4a1bd5551e": {
+		"Name": "Huge Rail Launcher",
+		"Cell": 24
+	},
+	"4aa8cfcb-7aeb-430b-9726-f8bb8d8f4124": {
+		"Name": "Identify Friend Or Foe Add-on",
+		"Cell": 1
+	},
+	"cd788eca-ec52-40d2-bf17-48a6d47e569e": {
+		"Name": "Large Gantry Left",
+		"Cell": 4
+	},
+	"87d9e52e-6386-4e93-ae29-aab2522f3edb": {
+		"Name": "Large Gantry",
+		"Cell": 4
+	},
+	"43d357dd-d896-4f43-a0ff-8c3b091267c4": {
+		"Name": "Large Launcher Left",
+		"Cell": 4
+	},
+	"7f797f00-46fc-42a6-888d-71bd3ed9af02": {
+		"Name": "Large Launcher (reversed) left",
+		"Cell": 4
+	},
+	"9424812a-274e-4223-a3ae-9ee86a7db46b": {
+		"Name": "Large Launcher (reversed)",
+		"Cell": 4
+	},
+	"6a166a7c-dc50-401c-8498-3a7d6b7f09e7": {
+		"Name": "Large Launcher",
+		"Cell": 4
+	},
+	"9815045c-62a7-4bef-90f6-b385a26754ca": {
+		"Name": "Large Missile Hatch 2x2",
+		"Cell": 4
+	},
+	"a85fe5af-6d4a-4fcb-9744-d9d23fff5046": {
+		"Name": "Large Missile Hatch 2x2",
+		"Cell": 4
+	},
+	"eb38713d-831b-4118-8dad-a6551c1f7268": {
+		"Name": "Large Missile Hatch 4x4",
+		"Cell": 16
+	},
+	"c0a9174a-0685-48cc-a930-a3dadf614936": {
+		"Name": "Large Rail Gantry (invisible) left",
+		"Cell": 4
+	},
+	"76c9e52e-6386-4e93-ae29-aab2522f3edb": {
+		"Name": "Large Rail Gantry (invisible)",
+		"Cell": 4
+	},
+	"437fdc18-7d37-47d1-81f9-79aede662a26": {
+		"Name": "Large Rail Gantry Left",
+		"Cell": 4
+	},
+	"98a9e52e-6386-4e93-ae29-aab2522f3edb": {
+		"Name": "Large Rail Gantry",
+		"Cell": 4
+	},
+	"77b3c67d-f649-438c-8e24-5779c0f0bdbf": {
+		"Name": "Large Rail Launcher Left",
+		"Cell": 4
+	},
+	"54a66bcd-dc50-401c-8498-3a7d6b7f09e7": {
+		"Name": "Large Rail Launcher",
+		"Cell": 4
+	},
+	"6222ad4d-f6d8-48c0-9f27-10e2b64d7481": {
+		"Name": "Laser Emitter",
+		"Cell": 1
+	},
+	"dc17bd30-20ac-47c3-9c42-af6b3cdebf6e": {
+		"Name": "LUA Transceiver",
+		"Cell": 1
+	},
+	"8bb3a572-1dd2-4bf4-a6a2-83698310ea82": {
+		"Name": "Medium Gantry + Aerodynamic Hatch",
+		"Cell": 2
+	},
+	"ddde6a1e-6273-4bd9-ba1d-cb3380f38408": {
+		"Name": "Medium Gantry + Hatch",
+		"Cell": 2
+	},
+	"b1ef236a-9ecb-406c-b4f0-6ef0fbb50bd1": {
+		"Name": "Medium Gantry",
+		"Cell": 1
+	},
+	"c743b888-a53c-42b8-b4f0-3afc6d763617": {
+		"Name": "Medium Launcher (reversed)",
+		"Cell": 1
+	},
+	"bfb82ee6-345a-44a4-84e1-d6706cc8b29d": {
+		"Name": "Medium Launcher",
+		"Cell": 1
+	},
+	"912404d2-30c9-47c5-8430-5e2834b64271": {
+		"Name": "Medium Rail Gantry (invisible)",
+		"Cell": 1
+	},
+	"44cdf22f-f4b9-43bc-aaff-2d4ae6c80503": {
+		"Name": "Medium Rail Gantry",
+		"Cell": 1
+	},
+	"8ba7a591-3923-4344-9f87-0588c6a1aba0": {
+		"Name": "Medium Rail Launcher",
+		"Cell": 1
+	},
+	"72091a02-bab4-40a7-9ee0-4c180ee24f99": {
+		"Name": "Missile Radar Buoy Holder",
+		"Cell": 1
+	},
+	"2be9c88d-be24-4880-aa12-ea8dc685a726": {
+		"Name": "Missile Sonar Buoy Holder",
+		"Cell": 1
+	},
+	"bc3f4b55-39b3-4a99-9823-fe57ec15aa41": {
+		"Name": "Missile wireless receiver",
+		"Cell": 1
+	},
+	"f4df33ca-5cc4-4bf1-b0de-030b7e3586a3": {
+		"Name": "Missile wireless transmitter",
+		"Cell": 1
+	},
+	"2cf00d3a-02a2-4d77-a432-9b1e7d52aa3a": {
+		"Name": "Small Gantry + Hatch",
+		"Cell": 1
+	},
+	"639405b3-d2bf-4eb6-aef3-72f7e62bf151": {
+		"Name": "Small Gantry",
+		"Cell": 1
+	},
+	"26b0f142-9419-41f1-9c13-3a2b62437f60": {
+		"Name": "Small Launcher (Reversed)",
+		"Cell": 1
+	},
+	"1b9aa074-9b04-4b5c-b30e-35bdfa0e0835": {
+		"Name": "Small Launcher",
+		"Cell": 1
+	},
+	"f0bc9808-c1d6-49c4-967e-3ff2de9379cf": {
+		"Name": "Small Rail Gantry (invisible)",
+		"Cell": 1
+	},
+	"8cfd4184-ee25-4431-8c83-b9f0bf214625": {
+		"Name": "Small Rail Gantry",
+		"Cell": 1
+	},
+	"a7aaf947-f16c-489b-a10e-b48d03e0d209": {
+		"Name": "Small Rail Launcher",
+		"Cell": 1
+	},
+	"f1cc9808-c1d6-49c4-967e-3ff2de9379cf": {
+		"Name": "Small Single Rail Gantry (invisible)",
+		"Cell": 1
+	},
+	"9dfd4184-ee25-4431-8c83-b9f0bf214625": {
+		"Name": "Small Single Rail Gantry",
+		"Cell": 1
+	},
+	"b8bbf947-f16c-489b-a10e-b48d03e0d209": {
+		"Name": "Small Single Rail Launcher",
+		"Cell": 1
+	},
+	"d30acc39-3742-47bd-82de-f5e1b9af565d": {
+		"Name": "Staggered fire add-on",
+		"Cell": 1
+	},
+	"b0c166d0-c6dd-4328-97a9-335c25fff2fb": {
+		"Name": "Winch",
+		"Cell": 1
+	},
+	"79eaae57-56e1-4bb5-a573-bb9c829e8c8e": {
+		"Name": "Nuclear Containment Corner",
+		"Cell": 8
+	},
+	"b7b36555-0ab1-4a64-ba01-3017e4809cf6": {
+		"Name": "Nuclear Containment Platform",
+		"Cell": 8
+	},
+	"e4dabc7e-9566-4e7d-8d28-cbec2f811798": {
+		"Name": "Nuclear Containment Wall Corner",
+		"Cell": 8
+	},
+	"23696e3e-a6c7-4ac3-8ba8-884718dd688c": {
+		"Name": "Nuclear Containment Wall Slope",
+		"Cell": 8
+	},
+	"1980c435-9871-470c-973e-9253f8a3b122": {
+		"Name": "Nuclear Containment Wall",
+		"Cell": 8
+	},
+	"9d5fa98d-ce5c-4e7a-8041-2fee8d28fe35": {
+		"Name": "Nuclear Control Rod",
+		"Cell": 4
+	},
+	"078b7202-f156-4936-8ca3-860055a20f1c": {
+		"Name": "Nuclear Engine Core",
+		"Cell": 27
+	},
+	"536fa669-d522-465a-a67a-589a07aa09ad": {
+		"Name": "Nuclear Material",
+		"Cell": 2
+	},
+	"30e8ed70-1885-444a-9697-a89d5c524690": {
+		"Name": "Nuclear Rod Controller",
+		"Cell": 8
+	},
+	"490e286d-0367-40f2-8ed6-60d70a60bdfd": {
+		"Name": "Nuclear Water inlet and outlet",
+		"Cell": 8
+	},
+	"777dfdef-8c19-4892-b539-e80084223bfb": {
+		"Name": "Plasma Accelerator 2m",
+		"Cell": 2
+	},
+	"0cd861cc-cf38-4fd8-b02b-29140316cd45": {
+		"Name": "Plasma Accelerator 4m",
+		"Cell": 4
+	},
+	"b4f326cb-64db-46e7-87c3-2d011c58ee2b": {
+		"Name": "Plasma Accelerator 6m",
+		"Cell": 6
+	},
+	"d90f51b0-ff15-44c8-8d84-ce7ed263fc8e": {
+		"Name": "Plasma Accelerator 8m",
+		"Cell": 8
+	},
+	"c8327813-a7fe-4f2b-b1e2-9d5c7e5e5e27": {
+		"Name": "Plasma Chamber 1m",
+		"Cell": 1
+	},
+	"4c3ab614-cc13-4028-a64b-554ffaba7d57": {
+		"Name": "Plasma Chamber 2m",
+		"Cell": 2
+	},
+	"e5c97f05-4999-4373-939c-af3a03b2e67c": {
+		"Name": "Plasma Chamber 4m",
+		"Cell": 4
+	},
+	"6c81cad9-32e3-4056-b39e-0eca91af153d": {
+		"Name": "Plasma Collector 3m",
+		"Cell": 3
+	},
+	"16e04513-83ef-4844-9721-ec6c711f813e": {
+		"Name": "Plasma Collector 3x3",
+		"Cell": 9
+	},
+	"0a9b2870-831a-4148-8a84-4b95652c6a99": {
+		"Name": "Plasma Collector 5m",
+		"Cell": 5
+	},
+	"e57aeec0-562f-41e8-823d-618aaa1f59f1": {
+		"Name": "Plasma Collector Cross",
+		"Cell": 1
+	},
+	"fd9e510d-a575-4510-b7ce-81592ebb6959": {
+		"Name": "Plasma Collector Side",
+		"Cell": 9
+	},
+	"7c979384-c633-475d-8a7c-008843f5640c": {
+		"Name": "Plasma Collector",
+		"Cell": 1
+	},
+	"29b3a949-f062-4d96-b53f-0b1acbad4ec4": {
+		"Name": "Plasma Connector 2m",
+		"Cell": 2
+	},
+	"99eeb4c6-c081-4ccc-b71a-d2179e94be94": {
+		"Name": "Plasma Connector 4m",
+		"Cell": 4
+	},
+	"1b664796-bb5c-40ee-9db7-6b517c1b28b6": {
+		"Name": "Plasma Connector Hub",
+		"Cell": 1
+	},
+	"4d9442ec-0a9b-4873-aab5-979c6f02ef7f": {
+		"Name": "Plasma Connector L",
+		"Cell": 1
+	},
+	"79d580ff-2dc2-42d5-b453-03acde0ef18c": {
+		"Name": "Plasma Connector",
+		"Cell": 1
+	},
+	"9b230797-737a-4ef8-a0e6-fb1a8d069a9a": {
+		"Name": "Plasma Cooler 2m",
+		"Cell": 2
+	},
+	"6221a261-abf5-416c-8db0-8c0a97f79bc5": {
+		"Name": "Plasma Cooler",
+		"Cell": 1
+	},
+	"aa1e2175-119f-437e-b48f-a47f4714bd3b": {
+		"Name": "Plasma Emitter Destabilizer",
+		"Cell": 1
+	},
+	"b5e568e5-67c3-42ba-8c36-b5ba5c431e42": {
+		"Name": "Plasma Emitter Splitter",
+		"Cell": 1
+	},
+	"ffb331d2-8f72-4be6-b5e7-99053d71fe85": {
+		"Name": "Plasma Emitter Stabilizer",
+		"Cell": 1
+	},
+	"10d94d9c-5ace-4348-ac2d-208a49c2273d": {
+		"Name": "Plasma Generator 1m",
+		"Cell": 1
+	},
+	"66c94e72-2465-4e98-9477-353ee614e654": {
+		"Name": "Plasma Generator 2m",
+		"Cell": 2
+	},
+	"499e7ed2-204b-4e30-a266-ed42484ec8c5": {
+		"Name": "Plasma Mantlet AA",
+		"Cell": 1
+	},
+	"7a38d880-6322-4e50-ab8c-27808bbd34c1": {
+		"Name": "Plasma Mantlet Forward",
+		"Cell": 1
+	},
+	"da8f95fa-756d-4968-a217-7b8616fdb89c": {
+		"Name": "Ammo Barrel (empty)",
+		"Cell": 1
+	},
+	"31277649-04ec-45db-adfc-4a7d0a73686a": {
+		"Name": "Ammo Barrel",
+		"Cell": 1
+	},
+	"382b9ebb-03a5-4384-abfa-d7c74f7a9f46": {
+		"Name": "Ammo Parts Box (empty)",
+		"Cell": 1
+	},
+	"82b2446e-c12e-436a-8340-76d38372ead1": {
+		"Name": "Ammo Parts Box",
+		"Cell": 1
+	},
+	"b665e908-9db0-4c06-a209-1a7e9f41f283": {
+		"Name": "Ammunition Processor",
+		"Cell": 2
+	},
+	"38e9a85a-ac7d-4cb0-bd43-a5ae2099640c": {
+		"Name": "Battery Storage Beam",
+		"Cell": 4
+	},
+	"56c27d46-39b3-4ac1-b4f7-71c118d8dde9": {
+		"Name": "Battery Storage Large",
+		"Cell": 9
+	},
+	"56450137-c20f-4793-972c-fb3fe56ae8d5": {
+		"Name": "Battery Storage Medium (mirror)",
+		"Cell": 8
+	},
+	"ee47622e-4eb6-4fd0-81f7-97b33adde8d2": {
+		"Name": "Battery Storage Medium",
+		"Cell": 8
+	},
+	"8600329a-4b2b-44c7-8e66-634b0d81ce3d": {
+		"Name": "Battery",
+		"Cell": 1
+	},
+	"a0a6c5da-d68a-48dd-864f-e7632f8f6fde": {
+		"Name": "Crate",
+		"Cell": 1
+	},
+	"ce79f42d-107f-4483-91c4-f5520c1d79e6": {
+		"Name": "Crystal growth farm",
+		"Cell": 9
+	},
+	"4270e6e1-4d30-416b-9ed3-5bc64d574148": {
+		"Name": "Crystal growth tray",
+		"Cell": 9
+	},
+	"c8fe583a-357b-4fa6-86f1-fc2de639c909": {
+		"Name": "Electric Engine",
+		"Cell": 1
+	},
+	"cf1cffd2-27e9-45b7-9720-0025e890f99b": {
+		"Name": "Fancy Material Storage Large",
+		"Cell": 4
+	},
+	"f05191b9-468c-407b-9601-453a46fbaf1a": {
+		"Name": "Fancy Material Storage Small",
+		"Cell": 2
+	},
+	"1327d1ea-c923-44cf-85b0-eb9e1e272167": {
+		"Name": "Fuel Refinery Catalytic Cracker",
+		"Cell": 27
+	},
+	"6bcaa132-06af-423a-9998-8f73161a2f73": {
+		"Name": "Fuel Refinery Coker",
+		"Cell": 27
+	},
+	"c89978fc-2b10-494d-8824-6717f24a8048": {
+		"Name": "Fuel Refinery Corner Pipe",
+		"Cell": 1
+	},
+	"9f97c3df-a0a3-4fa4-8570-094a2e65d8aa": {
+		"Name": "Fuel Refinery Desalter",
+		"Cell": 27
+	},
+	"4d9a507f-84a3-456a-8b60-6d1bf48816ca": {
+		"Name": "Fuel Refinery Flare Stack",
+		"Cell": 8
+	},
+	"442dd6e0-29d0-4457-9fa8-72deb3f25b62": {
+		"Name": "Fuel Refinery Hull Pipe",
+		"Cell": 1
+	},
+	"3b3b8073-7bde-4184-836b-3f1c8418eee4": {
+		"Name": "Fuel Refinery Junction Pipe",
+		"Cell": 1
+	},
+	"e3629274-8e2e-41ed-8315-d84f8db05995": {
+		"Name": "Fuel Refinery L-Junction Pipe (left)",
+		"Cell": 1
+	},
+	"c0b07b2b-3e92-4ba7-896e-71ff7284de03": {
+		"Name": "Fuel Refinery L-Junction Pipe (right)",
+		"Cell": 1
+	},
+	"743fbce9-9073-49b4-aa15-4a22a5a2f1e5": {
+		"Name": "Fuel Refinery Pipe 2m",
+		"Cell": 2
+	},
+	"a783daba-b6c2-4d87-aee8-ee1791f45587": {
+		"Name": "Fuel Refinery Pipe 3m",
+		"Cell": 3
+	},
+	"f21dc267-2735-4e75-a862-d48547d71663": {
+		"Name": "Fuel Refinery Pipe 4 way",
+		"Cell": 1
+	},
+	"d401bed1-2346-4eef-86aa-c303556f2138": {
+		"Name": "Fuel Refinery Pipe 4m",
+		"Cell": 4
+	},
+	"61683d9c-848c-4ae9-945e-62b12f8b44c3": {
+		"Name": "Fuel Refinery Pipe 5 way",
+		"Cell": 1
+	},
+	"21260a48-aeea-4ca3-b71a-f16959ed5955": {
+		"Name": "Fuel Refinery Pipe 6 way",
+		"Cell": 1
+	},
+	"42da61ac-9a3e-4146-9ae4-5d70580e1176": {
+		"Name": "Fuel Refinery Pipe",
+		"Cell": 1
+	},
+	"357175b3-cf60-4bad-ab62-109a6b77592d": {
+		"Name": "Fuel Refinery Throughput Pipe",
+		"Cell": 1
+	},
+	"164b642c-c99b-48f7-b001-2aeed1badb33": {
+		"Name": "Fuel Refinery X-Junction Pipe",
+		"Cell": 1
+	},
+	"56b29112-55f3-4e0a-9279-f6437adb2847": {
+		"Name": "Fuel Refinery",
+		"Cell": 27
+	},
+	"d40c0a33-eb4f-4fa0-8550-0e7a680eb275": {
+		"Name": "Fuel Storage Box (2m, empty)",
+		"Cell": 2
+	},
+	"4f87eff7-616b-4663-8f11-cd7a7ddd3649": {
+		"Name": "Fuel Storage Box (2m)",
+		"Cell": 2
+	},
+	"d676e16b-cc4c-4887-944e-77e9d07c7d30": {
+		"Name": "Fuel Storage Box (3x3m, empty)",
+		"Cell": 9
+	},
+	"d661f0e7-7f81-4227-80dd-f93aed873630": {
+		"Name": "Fuel Storage Box (3x3m)",
+		"Cell": 9
+	},
+	"5154dcf9-57f8-48f2-9503-5db1f1dc9ea5": {
+		"Name": "Fuel Storage Box (4m, empty)",
+		"Cell": 4
+	},
+	"9413049d-a4f7-4c1c-8b8a-d2f1f4c18e53": {
+		"Name": "Fuel Storage Box (4m)",
+		"Cell": 4
+	},
+	"7383557f-abe2-4bcc-849f-89b6c0d02c78": {
+		"Name": "Fuel Storage Box (empty)",
+		"Cell": 1
+	},
+	"5d8870cd-d401-4b52-a3dc-641c02b3b31f": {
+		"Name": "Fuel Storage Box",
+		"Cell": 1
+	},
+	"996cdf27-bebf-4999-9a2d-a54893ba70c6": {
+		"Name": "Fuel Storage Tank (empty)",
+		"Cell": 1
+	},
+	"79015536-c137-4c87-a337-99dcf3deff81": {
+		"Name": "Fuel Storage Tank",
+		"Cell": 1
+	},
+	"1ddd4971-348f-4e3b-bac7-23b3082792c4": {
+		"Name": "Machinery",
+		"Cell": 27
+	},
+	"45886651-bb90-4ae9-9a8b-ad6658514f37": {
+		"Name": "Material Gatherer",
+		"Cell": 2
+	},
+	"adb6b43b-06df-4daa-b8e6-bfaae277d6dd": {
+		"Name": "Material Storage Locker Large (mirror)",
+		"Cell": 8
+	},
+	"8cf1190e-6967-47cc-81c7-7258ec75d70e": {
+		"Name": "Material Storage Locker Large",
+		"Cell": 8
+	},
+	"52e52d0c-02d7-4965-a46e-93462e083659": {
+		"Name": "Material Storage Locker Small",
+		"Cell": 2
+	},
+	"8951fabe-dbbf-4b32-82e2-e36da0b92fdb": {
+		"Name": "Material Storage Tank Large (Head mirror)",
+		"Cell": 8
+	},
+	"4ac57cbd-c325-4d49-9e92-71ae3b6a65c6": {
+		"Name": "Material Storage Tank Large (Head)",
+		"Cell": 8
+	},
+	"abb3675f-8a83-4f48-8bfb-3703a961c205": {
+		"Name": "Material Storage Tank Large (mirror)",
+		"Cell": 8
+	},
+	"071de01c-2838-485b-bbae-9b3acfdbcdd9": {
+		"Name": "Material Storage Tank Large",
+		"Cell": 8
+	},
+	"a7ac32e0-c6ad-4663-a543-c9d3a9f2d0ec": {
+		"Name": "Material Storage Tank Small",
+		"Cell": 2
+	},
+	"ca9ca28a-3488-405f-8d74-8a609440ee95": {
+		"Name": "Metal Material Storage Large (mirror)",
+		"Cell": 8
+	},
+	"f6ab96bf-1d6b-499b-be62-21dd8962d37d": {
+		"Name": "Metal Material Storage Large",
+		"Cell": 8
+	},
+	"b63b85fc-685e-454f-8f93-31db02b95a05": {
+		"Name": "Metal Material Storage Small",
+		"Cell": 1
+	},
+	"0eda844f-466e-4855-8f35-bcede968cdf9": {
+		"Name": "Misc Material Storage Large (mirror)",
+		"Cell": 8
+	},
+	"d405df88-2c4d-4b33-a051-583defdf72d8": {
+		"Name": "Misc Material Storage Large",
+		"Cell": 8
+	},
+	"949d3fba-3b60-49ed-a83b-7180822d6bc0": {
+		"Name": "Misc Material Storage Small",
+		"Cell": 1
+	},
+	"8fd543c2-5d64-415f-befb-acb627cc1be3": {
+		"Name": "Oil Drill",
+		"Cell": 2
+	},
+	"063eb06e-57e0-43dd-b85e-90baed4f025c": {
+		"Name": "RTG (2m)",
+		"Cell": 2
+	},
+	"e8d04f75-a134-452e-a04a-af5172d65040": {
+		"Name": "RTG (3x3m)",
+		"Cell": 27
+	},
+	"344a6bb2-dada-45f3-ba66-6fdbbb57f394": {
+		"Name": "RTG (4m)",
+		"Cell": 4
+	},
+	"1c146ed1-3b8d-4171-ab72-42668e6827be": {
+		"Name": "Scrap smelter base",
+		"Cell": 9
+	},
+	"8078b4a3-f928-41de-be6e-79ea410e8091": {
+		"Name": "Scrap smelter top",
+		"Cell": 9
+	},
+	"2a488683-f25b-4ecb-aea6-9a1c96d1e372": {
+		"Name": "Wooden Material Storage Large (mirror)",
+		"Cell": 8
+	},
+	"a76daffa-ba3f-4c09-a947-5b694aca4448": {
+		"Name": "Wooden Material Storage Large",
+		"Cell": 8
+	},
+	"8746f5b3-e2a6-4067-95bc-9da3900690f8": {
+		"Name": "Wooden Material Storage Small",
+		"Cell": 1
+	},
+	"e3311cfd-f4a9-428e-8639-7523c2b42cc6": {
+		"Name": "Ring corner",
+		"Cell": 1
+	},
+	"80d4a4bf-2aa4-49da-a67c-4722376d0bc6": {
+		"Name": "Ring pipe",
+		"Cell": 1
+	},
+	"61228ef0-e45f-4074-bd16-9dc47b19be5b": {
+		"Name": "Shield Generator",
+		"Cell": 1
+	},
+	"7101e1cb-a501-49bd-8bbe-7a960881e72b": {
+		"Name": ".50 AA gun",
+		"Cell": 2
+	},
+	"0aa0fa2e-1a85-4493-9c4c-0a69c385395d": {
+		"Name": "130mm Casemate",
+		"Cell": 18
+	},
+	"aa070f63-c454-4f95-82fd-d946a32a1b66": {
+		"Name": "150mm Casemate",
+		"Cell": 27
+	},
+	"c94e1719-bcc7-4c6a-8563-505fad2f9db9": {
+		"Name": "16 pdr Cannon",
+		"Cell": 1
+	},
+	"b92a4ce6-ea93-4c0c-97d7-494ea611caa9": {
+		"Name": "20mm AA gun",
+		"Cell": 18
+	},
+	"1217043c-e786-4555-ba24-46cd1f458bf9": {
+		"Name": "3.7\" Gun Shield",
+		"Cell": 18
+	},
+	"f9f36cb3-cbfd-446a-9313-40f8e31e6e89": {
+		"Name": "3.7\" Gun",
+		"Cell": 18
+	},
+	"742f063f-d0fe-4f41-8717-a2c75c38d5e0": {
+		"Name": "30mm Assault Cannon",
+		"Cell": 3
+	},
+	"58305289-16ea-43cf-9144-2f23b383da81": {
+		"Name": "32 pdr Swivel Gun",
+		"Cell": 2
+	},
+	"3be0cab1-643b-4e3a-9f49-45995e4eb9fb": {
+		"Name": "40mm Octuple AA Gun",
+		"Cell": 18
+	},
+	"d8c5639a-ff5f-448e-a761-c2f69fac661a": {
+		"Name": "40mm Quad AA Gun",
+		"Cell": 18
+	},
+	"268d79bf-c266-48ed-b01b-76c8d4d31c92": {
+		"Name": "40mm Twin AA Gun",
+		"Cell": 18
+	},
+	"9b8657b9-c820-43a0-ad19-25ea45a100f1": {
+		"Name": "60mm Auto Cannon",
+		"Cell": 3
+	},
+	"2311e4db-a281-448f-ad53-0a6127573a96": {
+		"Name": "60mm Grenade Launcher",
+		"Cell": 1
+	},
+	"e1d1bcae-f5e4-42bb-9781-6dde51b8e390": {
+		"Name": "64 pdr Cannon",
+		"Cell": 2
+	},
+	"5cf2b4da-c1b8-4005-930b-73cc39ac9d28": {
+		"Name": "Laser",
+		"Cell": 4
+	},
+	"c0e407e9-fc15-43fa-9a61-4c79a3acb6a9": {
+		"Name": "Ram",
+		"Cell": 2
+	},
+	"16b67fbc-25d5-4a35-a0df-4941e7abf6ef": {
+		"Name": "Revolving Blast-Gun",
+		"Cell": 1
+	},
+	"d3e8e14a-58e7-4bdd-b1b3-0f37e4723a73": {
+		"Name": "Shard Cannon",
+		"Cell": 6
+	},
+	"b633f303-0131-489a-ad4c-68b94fc5d93f": {
+		"Name": "Large 2m sealed shaft",
+		"Cell": 1
+	},
+	"ceae02f9-2a21-40a0-b0d5-fdb0e4975826": {
+		"Name": "Large 5m propeller",
+		"Cell": 25
+	},
+	"3d03785a-21b9-42c7-8acb-17cf43de9d58": {
+		"Name": "Large 7m propeller",
+		"Cell": 49
+	},
+	"0f172964-3bad-437d-b17c-0b52c8ddc43a": {
+		"Name": "Large axis-shifting gears L",
+		"Cell": 8
+	},
+	"aac4a0a5-9ff4-489d-a119-ea1b6e56ea87": {
+		"Name": "Large axis-shifting gears R",
+		"Cell": 8
+	},
+	"bd32505c-29b2-4ff2-aa27-4ab3018b6706": {
+		"Name": "Large boiler connector",
+		"Cell": 25
+	},
+	"16e58d6d-30ce-40ac-a80e-ea153a3608a8": {
+		"Name": "Large boiler control",
+		"Cell": 25
+	},
+	"2f3a940f-b0fb-42ab-aabf-f1c933fe0264": {
+		"Name": "Large boiler end",
+		"Cell": 25
+	},
+	"1af1b76e-23df-495e-8bc7-711ce2c221f8": {
+		"Name": "Large boiler",
+		"Cell": 25
+	},
+	"09bec717-8b13-40ab-8468-0630cae1e964": {
+		"Name": "Large cased crank",
+		"Cell": 27
+	},
+	"19a3d1a2-574e-4619-91b0-050d3b1201a9": {
+		"Name": "Large crank motor",
+		"Cell": 6
+	},
+	"23797716-3986-4ee7-8fed-f7884a10d810": {
+		"Name": "Large engine shaft",
+		"Cell": 1
+	},
+	"41f8d920-d038-4bd9-b84d-01603ac7a534": {
+		"Name": "Large gearbox",
+		"Cell": 6
+	},
+	"02f0c77e-2d93-4ecf-baad-5918e1825a96": {
+		"Name": "Large generator",
+		"Cell": 18
+	},
+	"0448ca96-fa37-4389-9ee3-3e7280ffadd3": {
+		"Name": "Large parallel piston",
+		"Cell": 45
+	},
+	"b8304b5f-9b20-48b0-b3df-a8187916ed98": {
+		"Name": "Large serial piston (mirror)",
+		"Cell": 45
+	},
+	"4479a607-8cbf-45de-bd6b-1de26e70423b": {
+		"Name": "Large serial piston",
+		"Cell": 45
+	},
+	"eb8186f4-6c24-48e6-b918-0aaea3bde6c9": {
+		"Name": "Large shaft bearing",
+		"Cell": 2
+	},
+	"b6184e42-1647-4bd2-8465-f8b88f76621f": {
+		"Name": "Large shaft",
+		"Cell": 1
+	},
+	"57b2c11e-8eea-4e0e-a102-56021b8df30f": {
+		"Name": "Large transmission",
+		"Cell": 40
+	},
+	"9da4b2a1-a69a-472d-ad2f-a65a9a36e6ea": {
+		"Name": "Large turbine generator connection",
+		"Cell": 50
+	},
+	"6c710586-6b65-4025-bb5c-1e359f45a352": {
+		"Name": "Large turbine generator",
+		"Cell": 25
+	},
+	"3dafc031-0a23-430f-bbca-4c7b8cd523db": {
+		"Name": "Large turbine middle",
+		"Cell": 50
+	},
+	"b87cbd21-faba-40de-9fca-a1f1a9178a21": {
+		"Name": "Large turbine pipe connection",
+		"Cell": 50
+	},
+	"524cc556-c755-4df0-b396-7cb44d98fcb5": {
+		"Name": "Large turbine window",
+		"Cell": 50
+	},
+	"8266bc4e-7dc4-4c3a-bef9-9dddf4dab8d2": {
+		"Name": "Large wheel",
+		"Cell": 9
+	},
+	"91db1f04-92a2-47c9-a3ea-be8cf37b60a7": {
+		"Name": "Medium 2m sealed shaft",
+		"Cell": 1
+	},
+	"0c5a2ff0-a0bf-490d-8cd7-219d71a1b629": {
+		"Name": "Medium 3m propeller",
+		"Cell": 9
+	},
+	"d43a0af4-69e3-4f28-a0fc-9d36b21273e2": {
+		"Name": "Medium 5m propeller",
+		"Cell": 25
+	},
+	"0fa43634-33a6-469e-9689-ffedb05b3a33": {
+		"Name": "Medium axis shifting gears",
+		"Cell": 2
+	},
+	"b44be747-32cb-41b7-9e1e-21472534b4b8": {
+		"Name": "Medium boiler",
+		"Cell": 9
+	},
+	"094e242e-85be-433b-b64a-1c951695568f": {
+		"Name": "Medium cased crank",
+		"Cell": 2
+	},
+	"de655a70-1b6f-4549-a810-029356047512": {
+		"Name": "Medium crank motor",
+		"Cell": 1
+	},
+	"c40ae12e-bf54-40ad-aa30-2278d78f86bc": {
+		"Name": "Medium crank",
+		"Cell": 2
+	},
+	"9e41c3e8-db93-41db-9ce3-95b248af6c68": {
+		"Name": "Medium engine shaft",
+		"Cell": 1
+	},
+	"a3114f91-5182-4803-9ec6-fc1e6a7f9a87": {
+		"Name": "Medium firebox",
+		"Cell": 1
+	},
+	"57d0b848-3bf5-45db-bfe2-447933aee7fd": {
+		"Name": "Medium gearbox",
+		"Cell": 2
+	},
+	"7ebdfa78-1942-457e-8f30-f178525bb5f1": {
+		"Name": "Medium piston (4m)",
+		"Cell": 4
+	},
+	"a5556bd2-0d78-48d1-bfa6-dbdd08443680": {
+		"Name": "Medium shaft bearing",
+		"Cell": 2
+	},
+	"c11040bb-b868-4ab9-91c6-6a3924cd5c19": {
+		"Name": "Medium shaft generator",
+		"Cell": 18
+	},
+	"6542630e-e790-4c24-9888-c949b4723ee4": {
+		"Name": "Medium Shaft",
+		"Cell": 1
+	},
+	"10c9e65e-ea35-47c9-a8a7-4de86c6438b8": {
+		"Name": "Medium steam controller",
+		"Cell": 2
+	},
+	"d3e77516-fa1c-4f78-acbe-731bb2a0e698": {
+		"Name": "Medium transmission",
+		"Cell": 12
+	},
+	"dbd44b5e-acc7-4797-9c06-a07b19f03bdd": {
+		"Name": "Medium turbine generator connection",
+		"Cell": 9
+	},
+	"2588c8c7-5347-4d68-b9a0-c794e5fdf408": {
+		"Name": "Medium turbine generator",
+		"Cell": 9
+	},
+	"25ae7b90-4e78-49c3-8bd5-59712fc87b77": {
+		"Name": "Medium turbine middle",
+		"Cell": 9
+	},
+	"1c4e94a1-c36a-4b8f-86be-a9b2ae736a71": {
+		"Name": "Medium turbine pipe connection",
+		"Cell": 9
+	},
+	"fd0d5e77-2074-4c3e-b708-4a2c0cc6f7a4": {
+		"Name": "Medium turbine window",
+		"Cell": 9
+	},
+	"7cbc276b-2e3d-4037-9aa8-9fc8c1f7a4fc": {
+		"Name": "Medium wheel 1m",
+		"Cell": 1
+	},
+	"7d016aa1-e2b3-4fb0-a51e-8e01df77c6c5": {
+		"Name": "Medium wheel",
+		"Cell": 9
+	},
+	"bf008077-997c-4371-a116-57de7d351fe7": {
+		"Name": "Small 1m propeller",
+		"Cell": 1
+	},
+	"f1cd8c28-fa65-48db-8049-1858a7fc6db3": {
+		"Name": "Small 2m sealed shaft",
+		"Cell": 1
+	},
+	"5373c818-c0e4-4cad-afc5-bed89f5236b4": {
+		"Name": "Small 3m propeller",
+		"Cell": 9
+	},
+	"ff8b571c-728e-4f81-9bad-3938ae8c540a": {
+		"Name": "Small axis shifting gears",
+		"Cell": 2
+	},
+	"811379b2-2e27-4268-b821-940766960802": {
+		"Name": "Small boiler",
+		"Cell": 1
+	},
+	"afbc81cf-82bc-4f9b-a96d-079f5cd12130": {
+		"Name": "Small cased crank",
+		"Cell": 1
+	},
+	"76fb5718-e965-46ab-9f0c-c82baf648abf": {
+		"Name": "Small compact turbine",
+		"Cell": 1
+	},
+	"c937c1c0-d6f3-46b4-af96-d1842a240fb3": {
+		"Name": "Small crank motor",
+		"Cell": 1
+	},
+	"ce84541b-a7f2-4d49-9074-040217580385": {
+		"Name": "Small crank",
+		"Cell": 1
+	},
+	"0e25d9c8-9b52-40db-9979-3d1492d9ffeb": {
+		"Name": "Small engine shaft",
+		"Cell": 1
+	},
+	"4d7a6918-e6ed-4328-a7b6-1f5e874618d5": {
+		"Name": "Small firebox",
+		"Cell": 1
+	},
+	"a91233a6-a786-4ca8-b50f-9faca5cb3733": {
+		"Name": "Small gearbox",
+		"Cell": 1
+	},
+	"a054889a-5380-4361-95e0-4482cf8bbe9f": {
+		"Name": "Small piston (2m)",
+		"Cell": 2
+	},
+	"3f95907f-c66f-4211-96d6-5765857a34de": {
+		"Name": "Small shaft bearing",
+		"Cell": 1
+	},
+	"4e4e3ca6-b90d-484d-80e4-6fe6b0261532": {
+		"Name": "Small shaft generator",
+		"Cell": 1
+	},
+	"f908dad2-4ca1-470b-b786-63ddc91f9432": {
+		"Name": "Small shaft",
+		"Cell": 1
+	},
+	"0639fbba-70be-4398-857c-6786dab39bea": {
+		"Name": "Small steam controller",
+		"Cell": 1
+	},
+	"c37830f6-bd7b-4c92-bf6e-cf902bbf8d0b": {
+		"Name": "Small transmission",
+		"Cell": 2
+	},
+	"5ed70947-70c6-4e1d-9241-7d670874a07f": {
+		"Name": "Small turbine generator connection",
+		"Cell": 1
+	},
+	"33d7dc96-ff04-4178-8f67-9c380d26f168": {
+		"Name": "Small turbine generator",
+		"Cell": 1
+	},
+	"caeab2bf-c814-43f2-a220-e13b6d557034": {
+		"Name": "Small turbine middle",
+		"Cell": 1
+	},
+	"9f96d700-d8bc-4aa1-bce8-f284a9117bc7": {
+		"Name": "Small turbine pipe connection",
+		"Cell": 1
+	},
+	"d34728c0-95de-49fd-a23d-735c7084556f": {
+		"Name": "Small turbine window",
+		"Cell": 1
+	},
+	"abd1afe4-2fb2-4f91-94aa-39d56f94ca05": {
+		"Name": "Small wheel",
+		"Cell": 1
+	},
+	"0e11729e-09d9-4a3c-83dd-1ee16ed4f2f8": {
+		"Name": "Steam corner pipe",
+		"Cell": 1
+	},
+	"62ecbf4b-19da-481e-8910-6201521c4bd9": {
+		"Name": "Steam hull pipe",
+		"Cell": 1
+	},
+	"3af2aa7c-86c8-47f5-896d-26d9622cdea8": {
+		"Name": "Steam jet",
+		"Cell": 1
+	},
+	"1bc2df6d-f59e-40f4-ade3-83a357676123": {
+		"Name": "Steam pipe 1m",
+		"Cell": 1
+	},
+	"3cdfdc8b-a6ec-4aa9-bd10-0aab93237825": {
+		"Name": "Steam pipe 2m",
+		"Cell": 2
+	},
+	"737a55bf-3ab9-472d-ac49-61309a13ef57": {
+		"Name": "Steam pipe 3 way (2)",
+		"Cell": 1
+	},
+	"c5555c97-f068-435d-8e2a-635bbc184c16": {
+		"Name": "Steam pipe 3 way (2)",
+		"Cell": 1
+	},
+	"267adeca-82e1-4578-8d3f-85608cd0aa87": {
+		"Name": "Steam pipe 3 way",
+		"Cell": 1
+	},
+	"03fc3659-217c-4189-9da1-1d9ae8b29f2a": {
+		"Name": "Steam pipe 4 way (2) (mirror)",
+		"Cell": 1
+	},
+	"31d3adbb-83ec-47aa-b2fa-7c874d710459": {
+		"Name": "Steam pipe 4 way (2)",
+		"Cell": 1
+	},
+	"bdfe2fc5-2d18-4c27-a2fe-c1a83f962730": {
+		"Name": "Steam pipe 4 way",
+		"Cell": 1
+	},
+	"d3f65018-2833-4746-9425-dd78590f4f26": {
+		"Name": "Steam pipe 4m",
+		"Cell": 4
+	},
+	"cd90265f-4593-446b-9153-623c2f339dc0": {
+		"Name": "Steam pipe 5 way",
+		"Cell": 1
+	},
+	"cd4d4ab6-0652-46dd-b887-71714317f470": {
+		"Name": "Steam pipe 6 way",
+		"Cell": 1
+	},
+	"a3ea3972-d2c4-409d-8f77-5be9e2809da0": {
+		"Name": "Steam pipe valve",
+		"Cell": 1
+	},
+	"b82023a0-5f10-4648-8230-74b159f6b185": {
+		"Name": "Steam pipe vent",
+		"Cell": 1
+	},
+	"96c9d85c-425a-4744-8ff3-36a364ceb99d": {
+		"Name": "Steam Shaft Drill Extension 1m",
+		"Cell": 1
+	},
+	"35cd6905-44d0-4bb3-be0f-20ee2ed670bf": {
+		"Name": "Steam Shaft Drill Extension 3m",
+		"Cell": 1
+	},
+	"cbe68b75-1568-494e-8caf-c9e5336faea7": {
+		"Name": "Steam Shaft Drill Extension 5m",
+		"Cell": 1
+	},
+	"deaa6f94-9d44-43aa-afce-1c23425c3aa9": {
+		"Name": "Steam Shaft Drill Extension 5m",
+		"Cell": 27
+	},
+	"cdc656c1-2266-470b-872c-79faa65dcaae": {
+		"Name": "Steam Shaft Drill Head 1m",
+		"Cell": 2
+	},
+	"532c3d76-ede3-4fbf-bf87-8e82b3acc73b": {
+		"Name": "Steam Shaft Drill Head 3m",
+		"Cell": 2
+	},
+	"c0eecb94-0410-4031-9015-2ec4b8fd4c80": {
+		"Name": "Steam Shaft Drill Head 5m",
+		"Cell": 2
+	},
+	"d00a6de3-be1a-4ae2-be0b-f7bb14d75052": {
+		"Name": "Steam Shaft Drill Head 5m",
+		"Cell": 54
+	},
+	"909e3611-6367-4b6c-ae61-4d909391bd66": {
+		"Name": "Steam tank 1m",
+		"Cell": 1
+	},
+	"54adcdbd-920b-43a4-b3d3-667f648505be": {
+		"Name": "Steam tank 3m",
+		"Cell": 9
+	},
+	"7dda1ddd-3839-4961-9f92-731c65165006": {
+		"Name": "Wide Drill Bit 5x5",
+		"Cell": 25
+	},
+	"a1fb0330-6320-474d-b58c-f43830f6eff1": {
+		"Name": "Wide drill bit 7x7",
+		"Cell": 49
+	},
+	"ff66ced4-c241-4d3a-b7e9-51e2db659095": {
+		"Name": "Wide Drill Bit",
+		"Cell": 9
+	},
+	"10e8b2e3-2a00-46e8-94d5-44c0403df6bf": {
+		"Name": "ERA Armour Slope (1m)",
+		"Cell": 1
+	},
+	"b6904047-0232-442f-b444-d99a440edf2f": {
+		"Name": "ERA Armour",
+		"Cell": 1
+	},
+	"2d519ca8-1f12-4a8e-9340-aa6648b5e799": {
+		"Name": "Glass block",
+		"Cell": 1
+	},
+	"0c03433e-8947-4e7d-9dec-793526fe06d1": {
+		"Name": "Heavy Armour",
+		"Cell": 1
+	},
+	"e71e6f97-fbe8-4bf5-9645-d15179ba0c17": {
+		"Name": "Lead Block",
+		"Cell": 1
+	},
+	"288e3778-900b-4bfd-a455-e94ed75c6ec2": {
+		"Name": "Light Block",
+		"Cell": 1
+	},
+	"3cc75979-18ac-46c4-9a5b-25b327d99410": {
+		"Name": "Light-weight Alloy Block",
+		"Cell": 1
+	},
+	"ab699540-efc8-4592-bc97-204f6a874b3a": {
+		"Name": "Metal Block",
+		"Cell": 1
+	},
+	"71a1775f-ecee-4f0c-8693-56cb5d94f5cc": {
+		"Name": "Morph wood block",
+		"Cell": 1
+	},
+	"6c0bab88-aa88-4825-9cf5-55df36aa12b8": {
+		"Name": "Rubber Block",
+		"Cell": 1
+	},
+	"710ee212-563b-42f8-acd1-57515479524d": {
+		"Name": "Stone Block",
+		"Cell": 1
+	},
+	"d51549fd-2e38-4271-b85a-afded45400df": {
+		"Name": "Window Block",
+		"Cell": 1
+	},
+	"f72b5a6e-081e-4889-b041-a90b2ca7ae4e": {
+		"Name": "Wood Block Variant",
+		"Cell": 1
+	},
+	"9a0ae372-beb4-4009-b14e-36ed0715af73": {
+		"Name": "Wood Block",
+		"Cell": 1
+	},
+	"aecb98bb-76cd-4d05-8304-acc1392ab596": {
+		"Name": "Alloy strut",
+		"Cell": 1
+	},
+	"fd48a04d-ddd7-4828-b6d0-b6d3347488ee": {
+		"Name": "Heavy armour strut",
+		"Cell": 1
+	},
+	"27c3ff2f-e9a1-4281-a79a-1a5daddd98cd": {
+		"Name": "Metal strut",
+		"Cell": 1
+	},
+	"a3746c99-5e0b-4e0f-ad1e-c0f834054d72": {
+		"Name": "Wing strut",
+		"Cell": 1
+	},
+	"ba4a4581-d315-494e-9936-a82acd3fce13": {
+		"Name": "Wood strut",
+		"Cell": 1
+	},
+	"3f0e0e85-2891-473d-bc22-03626afae27d": {
+		"Name": "Rudder Pivot Square",
+		"Cell": 1
+	},
+	"41dbf539-27a7-4240-91ff-9ff523d008bf": {
+		"Name": "Rudder Square",
+		"Cell": 1
+	},
+	"24f6df16-98dc-4176-93cf-456a5e4d7ab8": {
+		"Name": "Warp Charger (2m)",
+		"Cell": 2
+	},
+	"0a8d8d02-5d03-4488-8431-e75602fea1e4": {
+		"Name": "Warp Controller",
+		"Cell": 1
+	},
+	"c6497cec-51b5-4d94-940e-107990a25afd": {
+		"Name": "Warp Rod (2m)",
+		"Cell": 2
+	},
+	"d6c8b7aa-bdcd-459a-a2ec-fbbba09cffcf": {
+		"Name": "Warp Terminator",
+		"Cell": 1
+	},
+	"8331c71c-5725-472d-ad2e-65e4110982b7": {
+		"Name": "Air Pump",
+		"Cell": 1
+	},
+	"dd9dd993-3f46-47ca-bfc0-80f37e183e9b": {
+		"Name": "Articulated Paddle",
+		"Cell": 1
+	},
+	"a8dcd83f-ec5f-40fc-901e-0bf45a8e551b": {
+		"Name": "Boat Propeller circular",
+		"Cell": 1
+	},
+	"3a59c6f8-59dc-4a12-8fd3-c509a9d84906": {
+		"Name": "Boat Propeller",
+		"Cell": 1
+	},
+	"2078227e-d38c-4f58-abd0-6f4878806a9f": {
+		"Name": "Boat Rudder",
+		"Cell": 2
+	},
+	"576e79a6-07e1-4485-903d-e5929d512c08": {
+		"Name": "Huge propeller circular",
+		"Cell": 9
+	},
+	"9710b923-9e8c-4762-aa74-bffefb263a7e": {
+		"Name": "Huge propeller",
+		"Cell": 9
+	},
+	"953f1c50-c18f-43f4-815a-c19e5aff7af7": {
+		"Name": "Hydrofoil",
+		"Cell": 1
+	},
+	"ba1d3193-abc5-4b8c-a512-e8fffe95ad99": {
+		"Name": "Paddle",
+		"Cell": 1
+	},
+	"968caa09-3778-40bd-97f9-0efffa676803": {
+		"Name": "Sail Attachment",
+		"Cell": 1
+	},
+	"b1ec687f-252d-4b35-b57f-a0cf0bb72212": {
+		"Name": "Sail Main Block (Square Rig!)",
+		"Cell": 1
+	},
+	"48122725-f6bd-45e5-a6a4-40fa2ffee1d4": {
+		"Name": "Sail Main Block",
+		"Cell": 1
+	},
+	"8ca7ff43-d384-4588-a069-48ec57765db0": {
+		"Name": "Sail Winch",
+		"Cell": 1
+	},
+	"362cf2d2-533d-4622-b2c1-490843662d97": {
+		"Name": "Weather Vane circular",
+		"Cell": 1
+	},
+	"5c76e88d-29e4-4078-aed2-7686d5b1eec7": {
+		"Name": "Weather Vane",
+		"Cell": 1
+	},
+	"36eff35b-864d-4455-86e2-939996ca3f27": {
+		"Name": "Example mod block",
+		"Cell": 1
+	},
+	"755d86c3-86cd-456f-9256-5a274780faba": {
+		"Name": "Alloy Plate Slope",
+		"Cell": 1
+	},
+	"e8c5c921-b116-45cd-b0de-7a37973d5158": {
+		"Name": "Alloy Plate Triangle L",
+		"Cell": 1
+	},
+	"819dea06-da54-4236-a041-7346e3dad3d2": {
+		"Name": "Alloy Plate Triangle R",
+		"Cell": 1
+	},
+	"700c8381-fcd6-4f4a-b85c-c1e2de2813d0": {
+		"Name": "Applique corner 0.5m (mirror)",
+		"Cell": 1
+	},
+	"2fb6755f-46ba-4030-b993-3377070e9e14": {
+		"Name": "Applique corner 0.5m",
+		"Cell": 1
+	},
+	"b2e97525-af75-4731-b7c7-505fb5e727a7": {
+		"Name": "Applique corner 1.5m (mirror)",
+		"Cell": 1
+	},
+	"d7a76933-2332-47f6-814e-69b882e5038f": {
+		"Name": "Applique corner 1.5m",
+		"Cell": 1
+	},
+	"b128533d-4380-43ab-bf82-026fde9929e0": {
+		"Name": "Applique corner 1m (mirror)",
+		"Cell": 1
+	},
+	"f8c63d22-e3dc-41cd-97bb-7d7a1e2984c8": {
+		"Name": "Applique corner 1m",
+		"Cell": 1
+	},
+	"eefe6a78-fda8-4538-a2e6-b11896b2b1f5": {
+		"Name": "Applique corner 2.5m (mirror)",
+		"Cell": 2
+	},
+	"6511fde1-7e8c-4bb1-afb6-c621be27c55a": {
+		"Name": "Applique corner 2.5m",
+		"Cell": 2
+	},
+	"7d62608d-ed83-469c-ac61-4d020ef90dab": {
+		"Name": "Applique corner 2m (mirror)",
+		"Cell": 2
+	},
+	"65d42e77-a585-4af9-a5b7-7e1e61e3383f": {
+		"Name": "Applique corner 2m",
+		"Cell": 2
+	},
+	"daa5a49e-b1b9-42c1-bf88-ad539bd37e86": {
+		"Name": "Applique corner 3.5m (mirror)",
+		"Cell": 3
+	},
+	"3d28e934-6002-4d45-bce8-6f7256bb1c29": {
+		"Name": "Applique corner 3.5m",
+		"Cell": 3
+	},
+	"1848856b-3feb-4885-8a7b-98b42e7be553": {
+		"Name": "Applique corner 3m (mirror)",
+		"Cell": 3
+	},
+	"d80ec990-8ac7-483e-b95c-3843fb56008d": {
+		"Name": "Applique corner 3m",
+		"Cell": 3
+	},
+	"04bf43a2-cce2-473e-996c-31387b5545eb": {
+		"Name": "Applique corner 4.5m (mirror)",
+		"Cell": 4
+	},
+	"b41f065a-b258-48ff-abf4-6fde124c208b": {
+		"Name": "Applique corner 4.5m",
+		"Cell": 4
+	},
+	"7af10c62-ba00-461c-926f-b292717eb5fe": {
+		"Name": "Applique corner 4m (mirror)",
+		"Cell": 4
+	},
+	"0ddbbcd6-e226-4f8e-a2c5-9aa6b28b292a": {
+		"Name": "Applique corner 4m",
+		"Cell": 4
+	},
+	"5dc0032d-d532-4766-b081-4204947bcaa0": {
+		"Name": "Applique Panel 2m",
+		"Cell": 2
+	},
+	"195e0661-21dc-4fba-88f1-81481f3bf409": {
+		"Name": "Applique Panel 3m",
+		"Cell": 3
+	},
+	"1fa6e1a9-83fb-4efc-b9bc-19ea0d1005cb": {
+		"Name": "Applique Panel 4m",
+		"Cell": 4
+	},
+	"ec641c5f-d6fa-4e58-8158-142f44c2516a": {
+		"Name": "Applique Slope 0.5m",
+		"Cell": 1
+	},
+	"9083c801-30fd-4c67-b571-b67aeb48ec88": {
+		"Name": "Applique Slope 1.5m",
+		"Cell": 1
+	},
+	"2eca89e0-5c2f-4b1c-a5bf-df5190e13ef4": {
+		"Name": "Applique Slope 1m",
+		"Cell": 1
+	},
+	"5db44623-9d7e-40f1-ac8b-c91e15a709f1": {
+		"Name": "Applique Slope 2.5m",
+		"Cell": 2
+	},
+	"85ea264e-6ef0-48df-9adc-9b1a8fe15247": {
+		"Name": "Applique Slope 2m",
+		"Cell": 2
+	},
+	"486800cf-72f3-470d-9b3c-db6066fbca00": {
+		"Name": "Applique Slope 3.5m",
+		"Cell": 3
+	},
+	"f62c34b8-727e-4f6d-8d75-97c52631b7f9": {
+		"Name": "Applique Slope 3m",
+		"Cell": 3
+	},
+	"548c437e-66c2-4783-8b22-1ce784019672": {
+		"Name": "Applique Slope 4.5m",
+		"Cell": 4
+	},
+	"60bc1939-6207-4b3e-9f31-444ed626c775": {
+		"Name": "Applique Slope 4m",
+		"Cell": 4
+	},
+	"306279e7-5dea-464c-9991-bb3faf7d6c99": {
+		"Name": "Chain Small",
+		"Cell": 1
+	},
+	"a753d0bc-78d2-4034-bba5-8298a967d45c": {
+		"Name": "Metal Plate Slope",
+		"Cell": 1
+	},
+	"ec96c0cd-ceb8-4d66-8002-c3914947ee9b": {
+		"Name": "Metal Plate Triangle L",
+		"Cell": 1
+	},
+	"e1d0c17b-9877-47a2-b5aa-d88db60781ca": {
+		"Name": "Metal Plate Triangle R",
+		"Cell": 1
+	},
+	"0e0a950f-00fd-472d-b493-159b10cf95ce": {
+		"Name": "Mimic: Cone Alloy",
+		"Cell": 1
+	},
+	"2908eb65-10fc-48e3-9ac8-e6eac3215dee": {
+		"Name": "Mimic: Cone applique",
+		"Cell": 1
+	},
+	"ce545a2c-105b-4576-a854-f70cfbeaf026": {
+		"Name": "Mimic: Cone Glass",
+		"Cell": 1
+	},
+	"c8e0ef2f-6d2f-43cb-9395-cf8b57a69bf6": {
+		"Name": "Mimic: Cone Heavy Armour",
+		"Cell": 1
+	},
+	"b1957020-d688-46a3-a9c3-463651bdbed0": {
+		"Name": "Mimic: Cone Lead",
+		"Cell": 1
+	},
+	"6bf19262-c16d-4c4e-8dcd-57fbe4352acd": {
+		"Name": "Mimic: Cone Metal",
+		"Cell": 1
+	},
+	"5853739b-0971-4777-9328-8a1b860a007e": {
+		"Name": "Mimic: Cone Rubber",
+		"Cell": 1
+	},
+	"0ff750d3-d885-40e6-bd43-e2cf2cc9333f": {
+		"Name": "Mimic: Cone stone",
+		"Cell": 1
+	},
+	"fc36fe21-f51a-44c6-b94a-b7bc6e8c4c60": {
+		"Name": "Mimic: Cube alloy",
+		"Cell": 1
+	},
+	"29d8a99c-e3b4-4fed-9569-23f34bad60e7": {
+		"Name": "Mimic: Cube applique",
+		"Cell": 1
+	},
+	"a6c0c162-0447-4c2e-9fb1-25c54be4c4dc": {
+		"Name": "Mimic: Cube glass",
+		"Cell": 1
+	},
+	"a1d9ffb0-4521-40c2-a71e-c0155baa0ab6": {
+		"Name": "Mimic: Cube heavy armour",
+		"Cell": 1
+	},
+	"b9b3ba3b-441c-4860-b829-f15783c304cc": {
+		"Name": "Mimic: Cube lead",
+		"Cell": 1
+	},
+	"e4ab4cf5-c47b-4210-b224-f2d9140ab655": {
+		"Name": "Mimic: Cube metal",
+		"Cell": 1
+	},
+	"3571d5d7-1ab4-4eee-b9b5-4186be122265": {
+		"Name": "Mimic: Cube rubber",
+		"Cell": 1
+	},
+	"7877e213-c1cf-4853-ba77-aff431262116": {
+		"Name": "Mimic: Cube stone",
+		"Cell": 1
+	},
+	"86af4d75-35af-4521-b920-b224bd4e181b": {
+		"Name": "Mimic: Hexagon alloy",
+		"Cell": 1
+	},
+	"1ee77a03-577c-433a-acae-c7e40b9ad6b9": {
+		"Name": "Mimic: Hexagon applique",
+		"Cell": 1
+	},
+	"9c2b7f56-3ff6-4b15-bfcc-929781c10d21": {
+		"Name": "Mimic: Hexagon glass",
+		"Cell": 1
+	},
+	"726e2dd1-aff6-4331-bfc6-07ba82db3375": {
+		"Name": "Mimic: Hexagon heavy armour",
+		"Cell": 1
+	},
+	"87e0462a-fdae-422f-b32e-612c8a587c7d": {
+		"Name": "Mimic: Hexagon lead",
+		"Cell": 1
+	},
+	"f9e5d07a-cb51-4ff3-8d8b-9bac959e38bf": {
+		"Name": "Mimic: Hexagon metal",
+		"Cell": 1
+	},
+	"3498643e-7c7f-495f-b6a8-fa8542e83545": {
+		"Name": "Mimic: Hexagon rubber",
+		"Cell": 1
+	},
+	"00d1ccd3-f2a9-43d2-b4fd-cee7efb4372a": {
+		"Name": "Mimic: Hexagon stone",
+		"Cell": 1
+	},
+	"158d0c68-0455-4400-8921-927a27e167df": {
+		"Name": "Mimic: Pentagon alloy",
+		"Cell": 1
+	},
+	"e78787a3-e8a0-4403-8ee3-7611374c6f66": {
+		"Name": "Mimic: Pentagon applique",
+		"Cell": 1
+	},
+	"749880c4-0c02-494b-b4f6-92162cf6d225": {
+		"Name": "Mimic: Pentagon glass",
+		"Cell": 1
+	},
+	"a77ab356-9f98-45b6-856a-684af858cd45": {
+		"Name": "Mimic: Pentagon heavy armour",
+		"Cell": 1
+	},
+	"301ba71b-1868-447f-8a21-a752a0bbc5b8": {
+		"Name": "Mimic: Pentagon lead",
+		"Cell": 1
+	},
+	"73800909-6e8e-4246-a8b4-09577b266330": {
+		"Name": "Mimic: Pentagon metal",
+		"Cell": 1
+	},
+	"a1ba55a3-7a10-448a-bf6a-639179c03889": {
+		"Name": "Mimic: Pentagon rubber",
+		"Cell": 1
+	},
+	"a7a1064f-34e9-4d5c-b304-af11e7fe6def": {
+		"Name": "Mimic: Pentagon stone",
+		"Cell": 1
+	},
+	"edb49f94-20c4-47e4-b897-9d3c70621c51": {
+		"Name": "Mimic: Sphere alloy",
+		"Cell": 1
+	},
+	"ca3fdc49-1cd7-4191-a7b7-a0a1a77689b7": {
+		"Name": "Mimic: Sphere applique",
+		"Cell": 1
+	},
+	"72762b74-b630-477c-9829-5247529fd541": {
+		"Name": "Mimic: Sphere glass",
+		"Cell": 1
+	},
+	"da787874-9e34-4871-9723-2d6db4eaa6fa": {
+		"Name": "Mimic: Sphere heavy armour",
+		"Cell": 1
+	},
+	"d044965b-bae6-49d1-a725-dee6b7e684a0": {
+		"Name": "Mimic: Sphere lead",
+		"Cell": 1
+	},
+	"f5deb324-dfca-4385-81df-659dddd8b956": {
+		"Name": "Mimic: Sphere metal",
+		"Cell": 1
+	},
+	"0e3cc64d-686e-4e97-a806-0adc3e093d14": {
+		"Name": "Mimic: Sphere rubber",
+		"Cell": 1
+	},
+	"8f57fd6b-428c-44fd-ab94-0cc400ae2b24": {
+		"Name": "Mimic: Sphere stone",
+		"Cell": 1
+	},
+	"d158a125-2079-4da9-85d6-dae3e602aa5b": {
+		"Name": "Mimic: Torus alloy",
+		"Cell": 1
+	},
+	"3f693a92-169f-4066-b843-175dd898a61c": {
+		"Name": "Mimic: Torus applique",
+		"Cell": 1
+	},
+	"a869e113-dde0-4dd9-ac10-c2636f0dc65a": {
+		"Name": "Mimic: Torus glass",
+		"Cell": 1
+	},
+	"83ad981f-3ecb-48ba-ab93-17ce645b9f56": {
+		"Name": "Mimic: Torus heavy armour",
+		"Cell": 1
+	},
+	"9f9f1ee9-7937-4370-8828-ba2828c5d9a4": {
+		"Name": "Mimic: Torus lead",
+		"Cell": 1
+	},
+	"1dfd4f18-ddd8-4e22-94a8-4012b611e40b": {
+		"Name": "Mimic: Torus metal",
+		"Cell": 1
+	},
+	"c32f6dc0-28d5-4125-a45f-8c9f5b8b94ce": {
+		"Name": "Mimic: Torus rubber",
+		"Cell": 1
+	},
+	"ddf899de-6f4f-49df-ba7c-62f0255439ba": {
+		"Name": "Mimic: Torus stone",
+		"Cell": 1
+	},
+	"2914d8ca-9a2b-4f3b-b891-f983428d7bd4": {
+		"Name": "Mimic: Tube alloy",
+		"Cell": 1
+	},
+	"ab5db452-d91a-49a7-9460-bb5d56372d8e": {
+		"Name": "Mimic: Tube applique",
+		"Cell": 1
+	},
+	"aebf8f22-8967-45ae-9c4d-0562e52cfc5f": {
+		"Name": "Mimic: Tube glass",
+		"Cell": 1
+	},
+	"6d2ef5f0-39ee-4541-ab4c-a91f14c1ffd8": {
+		"Name": "Mimic: Tube heavy armour",
+		"Cell": 1
+	},
+	"96fe3c10-7483-4bf9-b050-5e9c8b5e2530": {
+		"Name": "Mimic: Tube lead",
+		"Cell": 1
+	},
+	"bab686db-b19b-4d33-93b6-30e5520b4cfd": {
+		"Name": "Mimic: Tube metal",
+		"Cell": 1
+	},
+	"7475eb63-9028-4e6f-ab1d-c4c6cae467b2": {
+		"Name": "Mimic: Tube rubber",
+		"Cell": 1
+	},
+	"f9953dfa-d17a-4922-abaa-ef180d3f8152": {
+		"Name": "Mimic: Tube stone",
+		"Cell": 1
+	},
+	"f0dad246-5282-4041-baa5-32d7500db8bd": {
+		"Name": "Railing L TA 1m M3",
+		"Cell": 2
+	},
+	"7d3f4791-55ac-4193-bdd3-31286f931ed2": {
+		"Name": "Railing L TA 1m M4",
+		"Cell": 2
+	},
+	"74ceb266-9503-4ede-84eb-0ff10d9bbac8": {
+		"Name": "Railing L TA 2m M1",
+		"Cell": 4
+	},
+	"26cb0a34-7808-401a-8bf7-2aa84ee9ea4d": {
+		"Name": "Railing L TA 2m M2",
+		"Cell": 4
+	},
+	"63518578-0327-4f4f-8250-0fb4c15b9934": {
+		"Name": "Railing L TA 2m M3",
+		"Cell": 4
+	},
+	"840d0776-c341-4836-a1f1-6da1e8bff032": {
+		"Name": "Railing L TA 2m M4",
+		"Cell": 4
+	},
+	"39542cab-1b2e-4740-b891-b5c4571294e4": {
+		"Name": "Railing L TA 3m M1",
+		"Cell": 6
+	},
+	"87df0a0d-21ed-4e30-b68c-d6d70715ba81": {
+		"Name": "Railing L TA 3m M2",
+		"Cell": 6
+	},
+	"b8b3c189-7e1d-434b-8cff-1b1e896ac593": {
+		"Name": "Railing L TA 3m M3",
+		"Cell": 6
+	},
+	"50fb8aa9-36d9-43a1-9d81-70fbed759a45": {
+		"Name": "Railing L TA 3m M4",
+		"Cell": 6
+	},
+	"9f5dc66c-76d1-448f-9e79-52bf634738ef": {
+		"Name": "Railing L TA 4m M1",
+		"Cell": 8
+	},
+	"22af3050-6cd5-4ac4-a7e9-5616d1a30bc9": {
+		"Name": "Railing L TA 4m M2",
+		"Cell": 8
+	},
+	"7f6de463-f4ff-4f17-917a-d220b2de3597": {
+		"Name": "Railing L TA 4m M3",
+		"Cell": 8
+	},
+	"a6f2082d-9c6e-4cba-8a02-ab5e6f77974f": {
+		"Name": "Railing L TA 4m M4",
+		"Cell": 8
+	},
+	"10797fef-0217-4594-8c33-42cd592ce158": {
+		"Name": "Railing R TA 1m M3",
+		"Cell": 2
+	},
+	"25b76297-c884-4d6f-b0de-ee8c096912ba": {
+		"Name": "Railing R TA 1m M4",
+		"Cell": 2
+	},
+	"5e2a61b2-6902-4d01-9990-7a1cc0b7f282": {
+		"Name": "Railing R TA 2m M1",
+		"Cell": 4
+	},
+	"887d4cad-c968-4b01-9252-2c86e99a86c3": {
+		"Name": "Railing R TA 2m M2",
+		"Cell": 4
+	},
+	"6a669c92-32c0-478a-b1ee-f2b3d5751487": {
+		"Name": "Railing R TA 2m M3",
+		"Cell": 4
+	},
+	"6be28a59-429d-42e6-89c8-811fe1dd531f": {
+		"Name": "Railing R TA 2m M4",
+		"Cell": 4
+	},
+	"56332ca1-d7f8-4b86-abe0-3a1c35387829": {
+		"Name": "Railing R TA 3m M1",
+		"Cell": 6
+	},
+	"d279f5fa-c310-494f-83f2-a1963e1e7fa0": {
+		"Name": "Railing R TA 3m M2",
+		"Cell": 6
+	},
+	"db0fdd08-9e27-41fd-9db6-4139666a4fa2": {
+		"Name": "Railing R TA 3m M3",
+		"Cell": 6
+	},
+	"4f69c678-2fc0-426f-bcb4-cd0006bbc7fb": {
+		"Name": "Railing R TA 3m M4",
+		"Cell": 6
+	},
+	"23922e90-9310-44bb-a4b7-1d6911addbf9": {
+		"Name": "Railing R TA 4m M1",
+		"Cell": 8
+	},
+	"dd381fb7-08b1-470a-a8d7-71889cd792eb": {
+		"Name": "Railing R TA 4m M2",
+		"Cell": 8
+	},
+	"7ececcaf-cfd8-4610-8f78-4eb670a9d03e": {
+		"Name": "Railing R TA 4m M3",
+		"Cell": 8
+	},
+	"77f70295-fe92-4b9a-b677-c6c9ef061862": {
+		"Name": "Railing R TA 4m M4",
+		"Cell": 8
+	},
+	"68e160e0-c891-4fc6-a3d6-9b341329f418": {
+		"Name": "Railing TA 1m M2",
+		"Cell": 2
+	},
+	"3ec33e9a-b80a-424f-9065-46087c1e4301": {
+		"Name": "Railing TA 1m M3",
+		"Cell": 2
+	},
+	"0c5427ca-c9b5-40c9-9ec6-bd7bd0b4e86e": {
+		"Name": "Railing TA 1m M4",
+		"Cell": 2
+	},
+	"de17ff79-e670-4f08-ab59-df1ecac3905b": {
+		"Name": "Truss 2m",
+		"Cell": 2
+	},
+	"ac24cd04-449e-47b9-bf8c-bf58d9997264": {
+		"Name": "Truss 3m",
+		"Cell": 3
+	},
+	"1dd66387-6293-4fa0-a1da-6f0e4cb80dfa": {
+		"Name": "Truss 4m",
+		"Cell": 4
+	},
+	"cd06f23c-9a61-448a-864e-529298e5bbd1": {
+		"Name": "Range Finder (7m) armour",
+		"Cell": 7
+	},
+	"28e3bb10-95af-4c63-934b-880f03d52be0": {
+		"Name": "Range Finder (7m)",
+		"Cell": 7
+	},
+	"3d540639-ac08-4e71-a233-3b483f594c1b": {
+		"Name": "Range Finder (9m) armour",
+		"Cell": 9
+	},
+	"933a73ef-fb60-429f-9126-4f7d2a01605f": {
+		"Name": "Range Finder (9m)",
+		"Cell": 9
+	},
+	"3e01fa52-676c-40cd-b62c-620c215b2c82": {
+		"Name": "2m Wing Corner Left",
+		"Cell": 2
+	},
+	"bff4fd3e-980f-4c0d-bf36-84e077a32c15": {
+		"Name": "2m Wing Corner Right",
+		"Cell": 2
+	},
+	"e5773f95-5fb1-4ca5-99ff-4d472c28e0bb": {
+		"Name": "2m Wing Inverted Corner Left",
+		"Cell": 2
+	},
+	"bb18935d-7b63-4af9-a87f-a067da5f5109": {
+		"Name": "2m Wing Inverted Corner Right",
+		"Cell": 2
+	},
+	"e6cfc973-36ee-4dbb-8fcf-949a57b0e09c": {
+		"Name": "3m Wing Corner Left",
+		"Cell": 3
+	},
+	"73d1c070-a1e2-4928-9446-ea7b217a8bfb": {
+		"Name": "3m Wing Corner Right",
+		"Cell": 3
+	},
+	"2891ef14-4d02-459a-b9a5-17469997c6d7": {
+		"Name": "3m Wing Inverted Corner Left",
+		"Cell": 3
+	},
+	"667f4e1c-533d-4af2-9fb0-d0af518d9227": {
+		"Name": "3m Wing Inverted Corner Right",
+		"Cell": 3
+	},
+	"aa129823-57fd-44ae-8c6d-a6291441e326": {
+		"Name": "4m Wing Corner Left",
+		"Cell": 4
+	},
+	"91e7a486-6b8b-4f76-bf74-096e3c41a7af": {
+		"Name": "4m Wing Corner Right",
+		"Cell": 4
+	},
+	"2d101cbc-b3aa-47e4-8a96-00a24638f6b0": {
+		"Name": "4m Wing Inverted Corner Left",
+		"Cell": 4
+	},
+	"7325f3c9-79b3-4f3b-ae94-e9223f3ae717": {
+		"Name": "4m Wing Inverted Corner Right",
+		"Cell": 4
+	},
+	"4996676f-deef-4bf3-9329-ef4f562c1902": {
+		"Name": "Wing 1m",
+		"Cell": 1
+	},
+	"7047d22e-8f85-4cda-9f4f-6af3e8399b27": {
+		"Name": "Wing 2m",
+		"Cell": 2
+	},
+	"df7ab21c-f0ed-4d37-9348-67c652239a48": {
+		"Name": "Wing 3m",
+		"Cell": 3
+	},
+	"accbfca6-ba3b-49df-83e3-96007b1dc571": {
+		"Name": "Wing 4m",
+		"Cell": 4
+	},
+	"fc010d1b-1c19-40e3-92dd-0f18c816b066": {
+		"Name": "Wing Corner Left",
+		"Cell": 1
+	},
+	"aa09f129-19dd-4f9e-b1e6-b7739fe12d3f": {
+		"Name": "Wing Corner Right",
+		"Cell": 1
+	},
+	"41053b64-a49a-4618-b153-bcc66bf77365": {
+		"Name": "Wing Inverted Corner Left",
+		"Cell": 1
+	},
+	"7e8d0314-5433-44ae-a0f6-88356f1ecb9b": {
+		"Name": "Wing Inverted Corner Right",
+		"Cell": 1
+	},
+	"99409fb0-d2a3-435d-8fd8-cf4a809236e7": {
+		"Name": "2m corner left",
+		"Cell": 2
+	},
+	"950c932b-125c-4f99-8d32-f44f8125e983": {
+		"Name": "2m corner right",
+		"Cell": 2
+	},
+	"f779ea34-dfe1-450a-b28a-17f4e947846e": {
+		"Name": "2m Inverted corner left",
+		"Cell": 2
+	},
+	"4abc9018-c0fe-40de-86c3-23599c5c984c": {
+		"Name": "2m Inverted corner right",
+		"Cell": 2
+	},
+	"df9737d0-b566-45c6-89c5-f78277edd3c9": {
+		"Name": "3m corner left",
+		"Cell": 3
+	},
+	"32f279e7-f1ca-46d0-b612-3758a97c451e": {
+		"Name": "3m corner right",
+		"Cell": 3
+	},
+	"7577e9eb-9f41-48c8-8b6d-cb494b454f49": {
+		"Name": "3m Inverted corner left",
+		"Cell": 3
+	},
+	"fcd1cdc0-0e2e-4b35-918b-5abe344b2ebe": {
+		"Name": "3m Inverted corner right",
+		"Cell": 3
+	},
+	"3de74aa0-cbb9-4cd7-b497-024d8ba98ffc": {
+		"Name": "4m Corner left",
+		"Cell": 4
+	},
+	"fd62dd66-6aa3-4c07-8508-480560a3355d": {
+		"Name": "4m Corner right",
+		"Cell": 4
+	},
+	"3b98ec90-e042-471a-ad92-e388e0fe3e50": {
+		"Name": "4m Inverted corner left",
+		"Cell": 4
+	},
+	"5f2019e9-ce40-4bab-a054-ce3af4aad9b3": {
+		"Name": "4m Inverted corner right",
+		"Cell": 4
+	},
+	"ce05e453-eca5-4833-b3c6-bf9373851922": {
+		"Name": "Control surface 1m",
+		"Cell": 1
+	},
+	"b46c1759-a7c1-4dca-9c15-d0c3329dcaae": {
+		"Name": "Control surface 2m",
+		"Cell": 2
+	},
+	"8768ed82-11cd-4823-a5c3-58ef4e1912a9": {
+		"Name": "Control surface 3m",
+		"Cell": 3
+	},
+	"14884b06-6834-469d-a996-629b6d155a8f": {
+		"Name": "Control surface 4m",
+		"Cell": 4
+	},
+	"feb05769-2576-4837-9cff-e1665f7e471a": {
+		"Name": "Corner left",
+		"Cell": 1
+	},
+	"c260c24c-3cac-44ab-be7a-ef51c3bb94aa": {
+		"Name": "Corner right",
+		"Cell": 1
+	},
+	"b5bb2b8e-d024-45b6-b584-9f742bc59355": {
+		"Name": "Inverted corner left",
+		"Cell": 1
+	},
+	"b3a4fdec-db61-464f-96f1-32fc4f104456": {
+		"Name": "Inverted corner right",
+		"Cell": 1
+	},
+	"344b39ee-beae-4dd4-9693-4cb38dfc6b03": {
+		"Name": "Pivot 2m mirror",
+		"Cell": 2
+	},
+	"a11496e4-8533-4e2f-8ee3-bf0aae50b4d1": {
+		"Name": "Pivot 2m",
+		"Cell": 2
+	},
+	"9177e247-50a4-4345-92df-88e89b2fc617": {
+		"Name": "Pivot 3m mirror",
+		"Cell": 3
+	},
+	"d5b4c6b4-3fb3-4e8e-abea-06066c218eea": {
+		"Name": "Pivot 3m",
+		"Cell": 3
+	},
+	"24427e85-4575-4654-8d7d-a6133c14eafb": {
+		"Name": "Pivot 4m mirror",
+		"Cell": 4
+	},
+	"f99e7998-4047-4958-988e-c4a0b39b147f": {
+		"Name": "Pivot 4m",
+		"Cell": 4
+	},
+	"c2dd399b-3563-496c-a7f3-5cc9984e2bd7": {
+		"Name": "Heavy Barrel End",
+		"Cell": 1
+	},
+	"279f21cf-ea0b-4e4d-9b89-cff016a72e24": {
+		"Name": "Heavy Barrel Start",
+		"Cell": 1
+	},
+	"8be592fa-e116-4b7d-8db0-25cc7f47b9d3": {
+		"Name": "Elevation barrel end",
+		"Cell": 1
+	},
+	"eaf68f59-b83c-4fcd-977e-2d7f7339e792": {
+		"Name": "Elevation barrel start",
+		"Cell": 1
+	},
+	"b4cb2e32-aaa6-4bbf-882a-d1908cbf51b9": {
+		"Name": "Motor driven barrel end",
+		"Cell": 1
+	},
+	"c6ed64d8-b61a-432d-9266-2ab88e98f4c5": {
+		"Name": "Motor driven barrel start",
+		"Cell": 1
+	},
+	"528c4944-a192-4f89-84ba-371a7b88bc1f": {
+		"Name": "Recoil suppression barrel end",
+		"Cell": 1
+	},
+	"d03cabe9-7469-4d89-8676-4a5ee2f024d9": {
+		"Name": "Recoil suppression barrel start",
+		"Cell": 1
+	},
+	"69202543-e9d5-41a6-bf9f-96627eafecfa": {
+		"Name": "Mimic Alloy",
+		"Cell": 1
+	},
+	"9a7d5a01-f5a0-4f2e-95e7-0eb222311fb7": {
+		"Name": "Mimic Lead",
+		"Cell": 1
+	},
+	"84dce5de-cacc-4ce5-b3fe-498f926c7ea4": {
+		"Name": "Mimic Metal",
+		"Cell": 1
+	},
+	"d84b0c14-0a96-41bf-a2e1-d7d2a68ed10d": {
+		"Name": "Ammo 2m (empty)",
+		"Cell": 2
+	},
+	"e62413c3-e841-4eda-9e2a-ceaec75e8b64": {
+		"Name": "Ammo 2m",
+		"Cell": 2
+	},
+	"8a60f1e1-8c18-4c93-84e6-49ec2b3e955b": {
+		"Name": "Ammo 2x2m (empty)",
+		"Cell": 4
+	},
+	"fc52407e-bec1-441a-8828-68441c418deb": {
+		"Name": "Ammo 2x2m Left (empty)",
+		"Cell": 4
+	},
+	"69fdb913-b462-4f88-a614-620462c253a6": {
+		"Name": "Ammo 2x2m Left",
+		"Cell": 4
+	},
+	"4dd5c902-6c7c-4e9a-a970-31fb67f44dd4": {
+		"Name": "Ammo 2x2m",
+		"Cell": 4
+	},
+	"6a8db77a-73a9-45c2-845b-1d3d4804d7ff": {
+		"Name": "Medium transmission mirror",
+		"Cell": 12
+	},
+	"4929dc91-e2af-42cd-a672-b86571a0b92f": {
+		"Name": "Alloy 1m offset left",
+		"Cell": 2
+	},
+	"e3921d2a-d812-4c80-a4f6-4360b1af8631": {
+		"Name": "Alloy 1m offset right",
+		"Cell": 2
+	},
+	"29251fa7-0963-4206-bb08-a144b767fdea": {
+		"Name": "Alloy 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"559146d5-618d-48a3-811d-5292fee0b112": {
+		"Name": "Alloy 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"c099b76c-f011-4c87-ad8e-20c968c1eb76": {
+		"Name": "Alloy 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"5de2adf7-76fb-42ea-8120-209ee5a42624": {
+		"Name": "Alloy 1m to 2m slope transition (mirrored)",
+		"Cell": 2
+	},
+	"4b2033a2-d233-47f0-a9cf-ecc798072802": {
+		"Name": "Alloy 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"80a03fbd-b4fc-4a03-a7dc-bc4ba61c9782": {
+		"Name": "Alloy 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"2d1d0f03-0751-4430-b023-b660749187dd": {
+		"Name": "Alloy 1m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"faafca6a-e060-4a5f-97c4-80e89173e004": {
+		"Name": "Alloy 1m to 3m slope transition right",
+		"Cell": 2
+	},
+	"84cd2d26-9521-450d-8c6b-96101341e865": {
+		"Name": "Alloy 1m to 3m slope transition",
+		"Cell": 3
+	},
+	"567281a0-cf1d-4bcf-aaf1-2c2020d8e754": {
+		"Name": "Alloy 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"94704fd4-d54d-45cc-b247-34d7492e4d51": {
+		"Name": "Alloy 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"6df35bc7-4799-43bc-9f49-782e1e9a53a4": {
+		"Name": "Alloy 1m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"ab8dda56-4b5e-47cf-886c-219a0259018b": {
+		"Name": "Alloy 1m to 4m slope transition",
+		"Cell": 4
+	},
+	"20f74da8-3052-4e5a-8b9a-28252781f37b": {
+		"Name": "Alloy 2m offset left",
+		"Cell": 3
+	},
+	"ccb16d68-186c-4896-82e3-9e9213271ace": {
+		"Name": "Alloy 2m offset right",
+		"Cell": 3
+	},
+	"10c36664-41f1-4429-8a1e-0ff3dade19c2": {
+		"Name": "Alloy 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"5a49b8cb-0255-414d-9fb4-fd36aade3429": {
+		"Name": "Alloy 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"44b7168c-4c2b-4875-a1b5-f77029cf4658": {
+		"Name": "Alloy 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"cc10dea1-469d-4574-b672-61c786284cf0": {
+		"Name": "Alloy 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"b5f4a946-dea1-4f99-93cf-6f0741c3b4e6": {
+		"Name": "Alloy 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"081a7cf8-c80d-4e22-9140-1cab6a875db9": {
+		"Name": "Alloy 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"4cbd1e09-0cb0-4d91-a488-58725bcff7c3": {
+		"Name": "Alloy 2m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"1fc1a1b6-bd6d-4907-8e96-f3b6e7b49670": {
+		"Name": "Alloy 2m to 4m slope transition",
+		"Cell": 4
+	},
+	"77b5b1be-56a8-4699-b9fb-a967a03897c5": {
+		"Name": "Alloy 3m offset left",
+		"Cell": 4
+	},
+	"903ed616-47a5-4aa2-a85c-f3e18ce9e620": {
+		"Name": "Alloy 3m offset right",
+		"Cell": 4
+	},
+	"ddaa81f0-cc9e-4585-ad4f-34b0a295953d": {
+		"Name": "Alloy 3m square backed corner left",
+		"Cell": 3
+	},
+	"7f70840d-3a03-46ac-a34c-eaed9ff76b49": {
+		"Name": "Alloy 3m square backed corner right",
+		"Cell": 3
+	},
+	"8cc9f7ee-50ed-4a1d-9fbd-57e1d635bf83": {
+		"Name": "Alloy 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"6debd577-7c5b-4b96-984d-6f830a33c47c": {
+		"Name": "Alloy 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"872ace7e-5f07-4e1f-ac4e-ff8811484ee4": {
+		"Name": "Alloy 3m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"83e8ef5c-b943-4896-8a35-0ab346eaeb40": {
+		"Name": "Alloy 3m to 4m slope transition",
+		"Cell": 4
+	},
+	"54b18bde-2698-4840-a2aa-a37efba89ff4": {
+		"Name": "Alloy 4m offset left",
+		"Cell": 5
+	},
+	"fdba2b5d-3570-43fb-a9e1-10a0c0bba0ef": {
+		"Name": "Alloy 4m offset right",
+		"Cell": 5
+	},
+	"80277222-e122-44c4-8e8f-83ba7fb370ce": {
+		"Name": "Alloy 4m Square backed corner left",
+		"Cell": 2
+	},
+	"a7e535a6-e684-4afc-b354-b2470094b014": {
+		"Name": "Alloy 4m square backed corner left",
+		"Cell": 4
+	},
+	"3a0be065-8983-46ea-8a1f-099ff9d544c7": {
+		"Name": "Alloy 4m square backed corner right",
+		"Cell": 4
+	},
+	"8f9dbf41-6c2d-4e7b-855d-b2432c6942a2": {
+		"Name": "Alloy beam (2m)",
+		"Cell": 2
+	},
+	"649f2aec-6f59-4157-ac01-0122ce2e6dad": {
+		"Name": "Alloy beam (3m)",
+		"Cell": 3
+	},
+	"9411e401-27da-4546-b805-3334f200f055": {
+		"Name": "Alloy beam (4m)",
+		"Cell": 4
+	},
+	"9d1cb184-75e9-4f86-b60a-fac026e7c711": {
+		"Name": "Alloy beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"cd05c53c-7af8-49be-ae8b-fbcbf41abbd7": {
+		"Name": "Alloy beam slope (2m)",
+		"Cell": 2
+	},
+	"5836b06e-1a7e-4d96-ac14-b62e2dc82370": {
+		"Name": "Alloy beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"cc968269-d27d-4099-b052-92934999dc7f": {
+		"Name": "Alloy beam slope (3m)",
+		"Cell": 3
+	},
+	"b5d46bb7-d49e-42f6-817b-323fbf6d62b0": {
+		"Name": "Alloy beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"9af822b3-80d9-46bd-9ce0-e6e5c2e61da4": {
+		"Name": "Alloy beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"911fe222-f9b2-4892-9cd6-8b154d55b2aa": {
+		"Name": "Alloy down slope (1m)",
+		"Cell": 1
+	},
+	"c6176cb5-0a32-4d68-a749-8ee33b2230c1": {
+		"Name": "Alloy down slope (2m)",
+		"Cell": 2
+	},
+	"a3ea61a8-018c-4277-afd9-ac0a34faa759": {
+		"Name": "Alloy down slope (3m)",
+		"Cell": 3
+	},
+	"2a3905ff-2030-421d-a2bf-90fba71c1c5e": {
+		"Name": "Alloy down slope (4m)",
+		"Cell": 4
+	},
+	"62f61c31-a453-44ce-87a2-b5ce142fb052": {
+		"Name": "Alloy inverted corner (right) (1m)",
+		"Cell": 1
+	},
+	"95a626e6-f1b8-491a-aa31-8de5a2beb513": {
+		"Name": "Alloy inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"51b37dbf-2beb-425b-a817-89434838c857": {
+		"Name": "Alloy inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"8c2aaf82-442e-46a7-9ea5-1b7862cacb87": {
+		"Name": "Alloy inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"ba5c8d03-9093-47a9-a8cd-b721ceeee1dd": {
+		"Name": "Alloy inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"2cdbdb66-132e-4202-90c6-e0a2d8022cc6": {
+		"Name": "Alloy inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"967f98c3-d708-4602-9c71-0f34562cdfca": {
+		"Name": "Alloy inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"afb33fc2-3071-408a-b312-da22478c0a14": {
+		"Name": "Alloy inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"04019f87-c371-4574-acfe-b7086557eaba": {
+		"Name": "Alloy pole (1m)",
+		"Cell": 1
+	},
+	"11f3d43b-8065-472f-a86e-e66eda2e5e88": {
+		"Name": "Alloy pole (2m)",
+		"Cell": 2
+	},
+	"657967ac-3647-42ac-8572-be20b02b6398": {
+		"Name": "Alloy pole (3m)",
+		"Cell": 3
+	},
+	"a84e8d23-c425-4d21-8bdb-2fa5da87b110": {
+		"Name": "Alloy pole (4m)",
+		"Cell": 4
+	},
+	"f2df1943-1ebf-47c6-9b81-ad613b7c5d5b": {
+		"Name": "Alloy square corner (left) (1m)",
+		"Cell": 1
+	},
+	"272f0dea-8aac-4ca9-98e6-79897e7df0f9": {
+		"Name": "Alloy square corner (left) (2m)",
+		"Cell": 2
+	},
+	"7dd4933f-8a0d-478e-b0a2-1e2c2f1c6957": {
+		"Name": "Alloy square corner (left) (3m)",
+		"Cell": 3
+	},
+	"1e5247be-25c1-45bc-92a6-e2ab1bfaaa8c": {
+		"Name": "Alloy square corner (left) (4m)",
+		"Cell": 4
+	},
+	"902446c4-ff32-4118-83ac-1f4bf89c56d1": {
+		"Name": "Alloy square corner (right) (1m)",
+		"Cell": 1
+	},
+	"29c40e04-59fb-45dc-a80b-31ee1c4f82ac": {
+		"Name": "Alloy square corner (right) (2m)",
+		"Cell": 2
+	},
+	"d7b990f8-86fc-476c-bc8d-44ba9ecd1c05": {
+		"Name": "Alloy square corner (right) (3m)",
+		"Cell": 3
+	},
+	"7530d72e-1b5b-408c-9abc-59957a90970f": {
+		"Name": "Alloy square corner (right) (4m)",
+		"Cell": 4
+	},
+	"a4b0d100-c480-4697-b606-489d80a6d376": {
+		"Name": "Alloy triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"90c9965a-1dcc-4786-a2d2-6299fed7260f": {
+		"Name": "Alloy triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"b2ca635d-350c-4977-b8d4-2b2dd28cd2d7": {
+		"Name": "Alloy triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"a6cfd078-bc39-4ad8-a47f-49097913a27b": {
+		"Name": "Alloy triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"ad3e7665-cf63-4135-835f-2f743c69bb36": {
+		"Name": "Alloy triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"27692d7a-c05f-4ac4-ac98-f25e359faebc": {
+		"Name": "Alloy triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"8aceae65-2dce-44b7-94b1-b4bd34d287a5": {
+		"Name": "Alloy triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"2b1b3011-0b81-472e-aa42-26383f453268": {
+		"Name": "Alloy triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"f1a3f1bd-b5f7-43bf-9b72-c7a060c24f73": {
+		"Name": "Alloy wedge (1m)",
+		"Cell": 1
+	},
+	"efb3284f-bedc-453f-9519-043f77f2e85d": {
+		"Name": "Alloy wedge (2m)",
+		"Cell": 2
+	},
+	"0d915e65-114c-4945-9585-ac58ad90223f": {
+		"Name": "Alloy wedge (3m)",
+		"Cell": 3
+	},
+	"791dfc7d-24d9-4e87-b639-d19561b6cb26": {
+		"Name": "Alloy wedge (4m)",
+		"Cell": 4
+	},
+	"eb7fa163-6a07-406e-ba71-8117065747ac": {
+		"Name": "Glass 1m offset left",
+		"Cell": 2
+	},
+	"7f189a18-7c28-4a4c-a1ee-e4d4335e79d6": {
+		"Name": "Glass 1m offset right",
+		"Cell": 2
+	},
+	"45073512-a1cf-470d-9c12-f47c36cf3351": {
+		"Name": "Glass 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"4daeed6d-fc6a-4490-b038-c61efb4d6ff4": {
+		"Name": "Glass 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"73ec0366-c42a-4d9c-a5b2-397470fc4be1": {
+		"Name": "Glass 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"973d25ff-2ecc-4c01-904a-c42d77560809": {
+		"Name": "Glass 1m to 2m slope transition right",
+		"Cell": 2
+	},
+	"a285d4bd-69f9-4b12-a8e0-aa1ebd966c06": {
+		"Name": "Glass 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"583b24e6-4f8b-4e6e-bd72-804a6424c816": {
+		"Name": "Glass 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"89ae8f0f-9e80-4849-888d-12d81a8df326": {
+		"Name": "Glass 1m to 3m slope transition left",
+		"Cell": 3
+	},
+	"3fac543b-7d25-4ea7-8f5c-002025881ca1": {
+		"Name": "Glass 1m to 3m slope transition right",
+		"Cell": 3
+	},
+	"1cb1b512-abc9-463e-868a-6393acfeb5f2": {
+		"Name": "Glass 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"8071b2a0-aff9-4d51-8c74-1d9b77f2a769": {
+		"Name": "Glass 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"67fc1acd-44fd-4511-93d6-a75dc2f1ae82": {
+		"Name": "Glass 1m to 4m slope transition left",
+		"Cell": 4
+	},
+	"cf9f84cb-a565-43c8-bbce-7da64877e9e1": {
+		"Name": "Glass 1m to 4m slope transition right",
+		"Cell": 4
+	},
+	"ef99c9f8-6ea3-4bd2-b56b-5f2b1c7b8983": {
+		"Name": "Glass 2m offset left",
+		"Cell": 3
+	},
+	"837f9050-6a17-47db-ae08-6e72a740a469": {
+		"Name": "Glass 2m offset right",
+		"Cell": 3
+	},
+	"5190d6b7-6bf6-4d9a-8a26-0ed2b562a7c2": {
+		"Name": "Glass 2m square backed corner left",
+		"Cell": 2
+	},
+	"e90c2be1-6330-4839-92a6-160ba2b97615": {
+		"Name": "Glass 2m square backed corner right",
+		"Cell": 2
+	},
+	"4ab39452-a19f-4fcf-ba41-6effc2c22bc7": {
+		"Name": "Glass 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"03c74855-093e-4e31-b071-e7198d1e077b": {
+		"Name": "Glass 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"d6181b6e-c51f-42cd-a645-625e91573254": {
+		"Name": "Glass 2m to 3m slope transition left",
+		"Cell": 3
+	},
+	"a8b9d98b-5ae9-427c-9445-bf9c86e84a9c": {
+		"Name": "Glass 2m to 3m slope transition right",
+		"Cell": 3
+	},
+	"86f9fcac-6607-45b7-94fc-f0f6f76662bf": {
+		"Name": "Glass 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"5852944e-e3fa-48a0-8498-f1fe6a86f4f5": {
+		"Name": "Glass 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"eeb41a6f-1205-4aab-af3a-fb155bc63055": {
+		"Name": "Glass 2m to 4m slope transition left",
+		"Cell": 4
+	},
+	"e15bf1dd-0dd3-4b94-b05c-0b516969689a": {
+		"Name": "Glass 2m to 4m slope transition right",
+		"Cell": 4
+	},
+	"b2957d34-c1a6-457d-ad7c-efc64d1ffa43": {
+		"Name": "Glass 3m offset left",
+		"Cell": 4
+	},
+	"d741b54c-bb97-4768-abc7-63a4fa8ae49c": {
+		"Name": "Glass 3m offset right",
+		"Cell": 4
+	},
+	"6a8a4a2d-01f7-42d7-81ac-6337546cf56d": {
+		"Name": "Glass 3m square backed corner left",
+		"Cell": 3
+	},
+	"a84ed9da-7a18-44ce-8093-a5d31f6b6b61": {
+		"Name": "Glass 3m square backed corner right",
+		"Cell": 3
+	},
+	"4d901cbe-b83a-49c9-a016-6498578926f2": {
+		"Name": "Glass 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"d514be67-eb1c-419c-82ba-6ee8ff14c729": {
+		"Name": "Glass 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"8108607a-fd3b-4815-8c71-8bc82504a124": {
+		"Name": "Glass 3m to 4m slope transition left",
+		"Cell": 4
+	},
+	"22bf6058-7be5-4e56-899f-8365624508e2": {
+		"Name": "Glass 3m to 4m slope transition right",
+		"Cell": 4
+	},
+	"0db0964e-5ad5-4c58-8f48-29d97ab6619c": {
+		"Name": "Glass 4m offset left",
+		"Cell": 5
+	},
+	"f93d2963-8c36-4546-9c89-03ebd53d4651": {
+		"Name": "Glass 4m offset right",
+		"Cell": 5
+	},
+	"4c9b5909-bd2d-439d-afb6-f9ec42979fb7": {
+		"Name": "Glass 4m square backed corner left",
+		"Cell": 4
+	},
+	"376df835-1735-4e56-8c76-f8734fb6245d": {
+		"Name": "Glass 4m square backed corner right",
+		"Cell": 4
+	},
+	"aa355fd9-295c-43f3-9f11-7a781a9808b0": {
+		"Name": "Glass beam (2m)",
+		"Cell": 2
+	},
+	"049b9d0c-1cb3-4511-be7f-9fad6e0a607e": {
+		"Name": "Glass beam (3m)",
+		"Cell": 3
+	},
+	"395179c1-37a0-4250-851b-5bc19fd601b6": {
+		"Name": "Glass beam (4m)",
+		"Cell": 4
+	},
+	"a3a6f339-8ebb-4a2e-a27d-6b76937590f7": {
+		"Name": "Glass beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"5e6065fc-0f02-4b72-9000-fd68ee1f9848": {
+		"Name": "Glass beam slope (2m)",
+		"Cell": 2
+	},
+	"18a11932-204d-4d3c-83f2-c26684c3752d": {
+		"Name": "Glass beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"7f15808a-c4a6-4ae2-a6df-f93183a34623": {
+		"Name": "Glass beam slope (3m)",
+		"Cell": 3
+	},
+	"0c64d302-c6df-42eb-a0ff-7c90f867ba4b": {
+		"Name": "Glass beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"35abb89b-33b8-4cb4-b3d0-ee132247de8d": {
+		"Name": "Glass beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"174b5b41-b70e-485d-b00a-a61cc9826b2c": {
+		"Name": "Glass down slope (1m)",
+		"Cell": 1
+	},
+	"69feebc3-e241-4dff-a000-736def80c851": {
+		"Name": "Glass down slope (2m)",
+		"Cell": 2
+	},
+	"b148f5b4-e237-41a0-a1a3-30c455321149": {
+		"Name": "Glass down slope (3m)",
+		"Cell": 3
+	},
+	"c4ef6072-822a-4fa5-b618-e7fc0508c499": {
+		"Name": "Glass down slope (4m)",
+		"Cell": 4
+	},
+	"729b7ea3-59d5-4182-9177-684da6fbe0a9": {
+		"Name": "Glass inverted corner (right) (1m)",
+		"Cell": 1
+	},
+	"7936fa47-6616-4e73-85f1-bf831db8f0c8": {
+		"Name": "Glass Inverted (R 2m)",
+		"Cell": 2
+	},
+	"e42929f1-ccd0-4fff-8413-6cb94cf08405": {
+		"Name": "Glass inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"bb0337d9-69f7-48f1-9c12-2de83ceff42d": {
+		"Name": "Glass inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"c34145c5-bc8c-48c3-bafb-ebda44f1e300": {
+		"Name": "Glass inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"04993e98-6b77-46d3-ad80-5278550e9b65": {
+		"Name": "Glass inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"217d4bdc-4b0d-4986-be2c-de98efd00f62": {
+		"Name": "Glass inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"5e73653e-519c-4f13-9f69-1d80c19151d8": {
+		"Name": "Glass inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"7434948c-1b56-4dd0-bb0c-a3d291653f09": {
+		"Name": "Glass inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"f8cd4d8b-c7ef-434e-a404-04423fb5fcae": {
+		"Name": "Glass pole (1m)",
+		"Cell": 1
+	},
+	"24eaca7e-8d1b-472c-91fa-26201a33874c": {
+		"Name": "Glass pole (2m)",
+		"Cell": 2
+	},
+	"bbe54c3a-4d87-4ec5-8d76-055424cd24a6": {
+		"Name": "Glass pole (3m)",
+		"Cell": 3
+	},
+	"f907ba76-8bc4-48c0-a246-5999941f0e64": {
+		"Name": "Glass pole (4m)",
+		"Cell": 4
+	},
+	"d3a729d9-c25f-419c-ba7e-63cd2cac1a4d": {
+		"Name": "Glass square corner (left) (1m)",
+		"Cell": 1
+	},
+	"09957acb-9916-41ea-8799-66b0359ccb31": {
+		"Name": "Glass square corner (left) (2m)",
+		"Cell": 2
+	},
+	"84cf449c-e1ae-49a4-a170-c63464106cfe": {
+		"Name": "Glass square corner (left) (3m)",
+		"Cell": 3
+	},
+	"13d4b7b9-897b-4c71-be66-13aba3c3310b": {
+		"Name": "Glass square corner (left) (4m)",
+		"Cell": 4
+	},
+	"87103032-b0e5-47c4-a632-ba33da2cbe1b": {
+		"Name": "Glass square corner (right) (1m)",
+		"Cell": 1
+	},
+	"585d7b93-955d-4099-b9f5-2ea41797f419": {
+		"Name": "Glass square corner (right) (2m)",
+		"Cell": 2
+	},
+	"699ccf4d-45a4-4635-ba4d-850a40ba6e0a": {
+		"Name": "Glass square corner (right) (3m)",
+		"Cell": 3
+	},
+	"0bc8fd97-b7ae-4a59-98b8-2f60fe4cf874": {
+		"Name": "Glass square corner (right) (4m)",
+		"Cell": 4
+	},
+	"0375d846-a203-4813-a330-0d8fd1e6586e": {
+		"Name": "Glass triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"3f349a8a-e5a1-4f43-9cc4-cea2f0f5b623": {
+		"Name": "Glass triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"ea84e01f-5fac-4269-9754-c2c934e4b7d6": {
+		"Name": "Glass triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"48360916-a894-4bd8-b8b5-4595bb7ccf2e": {
+		"Name": "Glass triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"787524d3-1b60-44d8-bef2-d42156c55446": {
+		"Name": "Glass triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"d9952f54-1e40-4e5e-87af-b1011ca18b83": {
+		"Name": "Glass triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"2e691f79-065c-42bb-879a-a91a3cda67e9": {
+		"Name": "Glass triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"37999ce4-4189-4d46-bd77-4b7b5ec4be62": {
+		"Name": "Glass triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"573f6de1-1379-49f8-8342-588bd81a50b7": {
+		"Name": "Glass wedge (1m)",
+		"Cell": 1
+	},
+	"a2922c8c-4da3-433a-a6b9-85ee0620d876": {
+		"Name": "Glass wedge (2m)",
+		"Cell": 2
+	},
+	"f163ed91-e4c2-40f0-bb83-0540f4dc9706": {
+		"Name": "Glass wedge (3m)",
+		"Cell": 3
+	},
+	"6bc790f3-c15a-4aa4-adb1-a1f9c8265b4b": {
+		"Name": "Glass wedge (4m)",
+		"Cell": 4
+	},
+	"97e8a443-a784-4ca7-a47a-b13fdcebbb99": {
+		"Name": "Glass wedge back (1m)",
+		"Cell": 1
+	},
+	"5e855bfd-c341-4775-b141-d1759f94efaf": {
+		"Name": "Glass wedge back (2m)",
+		"Cell": 2
+	},
+	"7ee91ac9-0498-468a-aa0e-163c404c8e07": {
+		"Name": "Glass wedge back (3m)",
+		"Cell": 3
+	},
+	"6c33beca-d1e6-40a7-993a-89b40e0ac131": {
+		"Name": "Glass wedge back (4m)",
+		"Cell": 4
+	},
+	"df5b0e98-14a7-4f72-9036-3036486c4f60": {
+		"Name": "Glass wedge front (1m)",
+		"Cell": 1
+	},
+	"62568fd8-bb60-4e86-8ad7-3bd91d8dde58": {
+		"Name": "Glass wedge front (2m)",
+		"Cell": 2
+	},
+	"ca233dee-e353-4a20-b27f-afbcb11be877": {
+		"Name": "Glass wedge front (3m)",
+		"Cell": 3
+	},
+	"c0be616d-9f71-48e3-bcc7-357b07f6d0b4": {
+		"Name": "Glass wedge front (4m)",
+		"Cell": 4
+	},
+	"1ce727a4-fc31-4ced-ab48-a6b03986341f": {
+		"Name": "Heavy Armour 1m offset left",
+		"Cell": 2
+	},
+	"b0c3d4dd-d225-48c9-b19b-b320bf88e4c5": {
+		"Name": "Heavy Armour 1m offset right",
+		"Cell": 2
+	},
+	"15da2066-cc54-4eaa-81e9-64be87330205": {
+		"Name": "Heavy Armour 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"3564752b-f31b-4796-a948-5c0a202653cf": {
+		"Name": "Heavy Armour 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"e2fb4854-f848-48a1-a850-7512116a19b9": {
+		"Name": "Heavy Armour 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"f36d81a6-f11d-4d8b-8ae5-25699f5380e3": {
+		"Name": "Heavy Armour 1m to 2m slope transition (mirrored)",
+		"Cell": 2
+	},
+	"0fdc488b-2019-4d4c-b2a5-e4d3b409a3e0": {
+		"Name": "Heavy Armour 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"4b22faf5-c964-4ed3-a6bb-806c3a8363a8": {
+		"Name": "Heavy Armour 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"c3264d31-08c3-40f8-adfb-859b51e3b02f": {
+		"Name": "Heavy Armour 1m to 3m slope transition right",
+		"Cell": 2
+	},
+	"23b923a7-742c-4c7a-aac4-6ec0ff7c80cd": {
+		"Name": "Heavy Armour 1m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"54998e4e-7abe-47f6-9b82-f762a4bcd312": {
+		"Name": "Heavy Armour 1m to 3m slope transition",
+		"Cell": 3
+	},
+	"88795c9b-c11b-4a12-9288-a629b6b839ce": {
+		"Name": "Heavy Armour 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"8cdce26c-0d33-4b48-9e3f-f9669f7e2c99": {
+		"Name": "Heavy Armour 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"317d535d-6d0b-4865-8bf4-a6784d668435": {
+		"Name": "Heavy Armour 1m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"59bb19e7-9293-42e1-ada2-a1bb21300164": {
+		"Name": "Heavy Armour 1m to 4m slope transition",
+		"Cell": 4
+	},
+	"a03bb56f-2113-456d-939f-265c672e5e0f": {
+		"Name": "Heavy Armour 2m offset left",
+		"Cell": 3
+	},
+	"b8a325d6-1867-4097-b768-10a6d5888d6f": {
+		"Name": "Heavy Armour 2m offset right",
+		"Cell": 3
+	},
+	"56583174-67d9-4091-8a05-20aec4e7ef1e": {
+		"Name": "Heavy Armour 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"58a21be6-163e-4b0a-aab0-995b246ea15c": {
+		"Name": "Heavy Armour 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"a67d4597-ecf6-44f5-994b-8afbcd3f2931": {
+		"Name": "Heavy Armour 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"b174cad8-a3e7-4c22-9215-ac208b8596da": {
+		"Name": "Heavy Armour 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"09e714a3-3a04-4a8d-b488-31bbc576094a": {
+		"Name": "Heavy Armour 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"1371d396-33b3-4510-817f-222cb0df4426": {
+		"Name": "Heavy Armour 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"c0a43f45-42ea-481f-85c3-6e640bdd2036": {
+		"Name": "Heavy Armour 2m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"db58ac8f-af7b-468e-91a0-6e8114fb7800": {
+		"Name": "Heavy Armour 2m to 4m slope transition",
+		"Cell": 4
+	},
+	"281689d3-1cce-4740-95ff-76a1c4d1a6a1": {
+		"Name": "Heavy Armour 3m offset left",
+		"Cell": 4
+	},
+	"d20ec006-ee98-4ff3-89d0-34da13e5b253": {
+		"Name": "Heavy Armour 3m offset right",
+		"Cell": 4
+	},
+	"d1424dbf-197c-4b5d-b361-1a2ea39b1e47": {
+		"Name": "Heavy Armour 3m square backed corner left",
+		"Cell": 3
+	},
+	"ef0bbe65-28c6-4689-a9c5-5eb3c45e30ba": {
+		"Name": "Heavy Armour 3m square backed corner right",
+		"Cell": 3
+	},
+	"9af8119e-c8e6-4cab-a4db-8adcbfbad8ce": {
+		"Name": "Heavy Armour 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"aa877350-43f7-490f-88a0-150f9af32c93": {
+		"Name": "Heavy Armour 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"85d4464a-a6cc-4cab-a34c-802f99b6a9c3": {
+		"Name": "Heavy Armour 3m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"3b0108f0-e792-44e6-80d5-861d32891e6d": {
+		"Name": "Heavy Armour 3m to 4m slope transition",
+		"Cell": 4
+	},
+	"9965f5e6-64eb-456c-b0af-434b6fb23603": {
+		"Name": "Heavy Armour 4m offset left",
+		"Cell": 5
+	},
+	"158676b2-faca-421b-b99a-c43667cbe234": {
+		"Name": "Heavy Armour 4m offset right",
+		"Cell": 5
+	},
+	"39d6e8dd-ce7c-4429-a840-9a21e915a9f5": {
+		"Name": "Heavy Armour 4m square backed corner left",
+		"Cell": 4
+	},
+	"eee38852-9106-4946-a5ce-7fae2dfa4a12": {
+		"Name": "Heavy Armour 4m Square backed corner left",
+		"Cell": 2
+	},
+	"604cbbd5-8d8b-4e77-9ec0-e66f2f6c0c12": {
+		"Name": "Heavy Armour 4m square backed corner right",
+		"Cell": 4
+	},
+	"242e07fa-399f-4caa-bfc2-1b77bd2bd538": {
+		"Name": "Heavy armour beam (2m)",
+		"Cell": 2
+	},
+	"49714981-369a-4158-aff6-e562ee5f98d5": {
+		"Name": "Heavy armour beam (3m)",
+		"Cell": 3
+	},
+	"867cea4e-6ea4-4fe2-a4a1-b6230308f8f1": {
+		"Name": "Heavy armour beam (4m)",
+		"Cell": 4
+	},
+	"76d9466e-1a85-4803-8f96-f2a6510aab04": {
+		"Name": "Heavy armour beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"52fe948e-788f-4803-8fed-2aba4e8da80f": {
+		"Name": "Heavy armour beam slope (2m)",
+		"Cell": 2
+	},
+	"8c9a0597-7859-4a6a-a64c-7c455e229aa9": {
+		"Name": "Heavy armour beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"7bd17f1f-35d5-48fd-923e-aaba9953b427": {
+		"Name": "Heavy armour beam slope (3m)",
+		"Cell": 3
+	},
+	"6e5c9f1d-160b-49b1-9b74-606d2f695c7e": {
+		"Name": "Heavy armour beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"c61c1c19-cc53-49a2-b207-9de6b9ce328a": {
+		"Name": "Heavy armour beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"78b81c0a-44df-4c24-b2a5-5d273737da60": {
+		"Name": "Heavy armour down slope (1m)",
+		"Cell": 1
+	},
+	"525d85fc-f4d4-49ea-bebd-dc51bc562adf": {
+		"Name": "Heavy armour down slope (2m)",
+		"Cell": 2
+	},
+	"98467918-ec0c-47e1-8ce6-55949326eb4f": {
+		"Name": "Heavy armour down slope (3m)",
+		"Cell": 3
+	},
+	"983ebe9d-535e-4bdb-a37f-6b681a96f5a3": {
+		"Name": "Heavy armour down slope (4m)",
+		"Cell": 4
+	},
+	"1a48f832-e111-430b-9639-38bb63ec749e": {
+		"Name": "Heavy armour inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"1fcaab1e-18b8-4eb0-a36b-0451b58cf403": {
+		"Name": "Heavy armour inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"5f579567-d069-4a88-b866-d9ef5d85c8c5": {
+		"Name": "Heavy armour inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"882c8ced-9183-4fa2-9661-2b150e3bf769": {
+		"Name": "Heavy armour inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"29506948-3688-4a66-999b-05b8aca583f3": {
+		"Name": "Heavy armour inverted triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"4de90e1c-b6e4-48e6-8304-f624123ea33b": {
+		"Name": "Heavy armour inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"6de2590c-63bc-4f65-bc4d-edaa7b79a342": {
+		"Name": "Heavy armour inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"75941ed5-78d5-41e9-8dca-e3fd9a5ce9ab": {
+		"Name": "Heavy armour inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"60b279e2-9c1e-409f-8248-568039537baa": {
+		"Name": "Heavy armour pole (1m)",
+		"Cell": 1
+	},
+	"995a9f59-5845-421b-9ac0-f8202922e0d4": {
+		"Name": "Heavy armour pole (2m)",
+		"Cell": 2
+	},
+	"9341f524-dc7b-46f9-ab72-7ea821a8cdad": {
+		"Name": "Heavy armour pole (3m)",
+		"Cell": 3
+	},
+	"843d4115-d016-40ea-baf9-e71a559d85bc": {
+		"Name": "Heavy armour pole (4m)",
+		"Cell": 4
+	},
+	"e5e9f07e-d956-495c-bd47-8749b51916ac": {
+		"Name": "Heavy armour square corner (left) (1m)",
+		"Cell": 1
+	},
+	"c9ec7ef3-0fe9-4e52-8e92-d6259775b38e": {
+		"Name": "Heavy armour square corner (left) (2m)",
+		"Cell": 2
+	},
+	"ecfa83b1-fe79-414d-a529-cb72c18e1806": {
+		"Name": "Heavy armour square corner (left) (3m)",
+		"Cell": 3
+	},
+	"3f6eb436-9c32-4e9a-8dc2-cef5acc17478": {
+		"Name": "Heavy armour square corner (left) (4m)",
+		"Cell": 4
+	},
+	"a2b2dfdc-d014-466b-8d45-9432c9866f6a": {
+		"Name": "Heavy armour square corner (right) (1m)",
+		"Cell": 1
+	},
+	"21de9d6e-f13f-4c1d-862e-17a1428a0c50": {
+		"Name": "Heavy armour square corner (right) (2m)",
+		"Cell": 2
+	},
+	"73141f86-d17d-4362-91a5-a885fbb815d7": {
+		"Name": "Heavy armour square corner (right) (3m)",
+		"Cell": 3
+	},
+	"d3e683bf-14e4-482c-90da-d2220018517e": {
+		"Name": "Heavy armour square corner (right) (4m)",
+		"Cell": 4
+	},
+	"b9948d0c-d9da-4c22-adb3-ed3fd8509806": {
+		"Name": "Heavy armour triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"e1bb3954-5a2f-4039-bb6c-3b6489cc007c": {
+		"Name": "Heavy armour triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"49be6be8-e17b-4bc6-b206-3aece5fb3708": {
+		"Name": "Heavy armour triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"503161e4-286e-48d3-bcab-61b8769c806e": {
+		"Name": "Heavy armour triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"bb9ea0e4-c446-49bc-b4f1-3d2daec6c9f0": {
+		"Name": "Heavy armour triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"d557b2d6-4e84-49fc-ba75-35f6c87036c2": {
+		"Name": "Heavy armour triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"ca49a92a-1ae1-45c6-9b8f-aad28d9859c1": {
+		"Name": "Heavy armour triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"a8aebdd1-1479-4b00-8415-8f6da2018dc6": {
+		"Name": "Heavy armour triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"a0945b5c-2f1e-45ce-95fb-721e5657afa7": {
+		"Name": "Heavy armour wedge (1m)",
+		"Cell": 1
+	},
+	"ec907a52-f1aa-40df-8d63-cf1911a42abc": {
+		"Name": "Heavy armour wedge (2m)",
+		"Cell": 2
+	},
+	"4fa0ea70-46da-4fed-bde1-01dea3f3056b": {
+		"Name": "Heavy armour wedge (3m)",
+		"Cell": 3
+	},
+	"9435a1c1-00a3-4a9c-9aa5-05713a221bc5": {
+		"Name": "Heavy armour wedge (4m)",
+		"Cell": 4
+	},
+	"12a456b9-7f30-4d26-94b5-2ecd537bd6dc": {
+		"Name": "Heavy armour wedge back (1m)",
+		"Cell": 1
+	},
+	"a243f091-0a79-452e-a34e-1d3c26b8d45d": {
+		"Name": "Heavy armour wedge back (2m)",
+		"Cell": 2
+	},
+	"0f2f0226-6602-4e62-970f-8ad866f12a58": {
+		"Name": "Heavy armour wedge back (3m)",
+		"Cell": 3
+	},
+	"4dd3f70a-e106-4049-b498-bd2b01c4eb2c": {
+		"Name": "Heavy armour wedge back (4m)",
+		"Cell": 4
+	},
+	"924ebc61-bf03-4fd9-9c24-ffedd23592cd": {
+		"Name": "Heavy armour wedge front (1m)",
+		"Cell": 1
+	},
+	"4bec3c1c-f47c-4dd6-b8c4-6255f11b0127": {
+		"Name": "Heavy armour wedge front (2m)",
+		"Cell": 2
+	},
+	"30a8fc02-0133-4dbe-9a6f-1e4df68ac635": {
+		"Name": "Heavy armour wedge front (3m)",
+		"Cell": 3
+	},
+	"ef642411-03bb-4c82-9bd4-5ae525e50023": {
+		"Name": "Heavy armour wedge front (4m)",
+		"Cell": 4
+	},
+	"379598f2-dfb5-4114-9340-323cc2a6ffb2": {
+		"Name": "Lead 1m offset left",
+		"Cell": 2
+	},
+	"1d3b82b0-8fea-4648-afba-68677255f21a": {
+		"Name": "Lead 1m offset right",
+		"Cell": 2
+	},
+	"33d42711-45e5-4170-a772-99291be1c1c9": {
+		"Name": "Lead 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"68a33101-b1e0-4cae-be64-e94f5ffa2ece": {
+		"Name": "Lead 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"bde67122-056b-4e43-9e7d-5d34596fa69e": {
+		"Name": "Lead 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"70d56187-181b-4dd4-b49a-937e30f6f442": {
+		"Name": "Lead 1m to 2m slope transition (mirrored)",
+		"Cell": 2
+	},
+	"b5d23070-4083-41a6-b154-79faaf51fd86": {
+		"Name": "Lead 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"04474e69-83e7-424a-802f-512ece09925d": {
+		"Name": "Lead 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"33407abf-5365-4058-8ce5-b65d3e131688": {
+		"Name": "Lead 1m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"39fccb33-d334-479b-9b69-5571bd2cba38": {
+		"Name": "Lead 1m to 3m slope transition right",
+		"Cell": 2
+	},
+	"922205f4-94f0-45da-9e46-86a8bc033842": {
+		"Name": "Lead 1m to 3m slope transition",
+		"Cell": 3
+	},
+	"5bdde677-6886-452b-b34f-4031b56bb8cc": {
+		"Name": "Lead 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"844e895c-b4bc-4670-acc7-104bec8b4703": {
+		"Name": "Lead 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"fde2ff75-db92-45ff-bb86-2037d4b5f98f": {
+		"Name": "Lead 1m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"91b89bcf-5822-4e77-b0cc-8d3271620700": {
+		"Name": "Lead 1m to 4m slope transition",
+		"Cell": 4
+	},
+	"89e1c5b3-cf7c-4399-98ff-ed91e14cc948": {
+		"Name": "Lead 2m offset left",
+		"Cell": 3
+	},
+	"7f7ec39a-013f-46a2-b499-be2a0de8ea11": {
+		"Name": "Lead 2m offset right",
+		"Cell": 3
+	},
+	"2357f431-3baf-45d1-94de-f845fec9b501": {
+		"Name": "Lead 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"326a2f34-1bfd-4547-92b1-43a9f0c05dea": {
+		"Name": "Lead 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"a34cb834-1741-4b26-9ed8-21c85c28e088": {
+		"Name": "Lead 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"cef66a85-b517-4e1a-9dbe-643771a24e2e": {
+		"Name": "Lead 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"2d827849-1ad0-4093-b037-c5e14e74d8ec": {
+		"Name": "Lead 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"61b27590-b3ae-4eb4-bd59-0fef7eb91ac1": {
+		"Name": "Lead 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"653daa39-beac-4aa2-980f-c4a49052f9ab": {
+		"Name": "Lead 2m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"d78bbac3-a00e-4c77-ac0c-6da5a95e2d72": {
+		"Name": "Lead 2m to 4m slope transition",
+		"Cell": 4
+	},
+	"76f9ce05-57dd-4c70-8219-71c48f63a716": {
+		"Name": "Lead 3m offset left",
+		"Cell": 4
+	},
+	"5e50a9c4-2a8b-40fd-a8ab-d62d9b22f37b": {
+		"Name": "Lead 3m offset right",
+		"Cell": 4
+	},
+	"a783e64e-941b-4e1d-b360-e2d5fa52e4bb": {
+		"Name": "Lead 3m square backed corner left",
+		"Cell": 3
+	},
+	"3170c37c-7878-4a51-a743-4e8a5171e641": {
+		"Name": "Lead 3m square backed corner right",
+		"Cell": 3
+	},
+	"093773cf-b288-4663-9d27-a182abcaac1a": {
+		"Name": "Lead 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"03ea7bdc-2ec3-4cf6-a8af-9aa21126a074": {
+		"Name": "Lead 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"fdcbee9f-3473-45a2-ab98-d827eb102274": {
+		"Name": "Lead 3m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"c77ee831-9744-4d74-9a1e-f5c8b9c8202c": {
+		"Name": "Lead 3m to 4m slope transition",
+		"Cell": 4
+	},
+	"53ace348-3082-4b41-9630-197a60f8e658": {
+		"Name": "Lead 4m offset left",
+		"Cell": 5
+	},
+	"1e27893d-eece-4a43-9de2-6d6636a02f65": {
+		"Name": "Lead 4m offset right",
+		"Cell": 5
+	},
+	"4de09dc2-b68b-4fd3-a7fb-9031d9a064f2": {
+		"Name": "Lead 4m Square backed corner left",
+		"Cell": 2
+	},
+	"e823e772-3774-45d5-932c-da64f412f32b": {
+		"Name": "Lead 4m square backed corner left",
+		"Cell": 4
+	},
+	"3a5581af-da8b-44d7-bddf-363ed49c632e": {
+		"Name": "Lead 4m square backed corner right",
+		"Cell": 4
+	},
+	"d5e50322-fbc0-4e09-bfab-050f431146a9": {
+		"Name": "Lead beam (2m)",
+		"Cell": 2
+	},
+	"19ee2ba3-9443-4a44-97fd-bad9b1443895": {
+		"Name": "Lead beam (3m)",
+		"Cell": 3
+	},
+	"f5d2db25-114e-473a-8313-96831ccd011e": {
+		"Name": "Lead beam (4m)",
+		"Cell": 4
+	},
+	"2a111efa-3659-4d52-b6ad-631f0cb5e370": {
+		"Name": "Lead beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"4dac56f1-b3bc-461a-a05a-0227da43ba44": {
+		"Name": "Lead beam slope (2m)",
+		"Cell": 2
+	},
+	"94b930c8-e5be-4c24-9ccf-8b5c9b9a7489": {
+		"Name": "Lead beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"ac12e978-c2f2-4a79-b959-224f835fdef0": {
+		"Name": "Lead beam slope (3m)",
+		"Cell": 3
+	},
+	"9ee81122-d411-48a8-adee-73f0a2241176": {
+		"Name": "Lead beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"ea1c1e77-149d-406c-8b81-1a45537ab1bf": {
+		"Name": "Lead beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"df61d4c4-a514-4f23-baab-4da8fce066a3": {
+		"Name": "Lead down slope (1m)",
+		"Cell": 1
+	},
+	"354bc2b0-de06-4948-ad1e-2fbcef516cb7": {
+		"Name": "Lead down slope (2m)",
+		"Cell": 2
+	},
+	"7579ca39-af82-4a2c-83f6-a2090ae50d6b": {
+		"Name": "Lead down slope (3m)",
+		"Cell": 3
+	},
+	"97ea8dab-dc9b-4056-9532-78533e3b82bf": {
+		"Name": "Lead down slope (4m)",
+		"Cell": 4
+	},
+	"6d965de2-535a-4574-bf5b-b52c40dcc0d0": {
+		"Name": "Lead inverted corner (right) (1m)",
+		"Cell": 1
+	},
+	"2a188034-0d97-4592-9a07-caa8b86b8a13": {
+		"Name": "Lead inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"267c3871-b012-4856-b640-00bdb3cfe287": {
+		"Name": "Lead inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"4581670a-fab6-40f8-aced-998dea107b68": {
+		"Name": "Lead inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"67ac785e-154d-4326-9df4-559b122d0aaa": {
+		"Name": "Lead inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"7667a2ad-20b5-434a-9ec3-37acb16027dd": {
+		"Name": "Lead inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"4aa571ec-2dc8-4cd3-b0a8-e5f97a9d2935": {
+		"Name": "Lead inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"c507ebe0-42ce-42f5-9b22-93c37beb6db8": {
+		"Name": "Lead inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"995d25a2-7237-4cd2-b763-7eb3b3f7e1e7": {
+		"Name": "Lead pole (1m)",
+		"Cell": 1
+	},
+	"0431b5df-6741-4cc5-8171-4c15327bcd76": {
+		"Name": "Lead pole (2m)",
+		"Cell": 2
+	},
+	"4269a390-59e9-4438-a171-f2a9c181767b": {
+		"Name": "Lead pole (3m)",
+		"Cell": 3
+	},
+	"72e5674d-8056-4321-bad5-287c81d5d880": {
+		"Name": "Lead pole (4m)",
+		"Cell": 4
+	},
+	"33040759-1059-4ef5-9ebc-dcf9a90bbd6d": {
+		"Name": "Lead square corner (left) (1m)",
+		"Cell": 1
+	},
+	"fce44a0b-df1b-45f2-bfa8-159bfc00d192": {
+		"Name": "Lead square corner (left) (2m)",
+		"Cell": 2
+	},
+	"5d9365d3-0598-44c4-b6e2-0dd8c4fd5101": {
+		"Name": "Lead square corner (left) (3m)",
+		"Cell": 3
+	},
+	"9c7311fb-fbf7-4bb1-a953-7823e38c733c": {
+		"Name": "Lead square corner (left) (4m)",
+		"Cell": 4
+	},
+	"571c4683-f2d6-4a9e-9e64-b2853a6ad51e": {
+		"Name": "Lead square corner (right) (1m)",
+		"Cell": 1
+	},
+	"920ca276-3c8c-4558-b9c4-b5d216c15a6a": {
+		"Name": "Lead square corner (right) (2m)",
+		"Cell": 2
+	},
+	"845a8639-bf04-4550-9524-9dbcaf55a163": {
+		"Name": "Lead square corner (right) (3m)",
+		"Cell": 3
+	},
+	"b39d779b-02a4-4c66-b6a0-2b712ed5e5ab": {
+		"Name": "Lead square corner (right) (4m)",
+		"Cell": 4
+	},
+	"9b28100a-6d85-4680-b3f1-e3f068298cd9": {
+		"Name": "Lead triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"ab2d7e9b-c4ee-41d1-84aa-998895dfc28b": {
+		"Name": "Lead triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"2ffb6856-1994-422a-b303-bcd9c3d17c07": {
+		"Name": "Lead triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"57dac102-64bb-45fc-9f62-4322315fc29e": {
+		"Name": "Lead triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"a38cee19-5de4-4a83-ad48-54257af58a4e": {
+		"Name": "Lead triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"0bd61bef-d0d3-459e-a1d1-4c899523d45f": {
+		"Name": "Lead triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"24677e74-5178-4fca-bf14-9fb0181014f5": {
+		"Name": "Lead triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"e90a832b-32d6-4695-98a3-70793885d616": {
+		"Name": "Lead triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"6a20f299-6c3e-4406-a859-157075aab08d": {
+		"Name": "Lead wedge (1m)",
+		"Cell": 1
+	},
+	"b0bb3f96-4f2a-4e9f-8372-a800dc9a10d5": {
+		"Name": "Lead wedge (2m)",
+		"Cell": 2
+	},
+	"3123cb13-73e9-4d32-89dd-5ce567ee1597": {
+		"Name": "Lead wedge (3m)",
+		"Cell": 3
+	},
+	"4984255b-5dcf-4bb8-9ea2-917eac36b06d": {
+		"Name": "Lead wedge (4m)",
+		"Cell": 4
+	},
+	"a1b6a2c6-4bf4-4c18-838e-5564ea0f951d": {
+		"Name": "Lead wedge back (1m)",
+		"Cell": 1
+	},
+	"b0df4001-cae1-49da-b20a-3ec94b8082e1": {
+		"Name": "Lead wedge back (2m)",
+		"Cell": 2
+	},
+	"71a34383-0592-424e-bce2-a017a9b0d32b": {
+		"Name": "Lead wedge back (3m)",
+		"Cell": 3
+	},
+	"5046037e-5c28-4a60-a29f-bc171b3ad1f1": {
+		"Name": "Lead wedge back (4m)",
+		"Cell": 4
+	},
+	"1abc7373-c658-47aa-91ce-ce3242dbf329": {
+		"Name": "Lead wedge front (1m)",
+		"Cell": 1
+	},
+	"54916861-4b52-4fa0-a42c-b08736b7b930": {
+		"Name": "Lead wedge front (2m)",
+		"Cell": 2
+	},
+	"79d73a29-95de-4918-a69f-207149aab6a3": {
+		"Name": "Lead wedge front (3m)",
+		"Cell": 3
+	},
+	"def39d03-c87b-4794-a306-9dc741ff990e": {
+		"Name": "Lead wedge front (4m)",
+		"Cell": 4
+	},
+	"c30ac9c4-8fa1-4812-a56a-1926d2119dc5": {
+		"Name": "Metal 1m offset left",
+		"Cell": 2
+	},
+	"6d3e8b3f-b945-47e9-a77d-e0fcd1c61b69": {
+		"Name": "Metal 1m offset right",
+		"Cell": 2
+	},
+	"576586fc-3938-4ae9-93a7-6cf74b8efbf2": {
+		"Name": "Metal 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"0a0754e4-024e-4622-9a06-506a7f4a6ca3": {
+		"Name": "Metal 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"8ae14459-075e-4384-bd95-1fef61b4021f": {
+		"Name": "Metal 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"4035532b-9d7b-4570-8ede-68ebfe42418d": {
+		"Name": "Metal 1m to 2m slope transition (mirrored)",
+		"Cell": 2
+	},
+	"3b6e3500-bbdf-4de3-95cc-0eea2495b2be": {
+		"Name": "Metal 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"0dc84af2-12e8-4523-b5db-284cfc6b5b45": {
+		"Name": "Metal 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"d7767631-2bc3-4a3f-8260-444e37b950aa": {
+		"Name": "Metal 1m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"d6b944ee-04fc-411c-9d22-935d5f4b2440": {
+		"Name": "Metal 1m to 3m slope transition right",
+		"Cell": 2
+	},
+	"f4c0e758-b44d-48d8-976a-1f8ae33d7969": {
+		"Name": "Metal 1m to 3m slope transition",
+		"Cell": 3
+	},
+	"7e4ef4ba-95ad-4248-a989-59a71a983ce2": {
+		"Name": "Metal 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"928e927f-d394-453a-824c-24374d883e35": {
+		"Name": "Metal 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"0d62d218-3370-40c2-b0d8-9052a2e8598f": {
+		"Name": "Metal 1m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"5bde06fa-3244-4059-8dd1-1efa60c0076f": {
+		"Name": "Metal 1m to 4m slope transition",
+		"Cell": 4
+	},
+	"aeb8c2da-d589-44dc-a4cd-4c4d35543c70": {
+		"Name": "Metal 2m offset left",
+		"Cell": 3
+	},
+	"f4cbeb0b-fc70-439a-870f-fa9ade1cf913": {
+		"Name": "Metal 2m offset right",
+		"Cell": 3
+	},
+	"0f9d31f1-b48e-4931-88be-b6368f029ef0": {
+		"Name": "Metal 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"b5c51d4d-b881-433a-9290-8c2b2ae491ba": {
+		"Name": "Metal 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"3a42ac8c-2c51-429c-a375-5d0f2c41742e": {
+		"Name": "Metal 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"c5550009-2b37-41ff-a788-d413b39376ae": {
+		"Name": "Metal 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"d9d0a930-c60a-4cdc-a69b-f9db59003bf4": {
+		"Name": "Metal 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"8a428506-4727-4049-b71c-731acaffa1f0": {
+		"Name": "Metal 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"06148e1a-1ab1-413b-bcb8-03acac4f51c4": {
+		"Name": "Metal 2m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"d8a658e9-1994-40d0-b988-2cc754490a31": {
+		"Name": "Metal 2m to 4m slope transition",
+		"Cell": 4
+	},
+	"0358dee0-2d87-4b29-bb73-5c9e3399fd4e": {
+		"Name": "Metal 3m offset left",
+		"Cell": 4
+	},
+	"de7aab07-7fec-438f-872a-d66b0e942b42": {
+		"Name": "Metal 3m offset right",
+		"Cell": 4
+	},
+	"ffa8a7a0-4f05-40f2-81c2-9fef6b60b349": {
+		"Name": "Metal 3m square backed corner left",
+		"Cell": 3
+	},
+	"f7667f01-740f-4252-8036-8ec7fcdc89ca": {
+		"Name": "Metal 3m square backed corner right",
+		"Cell": 3
+	},
+	"48d61a93-6389-4d25-a5dd-c77ccdd10398": {
+		"Name": "Metal 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"b1d536bd-ffb7-4c9a-a4d1-67536a2b5e7c": {
+		"Name": "Metal 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"31055780-b250-4f02-b0c1-92296219e028": {
+		"Name": "Metal 3m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"4d8b8dca-49ac-4995-b36c-791317b13fc1": {
+		"Name": "Metal 3m to 4m slope transition",
+		"Cell": 4
+	},
+	"a2983545-008e-4926-a54a-89cc56de8f48": {
+		"Name": "Metal 4m offset left",
+		"Cell": 5
+	},
+	"5a0d6e26-7939-437f-ba35-33d9b3cf193f": {
+		"Name": "Metal 4m offset right",
+		"Cell": 5
+	},
+	"0f1a577f-2ad8-47d1-ace0-ae0c6d95a7c6": {
+		"Name": "Metal 4m square backed corner left",
+		"Cell": 4
+	},
+	"c531f93d-7309-43d7-ae46-a16ba73efaba": {
+		"Name": "Metal 4m Square backed corner left",
+		"Cell": 2
+	},
+	"f5d7869b-825d-4095-9693-8d78c830d377": {
+		"Name": "Metal 4m square backed corner right",
+		"Cell": 4
+	},
+	"2a22f176-01c2-42f2-a7d2-2c7054504aa9": {
+		"Name": "Metal beam (2m)",
+		"Cell": 2
+	},
+	"46f54639-5f91-4731-93eb-e5c0a7460538": {
+		"Name": "Metal beam (3m)",
+		"Cell": 3
+	},
+	"a7f5d8de-4882-4111-9d01-436493e5b2d8": {
+		"Name": "Metal beam (4m)",
+		"Cell": 4
+	},
+	"04578650-30c2-4c15-9df7-7770d10b1146": {
+		"Name": "Metal beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"8d0206ef-8e9d-4193-9048-04012bb315d4": {
+		"Name": "Metal beam slope (2m)",
+		"Cell": 2
+	},
+	"fdf79390-2759-4bf9-a72c-d7947fcf6713": {
+		"Name": "Metal beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"c042392e-e464-4e2d-b0a2-3d325139721b": {
+		"Name": "Metal beam slope (3m)",
+		"Cell": 3
+	},
+	"e5d065f6-907b-450d-b998-213cdc54eec1": {
+		"Name": "Metal beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"0d554a9d-7d06-48b3-8aea-ffaeaa30380a": {
+		"Name": "Metal beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"5548037e-8428-43f8-bcb6-d730dbcd0a79": {
+		"Name": "Metal down slope (1m)",
+		"Cell": 1
+	},
+	"8477bbec-974c-45bf-a1ce-49a48d5b5307": {
+		"Name": "Metal down slope (2m)",
+		"Cell": 2
+	},
+	"a09be1c6-93fd-4b54-b9ca-62e60efbc818": {
+		"Name": "Metal down slope (3m)",
+		"Cell": 3
+	},
+	"db9ed060-d556-435b-945c-19c923e233d3": {
+		"Name": "Metal down slope (4m)",
+		"Cell": 4
+	},
+	"de50f4f6-3d7e-4d6b-ae34-e6a34b24b104": {
+		"Name": "Metal inverted corner (right) (1m)",
+		"Cell": 1
+	},
+	"442f3ea3-c7cd-4759-84ee-a0d2fac5a711": {
+		"Name": "Metal inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"b9d21957-633f-4926-9562-4cfab38badee": {
+		"Name": "Metal inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"91183077-8eac-4e29-a197-9190429ef0ba": {
+		"Name": "Metal inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"ac09f902-8921-4a58-aad5-c679706697f6": {
+		"Name": "Metal inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"098917ec-d86a-4cee-9c65-7997295bc248": {
+		"Name": "Metal inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"2ddec223-13c2-4bf9-ba05-66338c51bd45": {
+		"Name": "Metal inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"5f07c608-acf2-4cc5-97d0-1a0a96acb9e3": {
+		"Name": "Metal inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"ad00935b-e95c-4345-8ea7-646846bc16db": {
+		"Name": "Metal pole (1m)",
+		"Cell": 1
+	},
+	"f4ec0bf4-1037-4b56-b1d1-c48f528f1767": {
+		"Name": "Metal pole (2m)",
+		"Cell": 2
+	},
+	"fa519e04-e82f-47db-91b8-f78ba4a5ba35": {
+		"Name": "Metal pole (3m)",
+		"Cell": 3
+	},
+	"ecf87366-edbe-4133-bf8b-d681a67fec92": {
+		"Name": "Metal pole (4m)",
+		"Cell": 4
+	},
+	"2f5f91c0-bebf-4de2-bf70-8d9bc1816997": {
+		"Name": "Metal square corner (left) (1m)",
+		"Cell": 1
+	},
+	"f6f120ee-fbc3-49f8-a2a3-a49e8674b8c8": {
+		"Name": "Metal square corner (left) (2m)",
+		"Cell": 2
+	},
+	"d09c2121-c7e4-4d99-9556-02b92d17a652": {
+		"Name": "Metal square corner (left) (3m)",
+		"Cell": 3
+	},
+	"ca924c87-8012-448a-a6c7-a7ff91b0e801": {
+		"Name": "Metal square corner (left) (4m)",
+		"Cell": 4
+	},
+	"6f820954-63e4-4bc9-a299-8266e712d838": {
+		"Name": "Metal square corner (right) (1m)",
+		"Cell": 1
+	},
+	"686e9438-d86e-4504-b9f6-7029b264924e": {
+		"Name": "Metal square corner (right) (2m)",
+		"Cell": 2
+	},
+	"225daaae-6f35-4489-aeb5-73e66e0664a4": {
+		"Name": "Metal square corner (right) (3m)",
+		"Cell": 3
+	},
+	"b183f553-ce82-47c5-a4ed-6470b83b0d45": {
+		"Name": "Metal square corner (right) (4m)",
+		"Cell": 4
+	},
+	"bcaf33a4-98c3-41d7-b416-438670e97d53": {
+		"Name": "Metal triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"40659614-1b34-497a-b745-78497e4b2025": {
+		"Name": "Metal triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"6641c0af-44e6-4f6c-8558-f5cdf3c3feee": {
+		"Name": "Metal triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"52a61c5e-07be-4bb9-9649-d3375c66e97e": {
+		"Name": "Metal triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"ee18a848-1319-4ff9-b5e5-3f3710635dbf": {
+		"Name": "Metal triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"369eefd9-0c39-412e-a294-d0bb2251c509": {
+		"Name": "Metal triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"a30c0bb3-3f38-46da-8cd3-a813aabaccc9": {
+		"Name": "Metal triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"d48733e2-f003-4643-86a2-cb350fd0dc04": {
+		"Name": "Metal triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"ea2f8200-a920-40fc-9715-d0f66ae5f492": {
+		"Name": "Metal wedge (1m)",
+		"Cell": 1
+	},
+	"f07f759c-41d1-4095-8054-dc471687884b": {
+		"Name": "Metal wedge (2m)",
+		"Cell": 2
+	},
+	"5c51a13b-a083-43dd-80ea-f340e6ef88f8": {
+		"Name": "Metal wedge (3m)",
+		"Cell": 3
+	},
+	"1278df17-e3e8-4d29-aa8d-0f779cb60b1d": {
+		"Name": "Metal wedge (4m)",
+		"Cell": 4
+	},
+	"1019c502-0f6e-4958-bb30-b78950ca694f": {
+		"Name": "Rubber 1m offset left",
+		"Cell": 2
+	},
+	"b9de1b74-162b-4c09-81c5-0a85c6d64f4d": {
+		"Name": "Rubber 1m offset right",
+		"Cell": 2
+	},
+	"9c64eb53-f66f-4966-a9d7-4208f7b0af71": {
+		"Name": "Rubber 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"424a1483-28f5-4958-9332-4d373731bcc0": {
+		"Name": "Rubber 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"1a1a821f-33e7-4c06-8989-00e359ecb0db": {
+		"Name": "Rubber 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"50791855-e917-4e2e-ae9c-0fe22fff9018": {
+		"Name": "Rubber 1m to 2m slope transition (mirrored)",
+		"Cell": 2
+	},
+	"8b68280b-3106-43c0-afcb-45058673122a": {
+		"Name": "Rubber 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"a9eaa512-c8e7-4109-b3a9-88bb5065c619": {
+		"Name": "Rubber 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"28f4d320-7ff4-4d08-8586-c41c0a53a216": {
+		"Name": "Rubber 1m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"f4a993f3-e9ec-4405-bf36-7ae5d90e6b95": {
+		"Name": "Rubber 1m to 3m slope transition right",
+		"Cell": 2
+	},
+	"c0e6ee78-0b7f-43f8-b5b9-3c96306734c6": {
+		"Name": "Rubber 1m to 3m slope transition",
+		"Cell": 3
+	},
+	"bf8156d8-2fc9-4f0f-bb88-11e1024327af": {
+		"Name": "Rubber 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"43095483-b1be-4a7e-9228-cee78746d6ac": {
+		"Name": "Rubber 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"f5d09c0f-1a85-40ac-a6d8-2f7f7c416657": {
+		"Name": "Rubber 1m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"e4f8c207-e538-49c3-a17c-af0cedb43b9d": {
+		"Name": "Rubber 1m to 4m slope transition",
+		"Cell": 4
+	},
+	"4731964e-37b7-42d4-a3a5-763abb56d27e": {
+		"Name": "Rubber 2m offset left",
+		"Cell": 3
+	},
+	"dafbcb70-da67-4474-ad22-05e73b827572": {
+		"Name": "Rubber 2m offset right",
+		"Cell": 3
+	},
+	"25f1eceb-03f4-435e-946e-eec907e768f4": {
+		"Name": "Rubber 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"bb192177-bbc8-43a9-a022-28c891148f67": {
+		"Name": "Rubber 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"087fe9e0-63cb-4511-adc8-5e7b943dd71b": {
+		"Name": "Rubber 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"69dc80f1-943d-4f60-a011-bfe038c002d9": {
+		"Name": "Rubber 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"07538fcc-c67f-4f0c-8cc6-0de63f3951d1": {
+		"Name": "Rubber 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"47c90188-765d-4b36-a024-5f2910e1a402": {
+		"Name": "Rubber 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"c8bb1819-1763-46d1-83e8-dbdc3d61e612": {
+		"Name": "Rubber 2m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"253dd48f-7f37-47c2-9497-3e5489c09329": {
+		"Name": "Rubber 2m to 4m slope transition",
+		"Cell": 4
+	},
+	"fe063db5-9a03-4c93-bb4f-c25a4f7c9914": {
+		"Name": "Rubber 3m offset left",
+		"Cell": 4
+	},
+	"374dc36e-c905-4a79-968a-b8bdd64ecaf0": {
+		"Name": "Rubber 3m offset right",
+		"Cell": 4
+	},
+	"a33738ad-a617-446c-82ae-f657c7ecf471": {
+		"Name": "Rubber 3m square backed corner left",
+		"Cell": 3
+	},
+	"23726d51-3f6c-4951-be39-b65fa3388d4e": {
+		"Name": "Rubber 3m square backed corner right",
+		"Cell": 3
+	},
+	"0b9e3bd1-4818-4be6-896e-c51587e01012": {
+		"Name": "Rubber 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"8c9d5fcc-4e49-4b14-b9dc-4d8080e75445": {
+		"Name": "Rubber 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"c6f2e2ea-a894-449e-800d-473cb73966cb": {
+		"Name": "Rubber 3m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"1c289eb1-94d0-4e89-a829-0a979841ca15": {
+		"Name": "Rubber 3m to 4m slope transition",
+		"Cell": 4
+	},
+	"b74cf011-75ce-4408-a0c9-d69cbc45f0ac": {
+		"Name": "Rubber 4m offset left",
+		"Cell": 5
+	},
+	"7b5cb254-9320-4ed1-82fa-2441ee33867b": {
+		"Name": "Rubber 4m offset right",
+		"Cell": 5
+	},
+	"099e452e-baae-40a9-bc40-a2124bb2224f": {
+		"Name": "Rubber 4m Square backed corner left",
+		"Cell": 2
+	},
+	"aa064b4c-e7a2-4eeb-af1e-153d8ef69b94": {
+		"Name": "Rubber 4m square backed corner left",
+		"Cell": 4
+	},
+	"6be71bca-f7ca-4b2e-85a6-d29371bf1b7b": {
+		"Name": "Rubber 4m square backed corner right",
+		"Cell": 4
+	},
+	"7e0913f6-9961-4697-b9cb-c87ca8b90dd7": {
+		"Name": "Rubber beam (2m)",
+		"Cell": 2
+	},
+	"1fb9209d-f982-4326-847d-f276aef5dce2": {
+		"Name": "Rubber beam (3m)",
+		"Cell": 3
+	},
+	"39cf32c0-8fde-4f01-9b68-977624fffe69": {
+		"Name": "Rubber beam (4m)",
+		"Cell": 4
+	},
+	"bdcd498c-2b32-4e9d-9333-2a3383c296f5": {
+		"Name": "Rubber beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"42f89f01-c7c1-4c80-a9d8-7161a059dff0": {
+		"Name": "Rubber beam slope (2m)",
+		"Cell": 2
+	},
+	"799b4f34-b4cd-4e5f-8906-9e6ed8cfc799": {
+		"Name": "Rubber beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"1b302b13-2754-4044-8db7-80bda725df75": {
+		"Name": "Rubber beam slope (3m)",
+		"Cell": 3
+	},
+	"6cc729ae-3c7f-414d-ae3d-58229b99b9ea": {
+		"Name": "Rubber beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"533e9619-9a37-4d1b-b2fb-cc7b57eb3d03": {
+		"Name": "Rubber beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"552d8144-11c0-46e6-8607-927f825b18be": {
+		"Name": "Rubber down slope (1m)",
+		"Cell": 1
+	},
+	"d204f301-7ea9-4bcf-b9e8-34ed899de190": {
+		"Name": "Rubber down slope (2m)",
+		"Cell": 2
+	},
+	"d62bca2a-ffe5-4316-8c43-269e5393db6e": {
+		"Name": "Rubber down slope (3m)",
+		"Cell": 3
+	},
+	"2a31679e-2d6e-4598-95e2-4016ed834e9c": {
+		"Name": "Rubber down slope (4m)",
+		"Cell": 4
+	},
+	"b55a09cd-3aa8-40b0-b3fa-ae07a6941b77": {
+		"Name": "Rubber inverted corner (right) (1m)",
+		"Cell": 1
+	},
+	"0173899d-e703-414b-bfda-6788d2cdfc08": {
+		"Name": "Rubber inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"0bb9718c-bbe8-4b8d-b1a5-fa0f36041e8d": {
+		"Name": "Rubber inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"7c40569c-b0cd-47ba-b963-06664010253e": {
+		"Name": "Rubber inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"b39f6e0c-fc73-4e96-83f5-3d5b884f076a": {
+		"Name": "Rubber inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"92d0134d-7fa4-4cf7-9198-f1b0951d1fac": {
+		"Name": "Rubber inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"98f6c067-1d29-4d8b-83d6-62faec838220": {
+		"Name": "Rubber inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"fa3c8603-784c-4a76-9f1a-dbc233e97034": {
+		"Name": "Rubber inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"4da4057d-1f5a-4d82-97dd-10502ae2bb80": {
+		"Name": "Rubber pole (1m)",
+		"Cell": 1
+	},
+	"b9dc2e43-033c-4520-93e9-9c905bae5729": {
+		"Name": "Rubber pole (2m)",
+		"Cell": 2
+	},
+	"25c83f33-5aba-462a-bebe-8f302af1a5ee": {
+		"Name": "Rubber pole (3m)",
+		"Cell": 3
+	},
+	"a67de77b-62e2-4262-9aba-835a29c2cdac": {
+		"Name": "Rubber pole (4m)",
+		"Cell": 4
+	},
+	"707f2551-c603-4183-b84d-9cd5a4a52f19": {
+		"Name": "Rubber square corner (left) (1m)",
+		"Cell": 1
+	},
+	"c4d56b61-1df3-4e38-8d2f-ec97ff2c169a": {
+		"Name": "Rubber square corner (left) (2m)",
+		"Cell": 2
+	},
+	"b98d48e3-ab09-4fb3-b0c4-28ec9990de2b": {
+		"Name": "Rubber square corner (left) (3m)",
+		"Cell": 3
+	},
+	"f43c04aa-72f1-4de4-bc28-4c3bd7439fac": {
+		"Name": "Rubber square corner (left) (4m)",
+		"Cell": 4
+	},
+	"7c89899e-b28d-4032-8e0a-0321ae8c381e": {
+		"Name": "Rubber square corner (right) (1m)",
+		"Cell": 1
+	},
+	"2c680c33-b254-447a-9155-76eba414d511": {
+		"Name": "Rubber square corner (right) (2m)",
+		"Cell": 2
+	},
+	"fc42430d-1e52-4825-a115-d603e633f23a": {
+		"Name": "Rubber square corner (right) (3m)",
+		"Cell": 3
+	},
+	"2f6ea991-33b9-469c-890e-411053fb9a06": {
+		"Name": "Rubber square corner (right) (4m)",
+		"Cell": 4
+	},
+	"aa8734e8-095a-4105-9436-f76a0c69a02b": {
+		"Name": "Rubber triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"455eb785-58ca-4494-b21a-5f2636908104": {
+		"Name": "Rubber triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"9d8725bf-e97b-4e84-9077-f02c069cdc48": {
+		"Name": "Rubber triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"290e5534-4d14-4b0e-a83f-756d89fc0b2e": {
+		"Name": "Rubber triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"82180117-4e72-4c87-b6d3-6a2f666ae433": {
+		"Name": "Rubber triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"d25b518f-83e6-422f-a479-3acd280ddf43": {
+		"Name": "Rubber triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"3157b109-d0f8-4cd3-a534-40fa2dac03d1": {
+		"Name": "Rubber triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"77a64131-75a3-4912-a9a8-7ece10e2c95a": {
+		"Name": "Rubber triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"f9b1d3e4-c4c8-47eb-9547-b4bf3f3ba730": {
+		"Name": "Rubber wedge (1m)",
+		"Cell": 1
+	},
+	"f4b61ebc-c689-4263-9fde-5f9b705a0525": {
+		"Name": "Rubber wedge (2m)",
+		"Cell": 2
+	},
+	"8ae27624-fdce-4a7c-bb09-690cce904826": {
+		"Name": "Rubber wedge (3m)",
+		"Cell": 3
+	},
+	"711936f2-7dba-4537-92aa-c6419b6e8844": {
+		"Name": "Rubber wedge (4m)",
+		"Cell": 4
+	},
+	"ff29acc9-e565-47eb-875d-c279d73c8c70": {
+		"Name": "Rubber wedge back (1m)",
+		"Cell": 1
+	},
+	"bf52f547-0b50-4e21-b838-57866c33d104": {
+		"Name": "Rubber wedge back (2m)",
+		"Cell": 2
+	},
+	"90822c1a-d4a3-4d62-8405-50b551eed87a": {
+		"Name": "Rubber wedge back (3m)",
+		"Cell": 3
+	},
+	"cdab7fc2-ebf1-4a85-aacf-6fd1c95498a9": {
+		"Name": "Rubber wedge back (4m)",
+		"Cell": 4
+	},
+	"b3d4e1ff-090d-443e-a571-d4b522eed959": {
+		"Name": "Rubber wedge front (1m)",
+		"Cell": 1
+	},
+	"59fa8786-9c0a-4ac4-a15a-a62dd267d9df": {
+		"Name": "Rubber wedge front (2m)",
+		"Cell": 2
+	},
+	"45a4bb52-ab79-4933-a342-ce5858b4d41a": {
+		"Name": "Rubber wedge front (3m)",
+		"Cell": 3
+	},
+	"337792f8-a31a-46de-a022-d9e26ff927a8": {
+		"Name": "Rubber wedge front (4m)",
+		"Cell": 4
+	},
+	"6cf8a940-889d-4caa-9ae4-53c918f4458b": {
+		"Name": "Stone 1m offset left",
+		"Cell": 2
+	},
+	"7d3650e9-342f-4008-9677-831b696f062f": {
+		"Name": "Stone 1m offset right",
+		"Cell": 2
+	},
+	"25c27094-7294-4c21-b9ca-d4f470b9f58f": {
+		"Name": "Stone 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"64596359-2a3e-484d-962c-8204beb8bbd8": {
+		"Name": "Stone 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"c7b1810e-c9ee-414e-9b41-b789c9023b93": {
+		"Name": "Stone 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"e3f40e91-96fa-43e6-84a4-8e54a35210b5": {
+		"Name": "Stone 1m to 2m slope transition (mirrored)",
+		"Cell": 2
+	},
+	"4f15965a-ff4c-4423-9d18-1056519d7f32": {
+		"Name": "Stone 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"9445a647-5034-4f32-8ae5-b156e6ee1d46": {
+		"Name": "Stone 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"c0a0c8ff-a554-4a9e-97ea-e0e1aa3cb99c": {
+		"Name": "Stone 1m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"e183a579-7839-4226-83c1-99ddeb5540cc": {
+		"Name": "Stone 1m to 3m slope transition right",
+		"Cell": 2
+	},
+	"dde01453-fb08-4818-a85e-d56cb3a3e060": {
+		"Name": "Stone 1m to 3m slope transition",
+		"Cell": 3
+	},
+	"810a82d5-0dd6-4a3e-8426-b5dc34ca27ea": {
+		"Name": "Stone 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"3e31d403-1ae3-466f-8c1f-d0a1c8e213eb": {
+		"Name": "Stone 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"969cd026-e5d6-407f-9877-70f60092b9a4": {
+		"Name": "Stone 1m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"e5fddc8d-d1e4-470e-af8e-3039d5aa1173": {
+		"Name": "Stone 1m to 4m slope transition",
+		"Cell": 4
+	},
+	"d010466a-44bc-4572-96fb-94ae72f93009": {
+		"Name": "Stone 2m offset left",
+		"Cell": 3
+	},
+	"1dfa3fef-9e64-4ee4-b6a8-e89df1bba0fa": {
+		"Name": "Stone 2m offset right",
+		"Cell": 3
+	},
+	"957eb503-8d98-456f-b6fb-876fa06ebdca": {
+		"Name": "Stone 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"2eb50cb8-4b24-4f4a-9da1-82dcf43f79b2": {
+		"Name": "Stone 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"5ebf9caa-ee7e-476d-b45d-33ca3f5ea93a": {
+		"Name": "Stone 2m to 3m slope transition (mirrored)",
+		"Cell": 3
+	},
+	"79c7b25d-b286-445f-9942-b1bcabbedc05": {
+		"Name": "Stone 2m to 3m slope transition",
+		"Cell": 3
+	},
+	"068b569a-72bb-43c5-98e9-400ba47154cf": {
+		"Name": "Stone 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"27e6ec03-6de1-4d6c-886e-1ff33403651d": {
+		"Name": "Stone 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"526f6cb0-0c6f-4de0-8e6a-c409ced014d0": {
+		"Name": "Stone 2m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"c5aaf2f4-ccf1-4c34-9ebf-a16eb5451920": {
+		"Name": "Stone 2m to 4m slope transition",
+		"Cell": 4
+	},
+	"6b0d80a1-06ea-47f6-a09f-a59084e985fb": {
+		"Name": "Stone 3m offset left",
+		"Cell": 4
+	},
+	"64b961b7-0117-4db2-8b94-2f89db082909": {
+		"Name": "Stone 3m offset right",
+		"Cell": 4
+	},
+	"b199d3d7-8c91-4b6b-aa60-d4b8da77309f": {
+		"Name": "Stone 3m square backed corner left",
+		"Cell": 3
+	},
+	"2ff15f2f-5787-4bf5-92e3-95ee5160903e": {
+		"Name": "Stone 3m square backed corner right",
+		"Cell": 3
+	},
+	"67c856b2-b954-4e1b-9402-16213636aef2": {
+		"Name": "Stone 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"1488e9ed-e89b-4902-883e-bc4a0613ed72": {
+		"Name": "Stone 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"2133124d-dc7e-436f-bca5-19f6b7c1da87": {
+		"Name": "Stone 3m to 4m slope transition (mirrored)",
+		"Cell": 4
+	},
+	"0b98aca0-1db4-4545-a43a-37fdf57a346f": {
+		"Name": "Stone 3m to 4m slope transition",
+		"Cell": 4
+	},
+	"def31246-d999-49f8-9daf-acacd802d3ec": {
+		"Name": "Stone 4m offset left",
+		"Cell": 5
+	},
+	"e640d817-209a-42af-b478-7627a06296cc": {
+		"Name": "Stone 4m offset right",
+		"Cell": 5
+	},
+	"5bef17ae-6cad-4034-b063-82e25e24566a": {
+		"Name": "Stone 4m square backed corner left",
+		"Cell": 4
+	},
+	"e0a33722-5b20-4f51-9c34-7a05fecc20ba": {
+		"Name": "Stone 4m Square backed corner left",
+		"Cell": 2
+	},
+	"fa398fc2-0458-4e18-be78-9d34ca85d62f": {
+		"Name": "Stone 4m square backed corner right",
+		"Cell": 4
+	},
+	"6cd6c6bd-da8b-483f-ace2-fa427a07d91a": {
+		"Name": "Stone beam (2m)",
+		"Cell": 2
+	},
+	"d47815a1-9052-4885-8d17-8c9cb3eab72b": {
+		"Name": "Stone beam (3m)",
+		"Cell": 3
+	},
+	"c7a19161-b361-4074-8c51-2398a0a70d1b": {
+		"Name": "Stone beam (4m)",
+		"Cell": 4
+	},
+	"f039a741-1a07-44b5-81f7-317f118dd69a": {
+		"Name": "Stone beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"5d5ee6b8-21a2-4aa0-9191-f4f4ac928f89": {
+		"Name": "Stone beam slope (2m)",
+		"Cell": 2
+	},
+	"0354e225-b1fe-4908-aeb0-0527c64dbd70": {
+		"Name": "Stone beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"08359742-315d-43c5-81be-1dc0db5d318e": {
+		"Name": "Stone beam slope (3m)",
+		"Cell": 3
+	},
+	"ca247c84-51a6-4435-a327-38afb91eb13e": {
+		"Name": "Stone beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"dec02cea-91bb-41fe-9241-8c99711ce1f1": {
+		"Name": "Stone beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"11fcac17-e3b9-47d5-aeb8-2224d86b2f1d": {
+		"Name": "Stone down slope (1m)",
+		"Cell": 1
+	},
+	"66aa8853-094a-41ef-aa96-a2d658b21305": {
+		"Name": "Stone down slope (2m)",
+		"Cell": 2
+	},
+	"9e204cce-876c-4d9d-af0e-65ec39cf1ba4": {
+		"Name": "Stone down slope (3m)",
+		"Cell": 3
+	},
+	"cf8b2e90-abe7-4a4f-9596-253364004394": {
+		"Name": "Stone down slope (4m)",
+		"Cell": 4
+	},
+	"fd702655-7c67-42e7-b2ff-c53d134c3b3f": {
+		"Name": "Stone inverted corner (right) (1m)",
+		"Cell": 1
+	},
+	"c4c6b83c-f147-46a9-9a20-d3273c5890cd": {
+		"Name": "Stone inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"3d2afcd1-3c4f-43a2-a23f-ec76fb00b2d7": {
+		"Name": "Stone inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"fa0e8280-a5f8-45ea-b861-a14cdd3a9151": {
+		"Name": "Stone inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"5227e81c-c16e-474a-9d9f-2311b88b84e2": {
+		"Name": "Stone inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"95b6ce46-fb5b-46b0-b270-3894a6dd22e4": {
+		"Name": "Stone inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"a60e954e-6b51-4a57-9d1f-f9dcdf31ab4c": {
+		"Name": "Stone inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"aae589dd-4a56-4749-887b-dd4e3f7144e7": {
+		"Name": "Stone inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"e62d5f04-5c7a-4524-b97d-d60504babb2f": {
+		"Name": "Stone pole (1m)",
+		"Cell": 1
+	},
+	"a1ec94dd-9495-467a-8f4f-d173ab20ae00": {
+		"Name": "Stone pole (2m)",
+		"Cell": 2
+	},
+	"1403e1cd-1b91-4ccb-bb57-eebf1b1e0b16": {
+		"Name": "Stone pole (3m)",
+		"Cell": 3
+	},
+	"305982c6-9839-419f-954d-1c84740dbf05": {
+		"Name": "Stone pole (4m)",
+		"Cell": 4
+	},
+	"d6b09745-b47f-460b-ad9b-5aaec46b3871": {
+		"Name": "Stone square corner (left) (1m)",
+		"Cell": 1
+	},
+	"a90d3d6b-9daf-41d8-8b67-9356a95f02bd": {
+		"Name": "Stone square corner (left) (2m)",
+		"Cell": 2
+	},
+	"8ee6e0a8-3ac9-4020-adc8-2b7edd4bd38d": {
+		"Name": "Stone square corner (left) (3m)",
+		"Cell": 3
+	},
+	"2a0ce564-9c8e-4784-8d35-9b9e36b30c02": {
+		"Name": "Stone square corner (left) (4m)",
+		"Cell": 4
+	},
+	"851e472d-1e20-4fc9-a3b3-eb9ccd12d15f": {
+		"Name": "Stone square corner (right) (1m)",
+		"Cell": 1
+	},
+	"fe8eabc0-0813-42f1-a816-442b0c45b9c8": {
+		"Name": "Stone square corner (right) (2m)",
+		"Cell": 2
+	},
+	"4b3b94cd-eb73-4d94-a226-a1b7a927261d": {
+		"Name": "Stone square corner (right) (3m)",
+		"Cell": 3
+	},
+	"21be97ec-39e7-4ad3-9644-3a7a6cf396ad": {
+		"Name": "Stone square corner (right) (4m)",
+		"Cell": 4
+	},
+	"386512bc-237b-4faa-a989-323c270dec4c": {
+		"Name": "Stone triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"f64a64e3-7668-4610-b065-96fea40d221b": {
+		"Name": "Stone triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"985cbecd-1778-4296-a640-1b58c7958452": {
+		"Name": "Stone triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"9aa01c12-8093-436c-a947-1a48297cf60f": {
+		"Name": "Stone triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"7d1cb6b4-963e-4bd8-b069-3c08e6a4aeac": {
+		"Name": "Stone triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"26b8ee96-5312-478f-840e-850961ee25b2": {
+		"Name": "Stone triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"1fc65b9c-7097-4186-be59-ecf1581c10cf": {
+		"Name": "Stone triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"85f92acd-49e2-42b7-aa9a-fb1059976163": {
+		"Name": "Stone triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"0630b5e3-d51b-4441-8533-c054e018ee64": {
+		"Name": "Stone wedge (1m)",
+		"Cell": 1
+	},
+	"79bd4565-912e-478e-95e8-2c8305c13d5e": {
+		"Name": "Stone wedge (2m)",
+		"Cell": 2
+	},
+	"4dd25db2-deca-4751-8c22-c5163b231a3e": {
+		"Name": "Stone wedge (3m)",
+		"Cell": 3
+	},
+	"97b930b4-913f-41b9-bc28-a7713c68410b": {
+		"Name": "Stone wedge (4m)",
+		"Cell": 4
+	},
+	"2456a5f2-7ee9-469e-924f-eb45db0f6850": {
+		"Name": "Stone wedge back (1m)",
+		"Cell": 1
+	},
+	"8dac1274-e61e-4db1-ab93-38acfa5747f9": {
+		"Name": "Stone wedge back (2m)",
+		"Cell": 2
+	},
+	"3bcf1786-92ae-4fea-b8d4-aec131d0c342": {
+		"Name": "Stone wedge back (3m)",
+		"Cell": 3
+	},
+	"cfc729fc-8799-4b3c-a590-e3fd0d0ef79f": {
+		"Name": "Stone wedge back (4m)",
+		"Cell": 4
+	},
+	"f17b9bf1-9ab9-45b4-8efb-8a847770bd1b": {
+		"Name": "Stone wedge front (1m)",
+		"Cell": 1
+	},
+	"411cca8d-244b-446b-86e9-2bf219d557e8": {
+		"Name": "Stone wedge front (2m)",
+		"Cell": 2
+	},
+	"08a5210f-5710-4552-a8a4-d7894fded8d4": {
+		"Name": "Stone wedge front (3m)",
+		"Cell": 3
+	},
+	"ed94d7a4-c054-42aa-97b0-c946519fc313": {
+		"Name": "Stone wedge front (4m)",
+		"Cell": 4
+	},
+	"a6ad7eaa-e826-42d5-b4f5-7358a842623f": {
+		"Name": "Wedge Alloy Back 1m",
+		"Cell": 1
+	},
+	"f5e7ac10-3c0c-4999-8287-07245ee81062": {
+		"Name": "Wedge Alloy Back 2m",
+		"Cell": 2
+	},
+	"c855c2f8-716b-44ba-901f-2dbfb4bf1612": {
+		"Name": "Wedge Alloy Back 3m",
+		"Cell": 3
+	},
+	"bdf96eb8-6d43-4b2e-8610-68952484ca04": {
+		"Name": "Wedge Alloy Back 4m",
+		"Cell": 4
+	},
+	"020fae5d-c759-4456-87e6-7e423752a427": {
+		"Name": "Wedge Alloy Front 1m",
+		"Cell": 1
+	},
+	"80a0edf3-97c0-4bf6-bfc3-80dc68525080": {
+		"Name": "Wedge Alloy Front 2m",
+		"Cell": 2
+	},
+	"47f51fca-7668-45b9-8201-51541110833e": {
+		"Name": "Wedge Alloy Front 3m",
+		"Cell": 3
+	},
+	"91f61454-6e53-4df0-9ced-e4d86a98ab88": {
+		"Name": "Wedge Alloy Front 4m",
+		"Cell": 4
+	},
+	"58a13b46-73a4-45f8-8bc0-0cc250ffd813": {
+		"Name": "Wedge Metal Back 1m",
+		"Cell": 1
+	},
+	"1b599425-cbc5-4313-8b1a-9485e01fb4c8": {
+		"Name": "Wedge Metal Back 2m",
+		"Cell": 2
+	},
+	"9e02bc1c-fddd-47b8-9cd8-3b6dc335e409": {
+		"Name": "Wedge Metal Back 3m",
+		"Cell": 3
+	},
+	"55a250be-b928-46cf-8349-5d60a42eb721": {
+		"Name": "Wedge Metal Back 4m",
+		"Cell": 4
+	},
+	"1515cb7e-56cf-4802-a33e-7c984d6cd93c": {
+		"Name": "Wedge Metal Front 1m",
+		"Cell": 1
+	},
+	"61c573f4-b67e-4159-9aec-22bddf355770": {
+		"Name": "Wedge Metal Front 2m",
+		"Cell": 2
+	},
+	"713802e0-da59-4df3-97ce-ae733a1156da": {
+		"Name": "Wedge Metal Front 3m",
+		"Cell": 3
+	},
+	"26bfbbd1-4c8d-4b46-9732-ebd05eea321b": {
+		"Name": "Wedge Metal Front 4m",
+		"Cell": 4
+	},
+	"5b009725-d904-4884-a498-d29958102b87": {
+		"Name": "Wood 1m offset left",
+		"Cell": 2
+	},
+	"09963c07-3c9e-4021-9bc1-cb6d2ac880e1": {
+		"Name": "Wood 1m offset right",
+		"Cell": 2
+	},
+	"c554e07a-f19f-4851-854e-d54ebda258ba": {
+		"Name": "Wood 1m to 2m inverse transition left",
+		"Cell": 2
+	},
+	"f321f5bf-6dfd-4ce9-ae9f-6528183db4b1": {
+		"Name": "Wood 1m to 2m inverse transition right",
+		"Cell": 2
+	},
+	"e44c6776-5dac-42a7-b192-8ede0c18203a": {
+		"Name": "Wood 1m to 2m slope transition left",
+		"Cell": 2
+	},
+	"7a6b25ce-12f3-4d67-83b9-bc4cc7802e4d": {
+		"Name": "Wood 1m to 2m slope transition right",
+		"Cell": 2
+	},
+	"ad7546ec-70d2-485d-ba99-44dc2a8dda70": {
+		"Name": "Wood 1m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"95b25087-ace8-426a-95ad-74023d67e620": {
+		"Name": "Wood 1m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"e7ff5851-85c1-4707-9902-2051ae5b2975": {
+		"Name": "Wood 1m to 3m slope transition left",
+		"Cell": 3
+	},
+	"9ebf197b-4961-45e0-b7b4-cfe93e7e8367": {
+		"Name": "Wood 1m to 3m slope transition right",
+		"Cell": 3
+	},
+	"911a5fe1-bdb9-4024-90be-996c767e6cf2": {
+		"Name": "Wood 1m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"3af03457-30c9-4205-9288-fad75d44cbc1": {
+		"Name": "Wood 1m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"d219c03f-fa74-4a9b-b582-2625462a16ba": {
+		"Name": "Wood 1m to 4m slope transition left",
+		"Cell": 4
+	},
+	"d06af565-8e3c-43ce-8449-b2d07167bbec": {
+		"Name": "Wood 1m to 4m slope transition right",
+		"Cell": 4
+	},
+	"c9d0d3dc-9715-4629-abde-7f178d52f2fd": {
+		"Name": "Wood 2m offset left",
+		"Cell": 3
+	},
+	"ab84a940-f992-4172-a4d1-07a9ae7e4a51": {
+		"Name": "Wood 2m offset right",
+		"Cell": 3
+	},
+	"4a16b283-3d3d-46c9-aa27-9abd45a2f241": {
+		"Name": "Wood 2m square backed corner left",
+		"Cell": 2
+	},
+	"c79bc8fe-67fd-40d3-ae0a-28230b53d755": {
+		"Name": "Wood 2m square backed corner right",
+		"Cell": 2
+	},
+	"ec4da327-efca-4d84-9ca3-431d75acbe20": {
+		"Name": "Wood 2m to 3m inverse transition left",
+		"Cell": 3
+	},
+	"93f3443b-4c84-4f00-bf69-478d553a2d9b": {
+		"Name": "Wood 2m to 3m inverse transition right",
+		"Cell": 3
+	},
+	"23450f77-e811-4113-9b9a-337b625fc1ac": {
+		"Name": "Wood 2m to 3m slope transition left",
+		"Cell": 3
+	},
+	"9d534595-f905-463b-b75d-04fc0769ae8e": {
+		"Name": "Wood 2m to 3m slope transition right",
+		"Cell": 3
+	},
+	"a00c6e9e-6896-4615-bd03-97501c2a1523": {
+		"Name": "Wood 2m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"6e52d1ad-5e6e-4a7d-ab6e-63bac98c8e6b": {
+		"Name": "Wood 2m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"2540cbec-8907-4c29-9309-c17707dae5bd": {
+		"Name": "Wood 2m to 4m slope transition left",
+		"Cell": 4
+	},
+	"8c6a2f06-9091-42c1-badb-2935e75460a1": {
+		"Name": "Wood 2m to 4m slope transition right",
+		"Cell": 4
+	},
+	"3d15d678-7c66-4bbe-bd1b-d37b7f4904c5": {
+		"Name": "Wood 3m offset left",
+		"Cell": 4
+	},
+	"37dc0159-c896-49cd-a018-e0ffc12999dc": {
+		"Name": "Wood 3m offset right",
+		"Cell": 4
+	},
+	"69cbf471-a495-4fe4-ae04-bb1bfb1941cc": {
+		"Name": "Wood 3m square backed corner left",
+		"Cell": 3
+	},
+	"0a76f885-5285-43d3-b057-74eab5f32ee8": {
+		"Name": "Wood 3m square backed corner right",
+		"Cell": 3
+	},
+	"052d7b61-62db-425c-98c1-5b5b84896586": {
+		"Name": "Wood 3m to 4m inverse transition left",
+		"Cell": 4
+	},
+	"fa0b636f-6b44-48a5-8422-ee6343a34e39": {
+		"Name": "Wood 3m to 4m inverse transition right",
+		"Cell": 4
+	},
+	"6c22d927-8d6c-40ba-b2a7-f42d3d21a793": {
+		"Name": "Wood 3m to 4m slope transition left",
+		"Cell": 4
+	},
+	"976fee7f-6dcf-4620-86f0-e103f3b847fb": {
+		"Name": "Wood 3m to 4m slope transition right",
+		"Cell": 4
+	},
+	"9100db0a-b961-4ec7-9cb9-b171c3436ec0": {
+		"Name": "Wood 4m offset left",
+		"Cell": 5
+	},
+	"5712f568-385b-4d8c-bf66-4f55b7d2099f": {
+		"Name": "Wood 4m offset right",
+		"Cell": 5
+	},
+	"5339bbf3-6949-4789-ad65-b1c23becdde1": {
+		"Name": "Wood 4m square backed corner left",
+		"Cell": 4
+	},
+	"bf24bb86-7706-4089-a389-39f5a86f13f8": {
+		"Name": "Wood 4m square backed corner right",
+		"Cell": 4
+	},
+	"de36c624-8c78-4b52-8d86-431cec16a306": {
+		"Name": "Wood beam (2m)",
+		"Cell": 2
+	},
+	"39553630-8281-40e4-96fb-b01c1f3537e6": {
+		"Name": "Wood beam (3m)",
+		"Cell": 3
+	},
+	"05475442-0e52-4e0b-9fbb-2715f0e54f97": {
+		"Name": "Wood beam (4m)",
+		"Cell": 4
+	},
+	"b50c4dca-2cfd-4d3e-9c20-469c1fcfd4c0": {
+		"Name": "Wood beam slope (2m mirrored)",
+		"Cell": 2
+	},
+	"69361de6-a876-4033-953b-5effd0399c2e": {
+		"Name": "Wood beam slope (2m)",
+		"Cell": 2
+	},
+	"bd735d1f-ed33-4da1-9769-9922b94ed68f": {
+		"Name": "Wood beam slope (3m mirrored)",
+		"Cell": 3
+	},
+	"d387f62e-d820-4068-9326-37348bc8be4c": {
+		"Name": "Wood beam slope (3m)",
+		"Cell": 3
+	},
+	"d077c2a4-4578-4965-9318-c14bb7ac1bd6": {
+		"Name": "Wood beam slope diagonal cut (4m) mirrored",
+		"Cell": 4
+	},
+	"2ee817c1-f2a3-407a-847d-b97ffb844e45": {
+		"Name": "Wood beam slope diagonal cut (4m)",
+		"Cell": 4
+	},
+	"5631c137-ebe8-463b-880b-f7a6992d84d9": {
+		"Name": "Wood Block Variant 10",
+		"Cell": 1
+	},
+	"e4786dcc-b1d5-4380-a0b9-c55d32ae6d82": {
+		"Name": "Wood Block Variant 11",
+		"Cell": 1
+	},
+	"7854121c-adb3-4615-9646-25ed8bd13b53": {
+		"Name": "Wood Block Variant 12",
+		"Cell": 1
+	},
+	"26d9ad5a-baf7-473d-a43a-dcc6e6d7ebf6": {
+		"Name": "Wood Block Variant 13",
+		"Cell": 1
+	},
+	"26e35912-060b-4a13-a299-a2b0019ab6bc": {
+		"Name": "Wood Block Variant 2",
+		"Cell": 1
+	},
+	"e5d3c632-b2dc-4be7-a5bc-623415f76d28": {
+		"Name": "Wood Block Variant 3",
+		"Cell": 1
+	},
+	"4927aa86-8882-4b04-8ca7-44052bd00aa9": {
+		"Name": "Wood Block Variant 4",
+		"Cell": 1
+	},
+	"ee5463c9-b9f8-4438-bb79-7f2364f69b61": {
+		"Name": "Wood Block Variant 5",
+		"Cell": 1
+	},
+	"2db5d925-700e-4375-abcd-f79bb17a1855": {
+		"Name": "Wood Block Variant 6",
+		"Cell": 1
+	},
+	"5a2c1219-d4e6-4bf4-a67d-c2b6478dc1e0": {
+		"Name": "Wood Block Variant 7",
+		"Cell": 1
+	},
+	"b335e984-7bc1-4bb7-a3a6-44139d991f63": {
+		"Name": "Wood Block Variant 8",
+		"Cell": 1
+	},
+	"1e311aa8-7a58-4ed9-a62e-bf236cf32982": {
+		"Name": "Wood Block Variant 9",
+		"Cell": 1
+	},
+	"bdafa446-f615-49cb-94f3-d7652dde6cec": {
+		"Name": "Wood down slope (1m)",
+		"Cell": 1
+	},
+	"b88679fb-0325-4c85-942f-ad9c6ed6545b": {
+		"Name": "Wood down slope (2m)",
+		"Cell": 2
+	},
+	"caec26b3-847c-4876-80e1-e6206003ecb5": {
+		"Name": "Wood down slope (3m)",
+		"Cell": 3
+	},
+	"3296c67d-6ace-44dd-8e86-335b9a90ad80": {
+		"Name": "Wood down slope (4m)",
+		"Cell": 4
+	},
+	"c545a97c-6ac6-4181-a704-28031244aeb1": {
+		"Name": "Wood inverted corner (right) (1m)",
+		"Cell": 1
+	},
+	"739ca00f-846e-4521-8923-327dcd800454": {
+		"Name": "Wood Inverted (R 3m)",
+		"Cell": 3
+	},
+	"17575457-18fa-43e0-a8cb-1331efc1c77e": {
+		"Name": "Wood inverted triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"90ca403c-ddb5-4a55-ac6f-2ca2c970d6ad": {
+		"Name": "Wood inverted triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"cefc210e-a06a-4e34-ace5-d24e5a525592": {
+		"Name": "Wood inverted triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"ba05b02a-f2b2-4c5e-ba73-00a519535763": {
+		"Name": "Wood inverted triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"6cc4ec54-404c-4989-9f85-9b59824faf96": {
+		"Name": "Wood inverted triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"6c6cbf7a-6133-425b-8b29-41471889a67e": {
+		"Name": "Wood inverted triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"fe628646-64da-462c-ac5c-1d4f976a129a": {
+		"Name": "Wood inverted triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"0de95539-4751-4355-88bd-156f17b5f64a": {
+		"Name": "Wood pole (1m)",
+		"Cell": 1
+	},
+	"155d151c-860c-4523-97b4-18a31c7579f1": {
+		"Name": "Wood pole (2m)",
+		"Cell": 2
+	},
+	"57af2af7-29ce-4c97-b107-b59edffb6ce5": {
+		"Name": "Wood pole (3m)",
+		"Cell": 3
+	},
+	"40509baf-e982-4a03-81dc-994b67ed0919": {
+		"Name": "Wood pole (4m)",
+		"Cell": 4
+	},
+	"9c0d97cf-0c99-4565-a931-b1c5bdf8fc1b": {
+		"Name": "Wood square corner (left) (1m)",
+		"Cell": 1
+	},
+	"c7b07df3-6afe-4616-9dd4-64f7687e98e9": {
+		"Name": "Wood square corner (left) (2m)",
+		"Cell": 2
+	},
+	"63fd0968-5f9e-4afd-bde5-0a7f36645ce5": {
+		"Name": "Wood square corner (left) (3m)",
+		"Cell": 3
+	},
+	"27e60f25-016f-49ca-a7f2-8b1e194f1d78": {
+		"Name": "Wood square corner (left) (4m)",
+		"Cell": 4
+	},
+	"f878fa09-cb47-4e1c-8f1e-df2544a6882a": {
+		"Name": "Wood square corner (right) (1m)",
+		"Cell": 1
+	},
+	"12bfb5a0-772e-4d14-bb1a-00077211f70b": {
+		"Name": "Wood square corner (right) (2m)",
+		"Cell": 2
+	},
+	"d61cc329-1652-4b93-9756-ac4380e5bd04": {
+		"Name": "Wood square corner (right) (3m)",
+		"Cell": 3
+	},
+	"7d55bbc8-8692-40ee-944b-6b172680075a": {
+		"Name": "Wood square corner (right) (4m)",
+		"Cell": 4
+	},
+	"1ae7e9fe-c0c4-4bb4-a0d6-28e21789a66c": {
+		"Name": "Wood triangle corner (left) (1m)",
+		"Cell": 1
+	},
+	"dee106ea-3e91-4b03-92ef-33038c5681a0": {
+		"Name": "Wood triangle corner (left) (2m)",
+		"Cell": 2
+	},
+	"93cbaa78-9185-424f-814b-b568c3358316": {
+		"Name": "Wood triangle corner (left) (3m)",
+		"Cell": 3
+	},
+	"ae98ddb2-901d-402b-8ab0-149b778acdb8": {
+		"Name": "Wood triangle corner (left) (4m)",
+		"Cell": 4
+	},
+	"6448ddc8-a3df-465f-b819-52f1cf347983": {
+		"Name": "Wood triangle corner (right) (1m)",
+		"Cell": 1
+	},
+	"92159a6b-a1b6-4f8b-9c08-503f2cbbd572": {
+		"Name": "Wood triangle corner (right) (2m)",
+		"Cell": 2
+	},
+	"1e8bb65d-51b6-42bb-813c-1fba696454e8": {
+		"Name": "Wood triangle corner (right) (3m)",
+		"Cell": 3
+	},
+	"e2ea58d4-ee32-432b-8086-29bf5675e5f7": {
+		"Name": "Wood triangle corner (right) (4m) mirrored",
+		"Cell": 4
+	},
+	"0b73f42f-ff32-4654-8857-aa13413bff33": {
+		"Name": "Wood wedge (1m)",
+		"Cell": 1
+	},
+	"0cc588ec-037a-4eb1-b498-9f49a0669a36": {
+		"Name": "Wood wedge (2m)",
+		"Cell": 2
+	},
+	"c82449ab-668c-4720-a641-381877751984": {
+		"Name": "Wood wedge (3m)",
+		"Cell": 3
+	},
+	"2daf5d7e-b7bc-4017-bc0d-6fe32a676fa0": {
+		"Name": "Wood wedge (4m)",
+		"Cell": 4
+	},
+	"f97c324f-e10c-43e6-91a3-5480500ff374": {
+		"Name": "Wood wedge back (1m)",
+		"Cell": 1
+	},
+	"e1a58b43-e0e0-4be9-8359-f54d5d15d1fa": {
+		"Name": "Wood wedge back (2m)",
+		"Cell": 2
+	},
+	"dc01bf01-a961-48a4-9534-59dfa050538d": {
+		"Name": "Wood wedge back (3m)",
+		"Cell": 3
+	},
+	"1fdae3d6-8960-4083-b122-44b110eea762": {
+		"Name": "Wood wedge back (4m)",
+		"Cell": 4
+	},
+	"df546ee5-c317-4b04-8ea4-63f59f16bfd1": {
+		"Name": "Wood wedge front (1m)",
+		"Cell": 1
+	},
+	"f1902ab2-589a-47a9-99e0-dbba65d82a6b": {
+		"Name": "Wood wedge front (2m)",
+		"Cell": 2
+	},
+	"51474420-0731-4753-9693-3825fa906f4d": {
+		"Name": "Wood wedge front (3m)",
+		"Cell": 3
+	},
+	"804b465e-e137-48f7-b1ca-6452034ce285": {
+		"Name": "Wood wedge front (4m)",
+		"Cell": 4
+	},
+	"371b89fc-4c2d-416a-a187-62adb945fbb1": {
+		"Name": "Rudder 2m mirror",
+		"Cell": 2
+	},
+	"61dd5eba-a1fb-4daf-8253-fdca7d8da311": {
+		"Name": "Rudder 2m",
+		"Cell": 2
+	},
+	"4725a5bd-9dd7-4f64-9dc7-54274c324196": {
+		"Name": "Rudder 3m mirror",
+		"Cell": 3
+	},
+	"aa083ca5-dcc7-41c4-8261-bf191bc19fa5": {
+		"Name": "Rudder 3m",
+		"Cell": 3
+	},
+	"732dc5e4-aee5-4f1a-92b0-09739fbf143c": {
+		"Name": "Rudder 4m mirror",
+		"Cell": 4
+	},
+	"cd70b835-0f39-4f01-a43c-34960a2087b8": {
+		"Name": "Rudder 4m",
+		"Cell": 4
+	},
+	"d26bbf10-c112-4702-b163-69ddfc9a2991": {
+		"Name": "Rudder Attachment Mirror",
+		"Cell": 2
+	},
+	"2d43288e-d05d-4ae8-8929-85ca0bb2d27d": {
+		"Name": "Rudder Attachment",
+		"Cell": 2
+	},
+	"f53b4e8e-501c-42c2-8e4e-e5d27122af93": {
+		"Name": "Rudder curve large huge mirror",
+		"Cell": 2
+	},
+	"1b59381d-d699-4ead-884f-1e069364bf9b": {
+		"Name": "Rudder Curve Large Huge",
+		"Cell": 2
+	},
+	"3c81571e-6d1f-4ca4-b231-52a2ed0c5684": {
+		"Name": "Rudder curve large mirror",
+		"Cell": 1
+	},
+	"f0f5a34b-930e-4bcc-91b5-51f42bc1f5c2": {
+		"Name": "Rudder curve large small mirror",
+		"Cell": 1
+	},
+	"c947b280-da3e-473d-9727-8294bc7d0821": {
+		"Name": "Rudder Curve Large Small",
+		"Cell": 1
+	},
+	"b11cc1e0-cef9-42fc-8101-7faedd5cfc63": {
+		"Name": "Rudder Curve Large",
+		"Cell": 1
+	},
+	"f739e5ff-6301-48d6-a0e9-ea4109da30a2": {
+		"Name": "Rudder curve small mirror",
+		"Cell": 1
+	},
+	"2ca22754-0636-407b-a101-eb58c78814e3": {
+		"Name": "Rudder Curve Small",
+		"Cell": 1
+	},
+	"bbfe300d-4d55-4cbd-8c99-ee0140db99d4": {
+		"Name": "Rudder Pivot 2m mirror",
+		"Cell": 2
+	},
+	"77c7e5ce-2ff2-4f81-ba44-2968781c18c7": {
+		"Name": "Rudder Pivot 2m",
+		"Cell": 2
+	},
+	"14562dcc-7d5a-49d5-9a06-e788ceec5f0c": {
+		"Name": "Rudder Pivot 3m mirror",
+		"Cell": 3
+	},
+	"aabe0adb-fe09-4255-972e-b876cce1b77d": {
+		"Name": "Rudder Pivot 3m",
+		"Cell": 3
+	},
+	"24acd11b-5c30-4f8b-a585-270bf54de6ba": {
+		"Name": "Rudder Pivot 4m mirror",
+		"Cell": 4
+	},
+	"d352e0e8-942e-4982-b2b9-46c17e9821f8": {
+		"Name": "Rudder Pivot 4m",
+		"Cell": 4
+	},
+	"9be257da-2e20-4e40-affe-106c04946f73": {
+		"Name": "Rudder Pivot Shaft 2m mirror",
+		"Cell": 2
+	},
+	"cd7c7590-a55f-4b86-af40-6159998a60fc": {
+		"Name": "Rudder Pivot Shaft 2m",
+		"Cell": 2
+	},
+	"4915ebc6-0d3b-4f96-9ba4-765df44f56f1": {
+		"Name": "Rudder square small mirror",
+		"Cell": 1
+	},
+	"242be860-8b25-4bdc-91fd-c1fecba9a7f1": {
+		"Name": "Rudder Square Small",
+		"Cell": 1
+	},
+	"55199069-844a-4cd1-8520-be64c2346fbd": {
+		"Name": "Rudder trap large huge mirror",
+		"Cell": 2
+	},
+	"97c962ec-6ae2-4d92-92a4-7b305df835a4": {
+		"Name": "Rudder Trap Large Huge",
+		"Cell": 2
+	},
+	"9794d4c6-f8c8-4f29-b566-6d25a7043fd9": {
+		"Name": "Rudder trap large small mirror",
+		"Cell": 1
+	},
+	"cac80cc3-1d8e-4c2e-b904-09ba3374f940": {
+		"Name": "Rudder Trap Large Small",
+		"Cell": 1
+	},
+	"5347cc62-5908-418b-9cb5-b8a8b133fa55": {
+		"Name": "Rudder triangle large mirror",
+		"Cell": 1
+	},
+	"58588440-9f43-4768-ba9c-92e5758af83c": {
+		"Name": "Rudder triangle large small mirror",
+		"Cell": 1
+	},
+	"02008b7b-1f99-4333-88f8-bb07a0e7e857": {
+		"Name": "Rudder Triangle Large Small",
+		"Cell": 1
+	},
+	"e63736e0-d496-4b0c-a36a-00dba970b829": {
+		"Name": "Rudder Triangle Large",
+		"Cell": 1
+	},
+	"db5aa1bc-e064-41bb-bab8-d4f060e97236": {
+		"Name": "Rudder triangle small huge mirror",
+		"Cell": 2
+	},
+	"2b58c066-e38e-4a21-af64-17b2bb5bed0d": {
+		"Name": "Rudder Triangle Small Huge",
+		"Cell": 2
+	},
+	"6a267f45-e30a-4067-b640-851019f124d7": {
+		"Name": "Rudder triangle small mirror",
+		"Cell": 1
+	},
+	"1dc0c474-f547-4570-85ed-6dc2f7ab33dd": {
+		"Name": "Rudder Triangle Small",
+		"Cell": 1
+	}
+}
