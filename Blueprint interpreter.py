@@ -24,16 +24,16 @@ def on_rm_error(func, path, exc_info):
     os.unlink(path)
 
 
-paths_list = [["Blueprint interpreter/cogs", "cogs"], ["Blueprint interpreter/data", "data"]]  # [옮길 파일 위치, 옮겨질 위치]
+paths_list = [["Blueprint-Inspector/cogs", "cogs"], ["Blueprint-Inspector/data", "data"]]  # [옮길 파일 위치, 옮겨질 위치]
 
 
 @client.command()
 async def restart(ctx):
     try:
         await ctx.respond('봇이 재시작됩니다.')
-        if os.path.exists("here-is-your-name"):
-            shutil.rmtree("here-is-your-name", onerror=on_rm_error)
-        os.system("git clone https://github.com/cart324/here-is-your-name")
+        if os.path.exists("Blueprint-Inspector"):
+            shutil.rmtree("Blueprint-Inspector", onerror=on_rm_error)
+        os.system("git clone https://github.com/cart324/Blueprint-Inspector")
         for paths in paths_list:
             for (path, dirs, files) in os.walk(paths[0]):
                 for file_name in files:
