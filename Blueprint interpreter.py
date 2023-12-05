@@ -6,6 +6,7 @@ import sys
 import shutil
 import stat
 import traceback
+import time
 
 client = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 
@@ -31,6 +32,8 @@ paths_list = [["Blueprint-Inspector/cogs", "cogs"], ["Blueprint-Inspector/data",
 async def restart(ctx):
     try:
         await ctx.send('봇이 재시작됩니다.')
+        now = str(time.strftime('%Y.%m.%d %H:%M:%S - '))
+        print(now + "Received restart command, user = " + ctx.author.name)
         if os.path.exists("Blueprint-Inspector"):
             shutil.rmtree("Blueprint-Inspector", onerror=on_rm_error)
         os.system("git clone https://github.com/cart324/Blueprint-Inspector")
