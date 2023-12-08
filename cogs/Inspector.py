@@ -295,7 +295,7 @@ class Inspection(commands.Cog):
         {"Title": "Biggest Drone's Cells",
          "Pass_key": "Cell_pass",
          "Count_key": "Max_cell",
-         "Text": "Cells (There is an error)"}
+         "Text": "Cells"}
     ]
 
     @commands.command(name="check")
