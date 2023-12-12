@@ -139,9 +139,6 @@ class Inspection(commands.Cog):
                     drone_ordnance_count = drone_ordnance_count + count_list[0]  # 하위 무장 점수 합산
                     cell_count = cell_count + count_list[1]  # 하위 셀 수 합산
 
-                drone_ordnance_count = drone_ordnance_count + counting_ordnance(i["BlockIds"], item_dict)  # 메인 무장 점수 세기
-                cell_count = cell_count + counting_cells(i["BlockIds"], item_dict)  # 메인 셀 수 세기
-
                 if max_drone_ordnance < drone_ordnance_count:  # 가장 높은 무장 점수일 경우 기록
                     max_drone_ordnance = drone_ordnance_count
 
@@ -295,7 +292,7 @@ class Inspection(commands.Cog):
         {"Title": "Biggest Drone's Cells",
          "Pass_key": "Cell_pass",
          "Count_key": "Max_cell",
-         "Text": "Cells"}
+         "Text": "Cells (There is an error)"}
     ]
 
     @commands.command(name="check")
@@ -421,5 +418,5 @@ class Inspection(commands.Cog):
             await cart.send("```사용자 = " + ctx.author.name + add + "\n" + str(error_log) + "```")
 
 
-async def setup(client):
-    await client.add_cog(Inspection(client))
+def setup(client):
+    client.add_cog(Inspection(client))
