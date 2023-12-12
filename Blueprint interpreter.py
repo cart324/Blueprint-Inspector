@@ -13,11 +13,7 @@ client = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 with open('token.txt', 'r') as f:
     token = f.read()
 
-
-async def main():
-    async with client:
-        await client.load_extension("cogs.Inspector")
-        await client.start(token)
+client.load_extension("cogs.Inspector")
 
 
 def on_rm_error(func, path, exc_info):
@@ -50,4 +46,4 @@ async def restart(ctx):
         cart = client.get_user(344384179552780289)
         await cart.send("```" + "\n" "사용자 = " + ctx.author.name + "\n" + str(error_log) + "```")
 
-asyncio.run(main())
+client.run(token)
