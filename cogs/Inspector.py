@@ -139,6 +139,9 @@ class Inspection(commands.Cog):
                     drone_ordnance_count = drone_ordnance_count + count_list[0]  # 하위 무장 점수 합산
                     cell_count = cell_count + count_list[1]  # 하위 셀 수 합산
 
+                    drone_ordnance_count = drone_ordnance_count + counting_ordnance(i["BlockIds"], item_dict)  # 메인 무장 점수 세기
+                    cell_count = cell_count + counting_cells(i["BlockIds"], item_dict)  # 메인 셀 수 세기
+
                 if max_drone_ordnance < drone_ordnance_count:  # 가장 높은 무장 점수일 경우 기록
                     max_drone_ordnance = drone_ordnance_count
 
@@ -292,7 +295,7 @@ class Inspection(commands.Cog):
         {"Title": "Biggest Drone's Cells",
          "Pass_key": "Cell_pass",
          "Count_key": "Max_cell",
-         "Text": "Cells (There is an error)"}
+         "Text": "Cells"}
     ]
 
     @commands.command(name="check")
@@ -313,16 +316,28 @@ class Inspection(commands.Cog):
                         crafts.append(self.check(file, classification, sponsor))  # 파일 검수
 
                     else:
-                        ext_error = True
-                        embed = discord.Embed(
-                            title="ERROR",
-                            description="OOPS, I can't find a classification for this.\nPlease check the file name.",
-                            color=0xeb4258
-                        )
-                        embed.set_author(name=ctx.author.name, icon_url=author_avatar)
-                        embed.set_thumbnail(url=author_avatar)
-                        embed.set_footer(text="Bug report : cart324")
-                        await ctx.send(embed=embed)
+                        class_pass = False
+                        valid_class_list = ["CVN", "CV", "CVL", "FSL", "CVA", "CG", "LHD", "DD", "FF", "FS"]
+                        file = await file.read()
+                        file = file.decode("UTF-8")
+                        file = json.loads(file)
+                        for temp_class in valid_class_list:
+                            temp_craft = self.check(file, temp_class, sponsor)  # 파일 검수
+                            if is_passed(temp_craft["Pass"]):
+                                temp_craft["Class"] = temp_class
+                                crafts.append(temp_craft)
+                                class_pass = True
+
+                        if class_pass is False:
+                            embed = discord.Embed(
+                                title="ERROR",
+                                description="OOPS, I can't find a classification for this.\nPlease check the file name.",
+                                color=0xeb4258
+                            )
+                            embed.set_author(name=ctx.author.name, icon_url=author_avatar)
+                            embed.set_thumbnail(url=author_avatar)
+                            embed.set_footer(text="Bug report : cart324")
+                            await ctx.send(embed=embed)
 
                 else:
                     ext_error = True
@@ -368,6 +383,9 @@ class Inspection(commands.Cog):
                         embed.add_field(name="Ship Firepower with Drone", value=str(craft["Firepower"]), inline=False)
                     else:   # 서브 컨스트럭트 포함 파이어파워
                         embed.add_field(name="Ship Firepower", value=str(craft["Firepower"]), inline=False)
+
+                    if craft.get("Class") is not None:
+                        embed.add_field(name="guessed classification", value=craft["Class"], inline=False)
 
                     if craft["Is_cv"] is False:  # 일반 함선일 경우 리스트 변경
                         texts = [self.texts[0]]
