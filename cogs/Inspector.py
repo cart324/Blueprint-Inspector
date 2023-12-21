@@ -317,7 +317,11 @@ class Inspection(commands.Cog):
 
                     else:
                         class_pass = False
-                        valid_class_list = ["CVN", "CV", "CVL", "FSL", "CVA", "CG", "LHD", "DD", "FF", "FS"]
+                        valid_class_list = ["CVN", "CV", "CVL", "DD", "FF", "FS", "CG", "FSL"]
+                        if sponsor == "solarya":
+                            valid_class_list.append("CVA")
+                        elif sponsor == "veridian":
+                            valid_class_list.append("LHD")
                         file = await file.read()
                         file = file.decode("UTF-8")
                         file = json.loads(file)
