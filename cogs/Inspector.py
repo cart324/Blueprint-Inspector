@@ -331,6 +331,7 @@ class Inspection(commands.Cog):
                                 temp_craft["Class"] = temp_class
                                 crafts.append(temp_craft)
                                 class_pass = True
+                                break
 
                         if class_pass is False:
                             embed = discord.Embed(
