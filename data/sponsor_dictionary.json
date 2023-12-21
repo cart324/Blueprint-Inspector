@@ -9,7 +9,7 @@
 		},
 		"CV": {
 			"Repair": 12,
-			"Dron_max": 12,
+			"Drone_max": 12,
 			"Drone_min": 8,
 			"Ordnance": 192,
 			"Cell": 2000
